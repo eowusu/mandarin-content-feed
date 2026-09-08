@@ -1,0 +1,2731 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-09-08T17:23:53.743434+00:00",
+  "total_cards": 234,
+  "concepts": [
+    {
+      "id": "all",
+      "name": "All Concepts",
+      "emoji": "📚"
+    },
+    {
+      "id": "greetings",
+      "name": "Greetings & Basics",
+      "emoji": "👋"
+    },
+    {
+      "id": "introductions",
+      "name": "Introductions",
+      "emoji": "🤝"
+    },
+    {
+      "id": "time",
+      "name": "Time & Dates",
+      "emoji": "⏰"
+    },
+    {
+      "id": "numbers",
+      "name": "Numbers",
+      "emoji": "🔢"
+    },
+    {
+      "id": "countries",
+      "name": "Countries",
+      "emoji": "🌎"
+    },
+    {
+      "id": "food",
+      "name": "Food & Drink",
+      "emoji": "🍜"
+    },
+    {
+      "id": "weather",
+      "name": "Weather",
+      "emoji": "☀️"
+    },
+    {
+      "id": "verbs_adjectives",
+      "name": "Verbs & Adjectives",
+      "emoji": "🏃"
+    },
+    {
+      "id": "objects",
+      "name": "Objects & Nouns",
+      "emoji": "📱"
+    },
+    {
+      "id": "phrases",
+      "name": "General Phrases",
+      "emoji": "💬"
+    }
+  ],
+  "types": [
+    {
+      "id": "all",
+      "name": "All"
+    },
+    {
+      "id": "word",
+      "name": "Words"
+    },
+    {
+      "id": "number",
+      "name": "Numbers"
+    },
+    {
+      "id": "sentence",
+      "name": "Sentences"
+    }
+  ],
+  "cards": [
+    {
+      "id": "card_001",
+      "hanzi": "你好",
+      "pinyin": "nǐ hǎo",
+      "english": "Hello",
+      "type": "word",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_002",
+      "hanzi": "您好",
+      "pinyin": "nín hǎo",
+      "english": "Hello (respectful)",
+      "type": "word",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_003",
+      "hanzi": "你们好",
+      "pinyin": "nǐmen hǎo",
+      "english": "Hello (to plural you)",
+      "type": "word",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_004",
+      "hanzi": "老师好",
+      "pinyin": "lǎoshī hǎo",
+      "english": "Hello teacher",
+      "type": "word",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_005",
+      "hanzi": "早上好",
+      "pinyin": "zǎoshang hǎo",
+      "english": "Good morning!",
+      "type": "word",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_006",
+      "hanzi": "上午好",
+      "pinyin": "shàngwǔ hǎo",
+      "english": "Good morning! (late)",
+      "type": "word",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_007",
+      "hanzi": "中午好",
+      "pinyin": "zhōngwǔ hǎo",
+      "english": "Good noon!",
+      "type": "word",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_008",
+      "hanzi": "下午好",
+      "pinyin": "xiàwǔ hǎo",
+      "english": "Good afternoon!",
+      "type": "word",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_009",
+      "hanzi": "晚上好",
+      "pinyin": "wǎnshang hǎo",
+      "english": "Good evening!",
+      "type": "word",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_010",
+      "hanzi": "再见",
+      "pinyin": "zàijiàn",
+      "english": "Goodbye",
+      "type": "word",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_011",
+      "hanzi": "对不起",
+      "pinyin": "duìbuqǐ",
+      "english": "Sorry",
+      "type": "word",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_012",
+      "hanzi": "没关系 / 没事儿",
+      "pinyin": "méi guānxi / méi shìr",
+      "english": "No problem / It's okay",
+      "type": "word",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_013",
+      "hanzi": "不客气",
+      "pinyin": "bú kèqi",
+      "english": "You're welcome",
+      "type": "word",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_014",
+      "hanzi": "你",
+      "pinyin": "nǐ",
+      "english": "you",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_015",
+      "hanzi": "我",
+      "pinyin": "wǒ",
+      "english": "I, me",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_016",
+      "hanzi": "他",
+      "pinyin": "tā",
+      "english": "he, him",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_017",
+      "hanzi": "她",
+      "pinyin": "tā",
+      "english": "she, her",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_018",
+      "hanzi": "你们",
+      "pinyin": "nǐmen",
+      "english": "you (plural)",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_019",
+      "hanzi": "我们",
+      "pinyin": "wǒmen",
+      "english": "we, us",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_020",
+      "hanzi": "他们",
+      "pinyin": "tāmen",
+      "english": "they, them (males)",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_021",
+      "hanzi": "她们",
+      "pinyin": "tāmen",
+      "english": "they, them (females)",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_022",
+      "hanzi": "名字",
+      "pinyin": "míngzi",
+      "english": "name",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_023",
+      "hanzi": "什么",
+      "pinyin": "shénme",
+      "english": "what",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_024",
+      "hanzi": "叫",
+      "pinyin": "jiào",
+      "english": "call / be called",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_025",
+      "hanzi": "认识",
+      "pinyin": "rènshi",
+      "english": "know / be acquainted with",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_026",
+      "hanzi": "人",
+      "pinyin": "rén",
+      "english": "person, people",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_027",
+      "hanzi": "老师",
+      "pinyin": "lǎoshī",
+      "english": "teacher",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_028",
+      "hanzi": "学生",
+      "pinyin": "xuésheng",
+      "english": "student",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_029",
+      "hanzi": "哥哥",
+      "pinyin": "gēge",
+      "english": "older brother",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_030",
+      "hanzi": "谁",
+      "pinyin": "shuí",
+      "english": "who",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_031",
+      "hanzi": "憨豆先生",
+      "pinyin": "Hāndòu xiānsheng",
+      "english": "Mr. Bean",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_032",
+      "hanzi": "李小龙",
+      "pinyin": "Lǐ Xiǎolóng",
+      "english": "Bruce Lee",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_033",
+      "hanzi": "成龙",
+      "pinyin": "Chénglóng",
+      "english": "Jackie Chan",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_034",
+      "hanzi": "你叫什么名字？",
+      "pinyin": "Nǐ jiào shénme míngzì?",
+      "english": "What's your name?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_035",
+      "hanzi": "很高兴认识你。",
+      "pinyin": "Hěn gāoxìng rènshi nǐ.",
+      "english": "Nice to meet you.",
+      "type": "sentence",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_036",
+      "hanzi": "我也很高兴认识你。",
+      "pinyin": "Wǒ yě hěn gāoxìng rènshi nǐ.",
+      "english": "Nice to meet you too.",
+      "type": "sentence",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_037",
+      "hanzi": "你呢？",
+      "pinyin": "Nǐ ne?",
+      "english": "How about you?",
+      "type": "sentence",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_038",
+      "hanzi": "你的中文老师叫什么名字？",
+      "pinyin": "Nǐ de Zhōngwén lǎoshī jiào shénme míngzì?",
+      "english": "What's your Chinese teacher's name?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_039",
+      "hanzi": "你今天怎么样？",
+      "pinyin": "Nǐ jīntiān zěnmeyàng?",
+      "english": "How are you today?",
+      "type": "sentence",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_040",
+      "hanzi": "我是Ethan。",
+      "pinyin": "Wǒ shì Ethan.",
+      "english": "I'm Ethan.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_041",
+      "hanzi": "我叫Ethan。",
+      "pinyin": "Wǒ jiào Ethan.",
+      "english": "My name is Ethan.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_042",
+      "hanzi": "哪",
+      "pinyin": "nǎ",
+      "english": "which / where",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_043",
+      "hanzi": "中国人",
+      "pinyin": "Zhōngguórén",
+      "english": "Chinese person",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_044",
+      "hanzi": "美国人",
+      "pinyin": "Měiguórén",
+      "english": "American",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_045",
+      "hanzi": "英国人",
+      "pinyin": "Yīngguórén",
+      "english": "British",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_046",
+      "hanzi": "加拿大人",
+      "pinyin": "Jiānádàrén",
+      "english": "Canadian",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_047",
+      "hanzi": "泰国人",
+      "pinyin": "Tàiguórén",
+      "english": "Thai person",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_048",
+      "hanzi": "摩洛哥人",
+      "pinyin": "Móluògērén",
+      "english": "Moroccan person",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_049",
+      "hanzi": "日本",
+      "pinyin": "Rìběn",
+      "english": "Japan",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_050",
+      "hanzi": "俄罗斯",
+      "pinyin": "Éluósī",
+      "english": "Russia",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_051",
+      "hanzi": "澳大利亚",
+      "pinyin": "Àodàlìyà",
+      "english": "Australia",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_052",
+      "hanzi": "法国",
+      "pinyin": "Fǎguó",
+      "english": "France",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_053",
+      "hanzi": "墨西哥",
+      "pinyin": "Mòxīgē",
+      "english": "Mexico",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_054",
+      "hanzi": "埃及",
+      "pinyin": "Āijí",
+      "english": "Egypt",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_055",
+      "hanzi": "你是哪国人？",
+      "pinyin": "Nǐ shì nǎ guó rén?",
+      "english": "Which country are you from?",
+      "type": "sentence",
+      "concept": "countries"
+    },
+    {
+      "id": "card_056",
+      "hanzi": "他是哪国人？",
+      "pinyin": "Tā shì nǎ guó rén?",
+      "english": "What nationality is he?",
+      "type": "sentence",
+      "concept": "countries"
+    },
+    {
+      "id": "card_057",
+      "hanzi": "我是美国人，你呢？",
+      "pinyin": "Wǒ shì Měiguórén, nǐ ne?",
+      "english": "I come from America, and you?",
+      "type": "sentence",
+      "concept": "countries"
+    },
+    {
+      "id": "card_058",
+      "hanzi": "你去过埃及吗？",
+      "pinyin": "Nǐ qùguò Āijí ma?",
+      "english": "Have you ever been to Egypt?",
+      "type": "sentence",
+      "concept": "countries"
+    },
+    {
+      "id": "card_059",
+      "hanzi": "我没去过埃及。",
+      "pinyin": "Wǒ méi qùguò Āijí.",
+      "english": "I've never been to Egypt.",
+      "type": "sentence",
+      "concept": "countries"
+    },
+    {
+      "id": "card_060",
+      "hanzi": "零",
+      "pinyin": "líng",
+      "english": "zero",
+      "type": "number",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_061",
+      "hanzi": "一",
+      "pinyin": "yī",
+      "english": "one",
+      "type": "number",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_062",
+      "hanzi": "二",
+      "pinyin": "èr",
+      "english": "two",
+      "type": "number",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_063",
+      "hanzi": "三",
+      "pinyin": "sān",
+      "english": "three",
+      "type": "number",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_064",
+      "hanzi": "四",
+      "pinyin": "sì",
+      "english": "four",
+      "type": "number",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_065",
+      "hanzi": "五",
+      "pinyin": "wǔ",
+      "english": "five",
+      "type": "number",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_066",
+      "hanzi": "六",
+      "pinyin": "liù",
+      "english": "six",
+      "type": "number",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_067",
+      "hanzi": "七",
+      "pinyin": "qī",
+      "english": "seven",
+      "type": "number",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_068",
+      "hanzi": "八",
+      "pinyin": "bā",
+      "english": "eight",
+      "type": "number",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_069",
+      "hanzi": "九",
+      "pinyin": "jiǔ",
+      "english": "nine",
+      "type": "number",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_070",
+      "hanzi": "十",
+      "pinyin": "shí",
+      "english": "ten",
+      "type": "number",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_071",
+      "hanzi": "一百",
+      "pinyin": "yìbǎi",
+      "english": "100 (one hundred)",
+      "type": "number",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_072",
+      "hanzi": "两百",
+      "pinyin": "liǎng bǎi",
+      "english": "200 (two hundred)",
+      "type": "number",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_073",
+      "hanzi": "一千",
+      "pinyin": "yìqiān",
+      "english": "1,000 (one thousand)",
+      "type": "number",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_074",
+      "hanzi": "两千",
+      "pinyin": "liǎng qiān",
+      "english": "2,000 (two thousand)",
+      "type": "number",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_075",
+      "hanzi": "一万",
+      "pinyin": "yíwàn",
+      "english": "10,000 (ten thousand)",
+      "type": "number",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_076",
+      "hanzi": "两万",
+      "pinyin": "liǎng wàn",
+      "english": "20,000 (twenty thousand)",
+      "type": "number",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_077",
+      "hanzi": "月",
+      "pinyin": "yuè",
+      "english": "month",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_078",
+      "hanzi": "一月",
+      "pinyin": "yī yuè",
+      "english": "January",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_079",
+      "hanzi": "二月",
+      "pinyin": "èr yuè",
+      "english": "February",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_080",
+      "hanzi": "三月",
+      "pinyin": "sān yuè",
+      "english": "March",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_081",
+      "hanzi": "四月",
+      "pinyin": "sì yuè",
+      "english": "April",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_082",
+      "hanzi": "五月",
+      "pinyin": "wǔ yuè",
+      "english": "May",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_083",
+      "hanzi": "六月",
+      "pinyin": "liù yuè",
+      "english": "June",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_084",
+      "hanzi": "七月",
+      "pinyin": "qī yuè",
+      "english": "July",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_085",
+      "hanzi": "八月",
+      "pinyin": "bā yuè",
+      "english": "August",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_086",
+      "hanzi": "九月",
+      "pinyin": "jiǔ yuè",
+      "english": "September",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_087",
+      "hanzi": "十月",
+      "pinyin": "shí yuè",
+      "english": "October",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_088",
+      "hanzi": "十一月",
+      "pinyin": "shíyī yuè",
+      "english": "November",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_089",
+      "hanzi": "十二月",
+      "pinyin": "shíèr yuè",
+      "english": "December",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_090",
+      "hanzi": "星期 / 周",
+      "pinyin": "xīngqī / zhōu",
+      "english": "week",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_091",
+      "hanzi": "星期一 / 周一",
+      "pinyin": "xīngqīyī / zhōuyī",
+      "english": "Monday",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_092",
+      "hanzi": "星期二",
+      "pinyin": "xīngqīèr",
+      "english": "Tuesday",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_093",
+      "hanzi": "星期三",
+      "pinyin": "xīngqīsān",
+      "english": "Wednesday",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_094",
+      "hanzi": "星期四",
+      "pinyin": "xīngqīsì",
+      "english": "Thursday",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_095",
+      "hanzi": "星期五",
+      "pinyin": "xīngqīwǔ",
+      "english": "Friday",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_096",
+      "hanzi": "星期六",
+      "pinyin": "xīngqīliù",
+      "english": "Saturday",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_097",
+      "hanzi": "星期日 / 星期天",
+      "pinyin": "xīngqīrì / xīngqītiān",
+      "english": "Sunday",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_098",
+      "hanzi": "周末",
+      "pinyin": "zhōumò",
+      "english": "weekend",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_099",
+      "hanzi": "号 / 日",
+      "pinyin": "hào / rì",
+      "english": "date / day of month",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_100",
+      "hanzi": "前天",
+      "pinyin": "qiántiān",
+      "english": "the day before yesterday",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_101",
+      "hanzi": "昨天",
+      "pinyin": "zuótiān",
+      "english": "yesterday",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_102",
+      "hanzi": "今天",
+      "pinyin": "jīntiān",
+      "english": "today",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_103",
+      "hanzi": "明天",
+      "pinyin": "míngtiān",
+      "english": "tomorrow",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_104",
+      "hanzi": "后天",
+      "pinyin": "hòutiān",
+      "english": "the day after tomorrow",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_105",
+      "hanzi": "前年",
+      "pinyin": "qiánnián",
+      "english": "the year before last",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_106",
+      "hanzi": "去年",
+      "pinyin": "qùnián",
+      "english": "last year",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_107",
+      "hanzi": "今年",
+      "pinyin": "jīnnián",
+      "english": "this year",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_108",
+      "hanzi": "明年",
+      "pinyin": "míngnián",
+      "english": "next year",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_109",
+      "hanzi": "后年",
+      "pinyin": "hòunián",
+      "english": "the year after next",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_110",
+      "hanzi": "上个月",
+      "pinyin": "shàng gè yuè",
+      "english": "last month",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_111",
+      "hanzi": "这个月",
+      "pinyin": "zhège yuè",
+      "english": "this month",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_112",
+      "hanzi": "下个月",
+      "pinyin": "xià gè yuè",
+      "english": "next month",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_113",
+      "hanzi": "上个星期 / 上周",
+      "pinyin": "shàng gè xīngqī / shàng zhōu",
+      "english": "last week",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_114",
+      "hanzi": "这个星期 / 这周",
+      "pinyin": "zhège xīngqī / zhè zhōu",
+      "english": "this week",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_115",
+      "hanzi": "下个星期 / 下周",
+      "pinyin": "xià gè xīngqī / xià zhōu",
+      "english": "next week",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_116",
+      "hanzi": "月末",
+      "pinyin": "yuèmò",
+      "english": "end of the month",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_117",
+      "hanzi": "年末",
+      "pinyin": "niánmò",
+      "english": "end of the year",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_118",
+      "hanzi": "一个星期 / 一周",
+      "pinyin": "yí gè xīngqī / yì zhōu",
+      "english": "one week",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_119",
+      "hanzi": "点",
+      "pinyin": "diǎn",
+      "english": "o'clock / dot",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_120",
+      "hanzi": "分",
+      "pinyin": "fēn",
+      "english": "minute",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_121",
+      "hanzi": "几点",
+      "pinyin": "jǐ diǎn",
+      "english": "What time?",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_122",
+      "hanzi": "半",
+      "pinyin": "bàn",
+      "english": "half",
+      "type": "word",
+      "concept": "time",
+      "portions": true
+    },
+    {
+      "id": "card_123",
+      "hanzi": "刻",
+      "pinyin": "kè",
+      "english": "quarter",
+      "type": "word",
+      "concept": "time",
+      "portions": true
+    },
+    {
+      "id": "card_124",
+      "hanzi": "差",
+      "pinyin": "chà",
+      "english": "to be short of",
+      "type": "word",
+      "concept": "time",
+      "portions": true
+    },
+    {
+      "id": "card_125",
+      "hanzi": "早上",
+      "pinyin": "zǎoshang",
+      "english": "early morning",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_126",
+      "hanzi": "上午",
+      "pinyin": "shàngwǔ",
+      "english": "late morning",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_127",
+      "hanzi": "中午",
+      "pinyin": "zhōngwǔ",
+      "english": "noon",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_128",
+      "hanzi": "下午",
+      "pinyin": "xiàwǔ",
+      "english": "afternoon",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_129",
+      "hanzi": "晚上",
+      "pinyin": "wǎnshang",
+      "english": "evening",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_130",
+      "hanzi": "现在",
+      "pinyin": "xiànzài",
+      "english": "now",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_131",
+      "hanzi": "九点",
+      "pinyin": "jiǔ diǎn",
+      "english": "9:00",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_132",
+      "hanzi": "十二点三十分",
+      "pinyin": "shíèr diǎn sānshí fēn",
+      "english": "12:30",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_133",
+      "hanzi": "九点半",
+      "pinyin": "jiǔ diǎn bàn",
+      "english": "9:30",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_134",
+      "hanzi": "八点一刻",
+      "pinyin": "bā diǎn yí kè",
+      "english": "8:15",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_135",
+      "hanzi": "十一点三刻",
+      "pinyin": "shíyī diǎn sān kè",
+      "english": "11:45",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_136",
+      "hanzi": "差十分两点",
+      "pinyin": "chà shí fēn liǎng diǎn",
+      "english": "1:50",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_137",
+      "hanzi": "今天几月几号？",
+      "pinyin": "Jīntiān jǐ yuè jǐ hào?",
+      "english": "What is the date today?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_138",
+      "hanzi": "今天星期几？",
+      "pinyin": "Jīntiān xīngqī jǐ?",
+      "english": "What day is it today?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_139",
+      "hanzi": "今天星期二。",
+      "pinyin": "Jīntiān xīngqīèr.",
+      "english": "Today is Tuesday.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_140",
+      "hanzi": "今天27号/日。",
+      "pinyin": "Jīntiān èrshíqī hào/rì.",
+      "english": "Today is the 27th.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_141",
+      "hanzi": "2026年8月27号星期四",
+      "pinyin": "èr líng èr liù nián bā yuè èrshíqī hào xīngqīsì",
+      "english": "Thursday, August 27, 2026",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_142",
+      "hanzi": "早上七点十分",
+      "pinyin": "zǎoshang qī diǎn shí fēn",
+      "english": "7:10am",
+      "type": "phrase",
+      "concept": "time"
+    },
+    {
+      "id": "card_143",
+      "hanzi": "明天上午十点半",
+      "pinyin": "míngtiān shàngwǔ shí diǎn bàn",
+      "english": "10:30am tomorrow",
+      "type": "phrase",
+      "concept": "time"
+    },
+    {
+      "id": "card_144",
+      "hanzi": "昨天中午十二点",
+      "pinyin": "zuótiān zhōngwǔ shíèr diǎn",
+      "english": "12:00pm yesterday",
+      "type": "phrase",
+      "concept": "time"
+    },
+    {
+      "id": "card_145",
+      "hanzi": "星期一下午两点一刻",
+      "pinyin": "xīngqīyī xiàwǔ liǎng diǎn yí kè",
+      "english": "2:15pm on Monday",
+      "type": "phrase",
+      "concept": "time"
+    },
+    {
+      "id": "card_146",
+      "hanzi": "十月十二号晚上十点三刻",
+      "pinyin": "shí yuè shíèr hào wǎnshang shí diǎn sān kè",
+      "english": "10:45pm on October 12th",
+      "type": "phrase",
+      "concept": "time"
+    },
+    {
+      "id": "card_147",
+      "hanzi": "现在几点？",
+      "pinyin": "Xiànzài jǐ diǎn?",
+      "english": "What time is it now?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_148",
+      "hanzi": "现在四点二十分。",
+      "pinyin": "Xiànzài sì diǎn èrshí fēn.",
+      "english": "It is 4:20 now.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_149",
+      "hanzi": "去年是哪年？",
+      "pinyin": "Qùnián shì nǎ nián?",
+      "english": "What year was last year?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_150",
+      "hanzi": "六月二十五号是雪丽的生日。",
+      "pinyin": "Liù yuè èrshíwǔ hào shì Xuělì de shēngrì.",
+      "english": "June 25th is Xueli's birthday.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_151",
+      "hanzi": "热",
+      "pinyin": "rè",
+      "english": "hot",
+      "type": "word",
+      "concept": "weather"
+    },
+    {
+      "id": "card_152",
+      "hanzi": "下雨",
+      "pinyin": "xiàyǔ",
+      "english": "to rain",
+      "type": "word",
+      "concept": "weather"
+    },
+    {
+      "id": "card_153",
+      "hanzi": "夏天",
+      "pinyin": "xiàtiān",
+      "english": "summer",
+      "type": "word",
+      "concept": "weather"
+    },
+    {
+      "id": "card_154",
+      "hanzi": "你那里今天热吗？",
+      "pinyin": "Nǐ nàlǐ jīntiān rè ma?",
+      "english": "Is it hot where you are today?",
+      "type": "sentence",
+      "concept": "weather"
+    },
+    {
+      "id": "card_155",
+      "hanzi": "我这里今天不热。昨天也不热。",
+      "pinyin": "Wǒ zhèlǐ jīntiān bú rè. Zuótiān yě bú rè.",
+      "english": "It's not hot here today. It wasn't hot yesterday either.",
+      "type": "sentence",
+      "concept": "weather"
+    },
+    {
+      "id": "card_156",
+      "hanzi": "今天太热了。",
+      "pinyin": "Jīntiān tài rè le.",
+      "english": "It's too hot today.",
+      "type": "sentence",
+      "concept": "weather"
+    },
+    {
+      "id": "card_157",
+      "hanzi": "昨天下雨了。",
+      "pinyin": "Zuótiān xiàyǔ le.",
+      "english": "It rained yesterday.",
+      "type": "sentence",
+      "concept": "weather"
+    },
+    {
+      "id": "card_158",
+      "hanzi": "上个月我在中国，中国很热。",
+      "pinyin": "Shàng gè yuè wǒ zài Zhōngguó, Zhōngguó hěn rè.",
+      "english": "I was in China last month. It was very hot in China.",
+      "type": "sentence",
+      "concept": "weather"
+    },
+    {
+      "id": "card_159",
+      "hanzi": "中国今年夏天很热。",
+      "pinyin": "Zhōngguó jīnnián xiàtiān hěn rè.",
+      "english": "China is very hot this summer.",
+      "type": "sentence",
+      "concept": "weather"
+    },
+    {
+      "id": "card_160",
+      "hanzi": "是",
+      "pinyin": "shì",
+      "english": "to be",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_161",
+      "hanzi": "吃",
+      "pinyin": "chī",
+      "english": "eat / eat food",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_162",
+      "hanzi": "喜欢",
+      "pinyin": "xǐhuan",
+      "english": "like",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_163",
+      "hanzi": "觉得",
+      "pinyin": "juéde",
+      "english": "think / feel",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_164",
+      "hanzi": "去",
+      "pinyin": "qù",
+      "english": "go",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_165",
+      "hanzi": "很",
+      "pinyin": "hěn",
+      "english": "very",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_166",
+      "hanzi": "也",
+      "pinyin": "yě",
+      "english": "also, too",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_167",
+      "hanzi": "不",
+      "pinyin": "bù",
+      "english": "no, not",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_168",
+      "hanzi": "但是",
+      "pinyin": "dànshì",
+      "english": "but",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_169",
+      "hanzi": "做运动",
+      "pinyin": "zuò yùndòng",
+      "english": "exercise / work out",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_170",
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "english": "good, fine",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_171",
+      "hanzi": "饿",
+      "pinyin": "è",
+      "english": "hungry",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_172",
+      "hanzi": "渴",
+      "pinyin": "kě",
+      "english": "thirsty",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_173",
+      "hanzi": "忙",
+      "pinyin": "máng",
+      "english": "busy",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_174",
+      "hanzi": "累",
+      "pinyin": "lèi",
+      "english": "tired",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_175",
+      "hanzi": "漂亮",
+      "pinyin": "piàoliang",
+      "english": "pretty",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_176",
+      "hanzi": "帅",
+      "pinyin": "shuài",
+      "english": "handsome",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_177",
+      "hanzi": "高",
+      "pinyin": "gāo",
+      "english": "tall / high",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_178",
+      "hanzi": "好看",
+      "pinyin": "hǎokàn",
+      "english": "pretty / good-looking",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_179",
+      "hanzi": "好吃",
+      "pinyin": "hǎochī",
+      "english": "delicious",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_180",
+      "hanzi": "好喝",
+      "pinyin": "hǎohē",
+      "english": "tasty / good to drink",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_181",
+      "hanzi": "好玩儿",
+      "pinyin": "hǎowánr",
+      "english": "fun",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_182",
+      "hanzi": "手机",
+      "pinyin": "shǒujī",
+      "english": "phone / cellphone",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_183",
+      "hanzi": "电话号码",
+      "pinyin": "diànhuà hàomǎ",
+      "english": "phone number",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_184",
+      "hanzi": "邮箱",
+      "pinyin": "yóuxiāng",
+      "english": "email",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_185",
+      "hanzi": "地图",
+      "pinyin": "dìtú",
+      "english": "map",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_186",
+      "hanzi": "飞机",
+      "pinyin": "fēijī",
+      "english": "airplane",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_187",
+      "hanzi": "毛笔",
+      "pinyin": "máobǐ",
+      "english": "writing brush",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_188",
+      "hanzi": "耳机",
+      "pinyin": "ěrjī",
+      "english": "headphones",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_189",
+      "hanzi": "鸟",
+      "pinyin": "niǎo",
+      "english": "bird",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_190",
+      "hanzi": "毽子",
+      "pinyin": "jiànzi",
+      "english": "shuttlecock",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_191",
+      "hanzi": "这",
+      "pinyin": "zhè",
+      "english": "this",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_192",
+      "hanzi": "那",
+      "pinyin": "nà",
+      "english": "that",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_193",
+      "hanzi": "的",
+      "pinyin": "de",
+      "english": "of (possessive particle)",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_194",
+      "hanzi": "我的",
+      "pinyin": "wǒ de",
+      "english": "my / mine",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_195",
+      "hanzi": "多少",
+      "pinyin": "duōshao",
+      "english": "how many / how much",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_196",
+      "hanzi": "你的电话号码是多少？",
+      "pinyin": "Nǐ de diànhuà hàomǎ shì duōshao?",
+      "english": "What's your phone number?",
+      "type": "sentence",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_197",
+      "hanzi": "您的电话号码是多少？",
+      "pinyin": "Nín de diànhuà hàomǎ shì duōshao?",
+      "english": "What is your phone number? (respectful)",
+      "type": "sentence",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_198",
+      "hanzi": "您的邮箱是什么？",
+      "pinyin": "Nín de yóuxiāng shì shénme?",
+      "english": "What is your email address? (respectful)",
+      "type": "sentence",
+      "concept": "objects"
+    },
+    {
+      "id": "card_199",
+      "hanzi": "西瓜",
+      "pinyin": "xīguā",
+      "english": "watermelon",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_200",
+      "hanzi": "苹果",
+      "pinyin": "píngguǒ",
+      "english": "apple",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_201",
+      "hanzi": "半个苹果",
+      "pinyin": "bàn gè píngguǒ",
+      "english": "Half an apple",
+      "type": "phrase",
+      "concept": "food"
+    },
+    {
+      "id": "card_202",
+      "hanzi": "半个西瓜",
+      "pinyin": "bàn gè xīguā",
+      "english": "Half a watermelon",
+      "type": "phrase",
+      "concept": "food"
+    },
+    {
+      "id": "card_203",
+      "hanzi": "披萨",
+      "pinyin": "pīsà",
+      "english": "pizza",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_204",
+      "hanzi": "早饭",
+      "pinyin": "zǎofàn",
+      "english": "breakfast",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_205",
+      "hanzi": "午饭 / 中饭",
+      "pinyin": "wǔfàn / zhōngfàn",
+      "english": "lunch",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_206",
+      "hanzi": "晚饭",
+      "pinyin": "wǎnfàn",
+      "english": "dinner",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_207",
+      "hanzi": "吃饭",
+      "pinyin": "chīfàn",
+      "english": "eat a meal",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_208",
+      "hanzi": "北京烤鸭",
+      "pinyin": "Běijīng kǎoyā",
+      "english": "Peking duck",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_209",
+      "hanzi": "宫保鸡丁",
+      "pinyin": "Gōngbǎo jīdīng",
+      "english": "Kung Pao chicken",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_210",
+      "hanzi": "饺子",
+      "pinyin": "jiǎozi",
+      "english": "dumplings",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_211",
+      "hanzi": "粽子",
+      "pinyin": "zòngzi",
+      "english": "zongzi / sticky rice dumplings",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_212",
+      "hanzi": "咖啡",
+      "pinyin": "kāfēi",
+      "english": "coffee",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_213",
+      "hanzi": "可乐",
+      "pinyin": "kělè",
+      "english": "cola",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_214",
+      "hanzi": "火锅",
+      "pinyin": "huǒguō",
+      "english": "hotpot",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_215",
+      "hanzi": "中国菜",
+      "pinyin": "Zhōngguócài",
+      "english": "Chinese food",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_216",
+      "hanzi": "你吃披萨吗？",
+      "pinyin": "Nǐ chī pīsà ma?",
+      "english": "Do you eat pizza?",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_217",
+      "hanzi": "我不吃，谢谢。我不饿。",
+      "pinyin": "Wǒ bù chī, xièxie. Wǒ bú è.",
+      "english": "I don't eat it, thanks. I am not hungry.",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_218",
+      "hanzi": "你几点吃早饭？",
+      "pinyin": "Nǐ jǐ diǎn chī zǎofàn?",
+      "english": "What time do you eat breakfast?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_219",
+      "hanzi": "你今天几点吃的午饭？",
+      "pinyin": "Nǐ jīntiān jǐ diǎn chī de wǔfàn?",
+      "english": "What time did you have lunch today?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_220",
+      "hanzi": "我今天12点吃的午饭。",
+      "pinyin": "Wǒ jīntiān shíèr diǎn chī de wǔfàn.",
+      "english": "I had lunch at 12 today.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_221",
+      "hanzi": "西瓜好吃吗？",
+      "pinyin": "Xīguā hǎo chī ma?",
+      "english": "Is watermelon good?",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_222",
+      "hanzi": "你喜欢吃西瓜吗？",
+      "pinyin": "Nǐ xǐhuan chī xīguā ma?",
+      "english": "Do you like eating watermelon?",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_223",
+      "hanzi": "我渴了 / 我很渴。",
+      "pinyin": "Wǒ kě le / Wǒ hěn kě.",
+      "english": "I'm thirsty.",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_224",
+      "hanzi": "我很饿。",
+      "pinyin": "Wǒ hěn è.",
+      "english": "I am very hungry.",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_225",
+      "hanzi": "我饿了。",
+      "pinyin": "Wǒ è le.",
+      "english": "I'm hungry.",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_226",
+      "hanzi": "你饿吗？",
+      "pinyin": "Nǐ è ma?",
+      "english": "Are you hungry?",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_227",
+      "hanzi": "我也很饿。",
+      "pinyin": "Wǒ yě hěn è.",
+      "english": "I am hungry, too.",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_228",
+      "hanzi": "他很有趣。",
+      "pinyin": "Tā hěn yǒuqù.",
+      "english": "He is interesting.",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_229",
+      "hanzi": "这个不好看。",
+      "pinyin": "Zhège bù hǎokàn.",
+      "english": "This is not pretty.",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_230",
+      "hanzi": "这个是谁的？",
+      "pinyin": "Zhège shì shuí de?",
+      "english": "Whose is this?",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_231",
+      "hanzi": "我下课吃饭。",
+      "pinyin": "Wǒ xiàkè chīfàn.",
+      "english": "I'll eat after class.",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_232",
+      "hanzi": "你今天做运动了吗？",
+      "pinyin": "Nǐ jīntiān zuò yùndòng le ma?",
+      "english": "Did you exercise today?",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_233",
+      "hanzi": "我今天没做运动。",
+      "pinyin": "Wǒ jīntiān méi zuò yùndòng.",
+      "english": "I didn't exercise today.",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_234",
+      "hanzi": "太好了！",
+      "pinyin": "Tài hǎo le!",
+      "english": "That's great!",
+      "type": "sentence",
+      "concept": "phrases"
+    }
+  ],
+  "char_dictionary": {
+    "你": {
+      "pinyin": "nǐ",
+      "english": "you"
+    },
+    "我": {
+      "pinyin": "wǒ",
+      "english": "I / me"
+    },
+    "他": {
+      "pinyin": "tā",
+      "english": "he / him"
+    },
+    "她": {
+      "pinyin": "tā",
+      "english": "she / her"
+    },
+    "您": {
+      "pinyin": "nín",
+      "english": "you (polite)"
+    },
+    "们": {
+      "pinyin": "men",
+      "english": "plural suffix"
+    },
+    "人": {
+      "pinyin": "rén",
+      "english": "person"
+    },
+    "老": {
+      "pinyin": "lǎo",
+      "english": "old / venerable"
+    },
+    "师": {
+      "pinyin": "shī",
+      "english": "teacher / master"
+    },
+    "学": {
+      "pinyin": "xué",
+      "english": "study / learn"
+    },
+    "生": {
+      "pinyin": "shēng",
+      "english": "student / born"
+    },
+    "哥": {
+      "pinyin": "gē",
+      "english": "elder brother"
+    },
+    "好": {
+      "pinyin": "hǎo",
+      "english": "good"
+    },
+    "再": {
+      "pinyin": "zài",
+      "english": "again"
+    },
+    "见": {
+      "pinyin": "jiàn",
+      "english": "see / meet"
+    },
+    "对": {
+      "pinyin": "duì",
+      "english": "correct / towards"
+    },
+    "不": {
+      "pinyin": "bù",
+      "english": "not / no"
+    },
+    "起": {
+      "pinyin": "qǐ",
+      "english": "rise / start"
+    },
+    "没": {
+      "pinyin": "méi",
+      "english": "have not / no"
+    },
+    "关": {
+      "pinyin": "guān",
+      "english": "close / relate"
+    },
+    "系": {
+      "pinyin": "xì",
+      "english": "connection / system"
+    },
+    "事": {
+      "pinyin": "shì",
+      "english": "matter / thing"
+    },
+    "儿": {
+      "pinyin": "r",
+      "english": "noun suffix"
+    },
+    "客": {
+      "pinyin": "kè",
+      "english": "guest"
+    },
+    "气": {
+      "pinyin": "qì",
+      "english": "air / spirit"
+    },
+    "叫": {
+      "pinyin": "jiào",
+      "english": "call / named"
+    },
+    "什": {
+      "pinyin": "shén",
+      "english": "what"
+    },
+    "么": {
+      "pinyin": "me",
+      "english": "suffix"
+    },
+    "名": {
+      "pinyin": "míng",
+      "english": "name"
+    },
+    "字": {
+      "pinyin": "zì",
+      "english": "character / word"
+    },
+    "呢": {
+      "pinyin": "ne",
+      "english": "question particle"
+    },
+    "是": {
+      "pinyin": "shì",
+      "english": "is / are / am"
+    },
+    "哪": {
+      "pinyin": "nǎ",
+      "english": "which / where"
+    },
+    "这": {
+      "pinyin": "zhè",
+      "english": "this"
+    },
+    "那": {
+      "pinyin": "nà",
+      "english": "that"
+    },
+    "的": {
+      "pinyin": "de",
+      "english": "possessive particle"
+    },
+    "吗": {
+      "pinyin": "ma",
+      "english": "question particle"
+    },
+    "了": {
+      "pinyin": "le",
+      "english": "completed action"
+    },
+    "个": {
+      "pinyin": "ge",
+      "english": "measure word"
+    },
+    "谁": {
+      "pinyin": "shuí",
+      "english": "who"
+    },
+    "几": {
+      "pinyin": "jǐ",
+      "english": "how many"
+    },
+    "多": {
+      "pinyin": "duō",
+      "english": "many / much"
+    },
+    "少": {
+      "pinyin": "shǎo",
+      "english": "few / little"
+    },
+    "怎": {
+      "pinyin": "zěn",
+      "english": "how"
+    },
+    "样": {
+      "pinyin": "yàng",
+      "english": "appearance / shape"
+    },
+    "零": {
+      "pinyin": "líng",
+      "english": "zero"
+    },
+    "一": {
+      "pinyin": "yī",
+      "english": "one"
+    },
+    "二": {
+      "pinyin": "èr",
+      "english": "two"
+    },
+    "两": {
+      "pinyin": "liǎng",
+      "english": "two (quantities)"
+    },
+    "三": {
+      "pinyin": "sān",
+      "english": "three"
+    },
+    "四": {
+      "pinyin": "sì",
+      "english": "four"
+    },
+    "五": {
+      "pinyin": "wǔ",
+      "english": "five"
+    },
+    "六": {
+      "pinyin": "liù",
+      "english": "six"
+    },
+    "七": {
+      "pinyin": "qī",
+      "english": "seven"
+    },
+    "八": {
+      "pinyin": "bā",
+      "english": "eight"
+    },
+    "九": {
+      "pinyin": "jiǔ",
+      "english": "nine"
+    },
+    "十": {
+      "pinyin": "shí",
+      "english": "ten"
+    },
+    "百": {
+      "pinyin": "bǎi",
+      "english": "hundred"
+    },
+    "千": {
+      "pinyin": "qiān",
+      "english": "thousand"
+    },
+    "万": {
+      "pinyin": "wàn",
+      "english": "ten thousand"
+    },
+    "天": {
+      "pinyin": "tiān",
+      "english": "day / sky"
+    },
+    "昨": {
+      "pinyin": "zuó",
+      "english": "yesterday"
+    },
+    "今": {
+      "pinyin": "jīn",
+      "english": "today / present"
+    },
+    "明": {
+      "pinyin": "míng",
+      "english": "tomorrow / bright"
+    },
+    "后": {
+      "pinyin": "hòu",
+      "english": "after / behind"
+    },
+    "前": {
+      "pinyin": "qián",
+      "english": "before / front"
+    },
+    "年": {
+      "pinyin": "nián",
+      "english": "year"
+    },
+    "去": {
+      "pinyin": "qù",
+      "english": "go / past"
+    },
+    "月": {
+      "pinyin": "yuè",
+      "english": "month / moon"
+    },
+    "日": {
+      "pinyin": "rì",
+      "english": "day / sun"
+    },
+    "号": {
+      "pinyin": "hào",
+      "english": "number / date"
+    },
+    "星": {
+      "pinyin": "xīng",
+      "english": "star"
+    },
+    "期": {
+      "pinyin": "qī",
+      "english": "period of time"
+    },
+    "上": {
+      "pinyin": "shàng",
+      "english": "up / previous"
+    },
+    "下": {
+      "pinyin": "xià",
+      "english": "down / next"
+    },
+    "周": {
+      "pinyin": "zhōu",
+      "english": "week / circumference"
+    },
+    "末": {
+      "pinyin": "mò",
+      "english": "end / final"
+    },
+    "点": {
+      "pinyin": "diǎn",
+      "english": "o'clock / dot"
+    },
+    "分": {
+      "pinyin": "fēn",
+      "english": "minute"
+    },
+    "刻": {
+      "pinyin": "kè",
+      "english": "quarter"
+    },
+    "半": {
+      "pinyin": "bàn",
+      "english": "half"
+    },
+    "差": {
+      "pinyin": "chà",
+      "english": "to be short of"
+    },
+    "早": {
+      "pinyin": "zǎo",
+      "english": "early / morning"
+    },
+    "晚": {
+      "pinyin": "wǎn",
+      "english": "late / night"
+    },
+    "现": {
+      "pinyin": "xiàn",
+      "english": "appear / present"
+    },
+    "在": {
+      "pinyin": "zài",
+      "english": "at / exist"
+    },
+    "热": {
+      "pinyin": "rè",
+      "english": "hot"
+    },
+    "雨": {
+      "pinyin": "yǔ",
+      "english": "rain"
+    },
+    "夏": {
+      "pinyin": "xià",
+      "english": "summer"
+    },
+    "很": {
+      "pinyin": "hěn",
+      "english": "very"
+    },
+    "高": {
+      "pinyin": "gāo",
+      "english": "tall / high"
+    },
+    "兴": {
+      "pinyin": "xìng",
+      "english": "mood / interest"
+    },
+    "漂": {
+      "pinyin": "piào",
+      "english": "elegant"
+    },
+    "亮": {
+      "pinyin": "liang",
+      "english": "bright"
+    },
+    "帅": {
+      "pinyin": "shuài",
+      "english": "handsome"
+    },
+    "饿": {
+      "pinyin": "è",
+      "english": "hungry"
+    },
+    "渴": {
+      "pinyin": "kě",
+      "english": "thirsty"
+    },
+    "忙": {
+      "pinyin": "máng",
+      "english": "busy"
+    },
+    "累": {
+      "pinyin": "lèi",
+      "english": "tired"
+    },
+    "认": {
+      "pinyin": "rèn",
+      "english": "recognize"
+    },
+    "识": {
+      "pinyin": "shi",
+      "english": "know"
+    },
+    "吃": {
+      "pinyin": "chī",
+      "english": "eat"
+    },
+    "饭": {
+      "pinyin": "fàn",
+      "english": "meal / cooked rice"
+    },
+    "课": {
+      "pinyin": "kè",
+      "english": "class / lesson"
+    },
+    "喝": {
+      "pinyin": "hē",
+      "english": "drink"
+    },
+    "喜": {
+      "pinyin": "xǐ",
+      "english": "fond of"
+    },
+    "欢": {
+      "pinyin": "huan",
+      "english": "joyous"
+    },
+    "觉": {
+      "pinyin": "jué",
+      "english": "feel"
+    },
+    "得": {
+      "pinyin": "de",
+      "english": "particle"
+    },
+    "但": {
+      "pinyin": "dàn",
+      "english": "but"
+    },
+    "看": {
+      "pinyin": "kàn",
+      "english": "look / see"
+    },
+    "玩": {
+      "pinyin": "wán",
+      "english": "play"
+    },
+    "有": {
+      "pinyin": "yǒu",
+      "english": "have"
+    },
+    "做": {
+      "pinyin": "zuò",
+      "english": "do / make"
+    },
+    "运": {
+      "pinyin": "yùn",
+      "english": "move / transport"
+    },
+    "动": {
+      "pinyin": "dòng",
+      "english": "move / act"
+    },
+    "雪": {
+      "pinyin": "xuě",
+      "english": "snow"
+    },
+    "丽": {
+      "pinyin": "lì",
+      "english": "beautiful"
+    },
+    "太": {
+      "pinyin": "tài",
+      "english": "too / extremely"
+    },
+    "谢": {
+      "pinyin": "xiè",
+      "english": "thank"
+    },
+    "里": {
+      "pinyin": "lǐ",
+      "english": "inside / place"
+    },
+    "国": {
+      "pinyin": "guó",
+      "english": "country"
+    },
+    "中": {
+      "pinyin": "zhōng",
+      "english": "middle"
+    },
+    "美": {
+      "pinyin": "měi",
+      "english": "beautiful"
+    },
+    "英": {
+      "pinyin": "yīng",
+      "english": "hero / UK"
+    },
+    "加": {
+      "pinyin": "jiā",
+      "english": "add"
+    },
+    "拿": {
+      "pinyin": "ná",
+      "english": "take / hold"
+    },
+    "大": {
+      "pinyin": "dà",
+      "english": "big"
+    },
+    "本": {
+      "pinyin": "běn",
+      "english": "root / origin"
+    },
+    "俄": {
+      "pinyin": "é",
+      "english": "Russia (phonetic)"
+    },
+    "罗": {
+      "pinyin": "luó",
+      "english": "net (phonetic)"
+    },
+    "斯": {
+      "pinyin": "sī",
+      "english": "this (phonetic)"
+    },
+    "澳": {
+      "pinyin": "ào",
+      "english": "bay (phonetic)"
+    },
+    "利": {
+      "pinyin": "lì",
+      "english": "profit"
+    },
+    "亚": {
+      "pinyin": "yà",
+      "english": "Asia"
+    },
+    "法": {
+      "pinyin": "fǎ",
+      "english": "law / France"
+    },
+    "墨": {
+      "pinyin": "mò",
+      "english": "ink"
+    },
+    "西": {
+      "pinyin": "xī",
+      "english": "west"
+    },
+    "摩": {
+      "pinyin": "mó",
+      "english": "rub (phonetic)"
+    },
+    "洛": {
+      "pinyin": "luò",
+      "english": "river (phonetic)"
+    },
+    "泰": {
+      "pinyin": "tài",
+      "english": "safe / peace"
+    },
+    "埃": {
+      "pinyin": "āi",
+      "english": "dust / Egypt (phonetic)"
+    },
+    "及": {
+      "pinyin": "jí",
+      "english": "reach / Egypt (phonetic)"
+    },
+    "电": {
+      "pinyin": "diàn",
+      "english": "electricity"
+    },
+    "话": {
+      "pinyin": "huà",
+      "english": "speech / words"
+    },
+    "码": {
+      "pinyin": "mǎ",
+      "english": "code / number"
+    },
+    "邮": {
+      "pinyin": "yóu",
+      "english": "post / mail"
+    },
+    "箱": {
+      "pinyin": "xiāng",
+      "english": "box / trunk"
+    },
+    "手": {
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    "机": {
+      "pinyin": "jī",
+      "english": "machine"
+    },
+    "瓜": {
+      "pinyin": "guā",
+      "english": "melon"
+    },
+    "北": {
+      "pinyin": "běi",
+      "english": "north"
+    },
+    "京": {
+      "pinyin": "jīng",
+      "english": "capital"
+    },
+    "烤": {
+      "pinyin": "kǎo",
+      "english": "roast / bake"
+    },
+    "鸭": {
+      "pinyin": "yā",
+      "english": "duck"
+    },
+    "宫": {
+      "pinyin": "gōng",
+      "english": "palace"
+    },
+    "保": {
+      "pinyin": "bǎo",
+      "english": "protect"
+    },
+    "鸡": {
+      "pinyin": "jī",
+      "english": "chicken"
+    },
+    "丁": {
+      "pinyin": "dīng",
+      "english": "cube / male"
+    },
+    "饺": {
+      "pinyin": "jiǎo",
+      "english": "dumpling"
+    },
+    "子": {
+      "pinyin": "zi",
+      "english": "suffix"
+    },
+    "粽": {
+      "pinyin": "zòng",
+      "english": "rice dumpling"
+    },
+    "咖": {
+      "pinyin": "kā",
+      "english": "coffee (phonetic)"
+    },
+    "啡": {
+      "pinyin": "fēi",
+      "english": "coffee (phonetic)"
+    },
+    "可": {
+      "pinyin": "kě",
+      "english": "can / may"
+    },
+    "乐": {
+      "pinyin": "lè",
+      "english": "happy / laugh"
+    },
+    "火": {
+      "pinyin": "huǒ",
+      "english": "fire"
+    },
+    "锅": {
+      "pinyin": "guō",
+      "english": "pot / pan"
+    },
+    "地": {
+      "pinyin": "dì",
+      "english": "earth"
+    },
+    "图": {
+      "pinyin": "tú",
+      "english": "map / picture"
+    },
+    "飞": {
+      "pinyin": "fēi",
+      "english": "fly"
+    },
+    "毛": {
+      "pinyin": "máo",
+      "english": "hair / feather"
+    },
+    "笔": {
+      "pinyin": "bǐ",
+      "english": "pen / brush"
+    },
+    "耳": {
+      "pinyin": "ěr",
+      "english": "ear"
+    },
+    "鸟": {
+      "pinyin": "niǎo",
+      "english": "bird"
+    },
+    "毽": {
+      "pinyin": "jiàn",
+      "english": "shuttlecock"
+    },
+    "趣": {
+      "pinyin": "qù",
+      "english": "interest"
+    },
+    "文": {
+      "pinyin": "wén",
+      "english": "language / culture"
+    },
+    "菜": {
+      "pinyin": "cài",
+      "english": "dish / vegetable"
+    },
+    "苹": {
+      "pinyin": "píng",
+      "english": "apple"
+    },
+    "果": {
+      "pinyin": "guǒ",
+      "english": "fruit"
+    },
+    "披": {
+      "pinyin": "pī",
+      "english": "drape over"
+    },
+    "萨": {
+      "pinyin": "sà",
+      "english": "Bodhisattva (phonetic)"
+    },
+    "也": {
+      "pinyin": "yě",
+      "english": "also / too"
+    },
+    "先": {
+      "pinyin": "xiān",
+      "english": "first / before"
+    },
+    "午": {
+      "pinyin": "wǔ",
+      "english": "noon"
+    },
+    "小": {
+      "pinyin": "xiǎo",
+      "english": "small / little"
+    },
+    "憨": {
+      "pinyin": "hān",
+      "english": "silly (Mr. Bean)"
+    },
+    "成": {
+      "pinyin": "chéng",
+      "english": "succeed (Jackie Chan)"
+    },
+    "李": {
+      "pinyin": "lǐ",
+      "english": "plum / surname (Bruce Lee)"
+    },
+    "豆": {
+      "pinyin": "dòu",
+      "english": "bean (Mr. Bean)"
+    },
+    "过": {
+      "pinyin": "guò",
+      "english": "pass / have experienced"
+    },
+    "龙": {
+      "pinyin": "lóng",
+      "english": "dragon (Bruce Lee / Jackie Chan)"
+    }
+  }
+}
