@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-09-08T17:23:53.743434+00:00",
-  "total_cards": 234,
+  "last_updated": "2026-09-09T20:23:45.098837+00:00",
+  "total_cards": 353,
   "concepts": [
     {
       "id": "all",
@@ -1952,6 +1952,958 @@
       "english": "That's great!",
       "type": "sentence",
       "concept": "phrases"
+    },
+    {
+      "id": "card_235",
+      "hanzi": "吃早饭",
+      "pinyin": "chī zǎofàn",
+      "english": "to have breakfast",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_236",
+      "hanzi": "吃午饭",
+      "pinyin": "chī wǔfàn",
+      "english": "to have lunch",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_237",
+      "hanzi": "吃晚饭",
+      "pinyin": "chī wǎnfàn",
+      "english": "to have dinner",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_238",
+      "hanzi": "电",
+      "pinyin": "diàn",
+      "english": "electricity",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_239",
+      "hanzi": "电话",
+      "pinyin": "diànhuà",
+      "english": "phone / telephone",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_240",
+      "hanzi": "电影",
+      "pinyin": "diànyǐng",
+      "english": "movie / film",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_241",
+      "hanzi": "电脑",
+      "pinyin": "diànnǎo",
+      "english": "computer",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_242",
+      "hanzi": "电视",
+      "pinyin": "diànshì",
+      "english": "TV / television",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_243",
+      "hanzi": "冰淇淋",
+      "pinyin": "bīngqílín",
+      "english": "ice cream",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_244",
+      "hanzi": "时间",
+      "pinyin": "shíjiān",
+      "english": "time",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_245",
+      "hanzi": "温哥华",
+      "pinyin": "Wēngēhuá",
+      "english": "Vancouver",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_246",
+      "hanzi": "旧金山",
+      "pinyin": "Jiùjīnshān",
+      "english": "San Francisco",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_247",
+      "hanzi": "伦敦",
+      "pinyin": "Lúndūn",
+      "english": "London",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_248",
+      "hanzi": "纽约",
+      "pinyin": "Niǔyuē",
+      "english": "New York",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_249",
+      "hanzi": "导游",
+      "pinyin": "dǎoyóu",
+      "english": "tour guide",
+      "type": "word",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_250",
+      "hanzi": "游客",
+      "pinyin": "yóukè",
+      "english": "tourist",
+      "type": "word",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_251",
+      "hanzi": "上班",
+      "pinyin": "shàngbān",
+      "english": "to go to work / start work",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_252",
+      "hanzi": "下班",
+      "pinyin": "xiàbān",
+      "english": "to get off work",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_253",
+      "hanzi": "上课",
+      "pinyin": "shàngkè",
+      "english": "to attend class / go to class",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_254",
+      "hanzi": "下课",
+      "pinyin": "xiàkè",
+      "english": "to finish class",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_255",
+      "hanzi": "加班",
+      "pinyin": "jiābān",
+      "english": "to work overtime",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_256",
+      "hanzi": "时候",
+      "pinyin": "shíhou",
+      "english": "time / moment",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_257",
+      "hanzi": "什么时候",
+      "pinyin": "shénme shíhou",
+      "english": "when? / what time?",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_258",
+      "hanzi": "对",
+      "pinyin": "duì",
+      "english": "right / correct",
+      "type": "word",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_259",
+      "hanzi": "不对",
+      "pinyin": "bú duì",
+      "english": "incorrect / not right",
+      "type": "word",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_260",
+      "hanzi": "请问",
+      "pinyin": "qǐngwèn",
+      "english": "May I ask... / Excuse me",
+      "type": "word",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_261",
+      "hanzi": "要",
+      "pinyin": "yào",
+      "english": "to want / will / need to",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_262",
+      "hanzi": "想",
+      "pinyin": "xiǎng",
+      "english": "to want to / would like to",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_263",
+      "hanzi": "一起",
+      "pinyin": "yìqǐ",
+      "english": "together",
+      "type": "word",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_264",
+      "hanzi": "吧",
+      "pinyin": "ba",
+      "english": "modal particle (suggestion / softening tone)",
+      "type": "word",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_265",
+      "hanzi": "啊",
+      "pinyin": "a",
+      "english": "modal particle (enthusiasm / approval)",
+      "type": "word",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_266",
+      "hanzi": "哎呀",
+      "pinyin": "āiyā",
+      "english": "Oh my! / Oops! / Gosh!",
+      "type": "word",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_267",
+      "hanzi": "见",
+      "pinyin": "jiàn",
+      "english": "to meet / to see",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_268",
+      "hanzi": "明天见",
+      "pinyin": "míngtiān jiàn",
+      "english": "See you tomorrow!",
+      "type": "word",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_269",
+      "hanzi": "下个星期见",
+      "pinyin": "xià ge xīngqī jiàn",
+      "english": "See you next week!",
+      "type": "word",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_270",
+      "hanzi": "晚上见",
+      "pinyin": "wǎnshang jiàn",
+      "english": "See you tonight!",
+      "type": "word",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_271",
+      "hanzi": "差一刻",
+      "pinyin": "chà yí kè",
+      "english": "a quarter to (time)",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_272",
+      "hanzi": "起床",
+      "pinyin": "qǐchuáng",
+      "english": "to get up / wake up",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_273",
+      "hanzi": "睡觉",
+      "pinyin": "shuìjiào",
+      "english": "to sleep / go to bed",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_274",
+      "hanzi": "看书",
+      "pinyin": "kàn shū",
+      "english": "to read a book",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_275",
+      "hanzi": "运动",
+      "pinyin": "yùndòng",
+      "english": "sports / exercise",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_276",
+      "hanzi": "星期天",
+      "pinyin": "xīngqītiān",
+      "english": "Sunday",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_277",
+      "hanzi": "中文",
+      "pinyin": "zhōngwén",
+      "english": "Chinese language",
+      "type": "word",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_278",
+      "hanzi": "中文课",
+      "pinyin": "zhōngwén kè",
+      "english": "Chinese class",
+      "type": "word",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_279",
+      "hanzi": "生日",
+      "pinyin": "shēngrì",
+      "english": "birthday",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_280",
+      "hanzi": "生日快乐",
+      "pinyin": "shēngrì kuàilè",
+      "english": "Happy birthday!",
+      "type": "word",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_281",
+      "hanzi": "大卫",
+      "pinyin": "Dàwèi",
+      "english": "David (name)",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_282",
+      "hanzi": "你吃晚饭了吗？",
+      "pinyin": "Nǐ chī wǎnfàn le ma?",
+      "english": "Did you eat dinner?",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_283",
+      "hanzi": "我吃了。",
+      "pinyin": "Wǒ chī le.",
+      "english": "I did. / I ate.",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_284",
+      "hanzi": "我没吃晚饭。",
+      "pinyin": "Wǒ méi chī wǎnfàn.",
+      "english": "I didn’t eat dinner.",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_285",
+      "hanzi": "你吃早饭了吗？",
+      "pinyin": "Nǐ chī zǎofàn le ma?",
+      "english": "Did you eat breakfast?",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_286",
+      "hanzi": "你今天早上几点吃的早饭？",
+      "pinyin": "Nǐ jīntiān zǎoshang jǐ diǎn chī de zǎofàn?",
+      "english": "What time did you have breakfast this morning?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_287",
+      "hanzi": "我今天早上九点吃的早饭。",
+      "pinyin": "Wǒ jīntiān zǎoshang jiǔ diǎn chī de zǎofàn.",
+      "english": "I had breakfast at 9 this morning.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_288",
+      "hanzi": "你几点吃的早饭？",
+      "pinyin": "Nǐ jǐ diǎn chī de zǎofàn?",
+      "english": "What time did you have breakfast?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_289",
+      "hanzi": "我九点吃的。",
+      "pinyin": "Wǒ jiǔ diǎn chī de.",
+      "english": "I had it at 9.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_290",
+      "hanzi": "你在哪里吃的早饭？",
+      "pinyin": "Nǐ zài nǎlǐ chī de zǎofàn?",
+      "english": "Where did you have breakfast?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_291",
+      "hanzi": "我在家吃的。",
+      "pinyin": "Wǒ zài jiā chī de.",
+      "english": "I had breakfast at home.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_292",
+      "hanzi": "我有很多朋友。",
+      "pinyin": "Wǒ yǒu hěn duō péngyou.",
+      "english": "I have many friends.",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_293",
+      "hanzi": "我很少吃冰淇淋。",
+      "pinyin": "Wǒ hěn shǎo chī bīngqílín.",
+      "english": "I rarely eat ice cream.",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_294",
+      "hanzi": "你有时间吗？",
+      "pinyin": "Nǐ yǒu shíjiān ma?",
+      "english": "Do you have time?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_295",
+      "hanzi": "我没有时间。",
+      "pinyin": "Wǒ méiyǒu shíjiān.",
+      "english": "I don’t have time.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_296",
+      "hanzi": "她吃什么？",
+      "pinyin": "Tā chī shénme?",
+      "english": "What is she eating?",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_297",
+      "hanzi": "她吃披萨。",
+      "pinyin": "Tā chī pīsà.",
+      "english": "She is eating pizza.",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_298",
+      "hanzi": "你几点吃晚饭？",
+      "pinyin": "Nǐ jǐ diǎn chī wǎnfàn?",
+      "english": "What time do you eat dinner?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_299",
+      "hanzi": "大卫是俄罗斯人，对吗？",
+      "pinyin": "Dàwèi shì Éluósī rén, duì ma?",
+      "english": "David is Russian, right?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_300",
+      "hanzi": "今天是星期一，对吗？",
+      "pinyin": "Jīntiān shì xīngqīyī, duì ma?",
+      "english": "Today is Monday, right?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_301",
+      "hanzi": "你的生日是10月29号，对吗？",
+      "pinyin": "Nǐ de shēngrì shì shí yuè èrshíjiǔ hào, duì ma?",
+      "english": "Your birthday is October 29th, right?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_302",
+      "hanzi": "现在是上午十点半，对吗？",
+      "pinyin": "Xiànzài shì shàngwǔ shí diǎn bàn, duì ma?",
+      "english": "Now it is 10:30 AM, right?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_303",
+      "hanzi": "请问，你叫什么名字？",
+      "pinyin": "Qǐngwèn, nǐ jiào shénme míngzì?",
+      "english": "May I ask, what is your name?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_304",
+      "hanzi": "请问，你是哪国人？",
+      "pinyin": "Qǐngwèn, nǐ shì nǎ guó rén?",
+      "english": "May I ask, which country are you from?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_305",
+      "hanzi": "请问，你的邮箱是什么？",
+      "pinyin": "Qǐngwèn, nǐ de yóuxiāng shì shénme?",
+      "english": "May I ask, what is your email address?",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_306",
+      "hanzi": "请问，现在几点？",
+      "pinyin": "Qǐngwèn, xiànzài jǐ diǎn?",
+      "english": "Excuse me, what time is it now?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_307",
+      "hanzi": "现在八点十分。",
+      "pinyin": "Xiànzài bā diǎn shí fēn.",
+      "english": "It is 8:10 now.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_308",
+      "hanzi": "不对。现在十一点十分。",
+      "pinyin": "Bú duì. Xiànzài shíyī diǎn shí fēn.",
+      "english": "Not right. It is 11:10 now.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_309",
+      "hanzi": "现在九点十分。",
+      "pinyin": "Xiànzài jiǔ diǎn shí fēn.",
+      "english": "It is 9:10 now.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_310",
+      "hanzi": "现在北京时间九点十分。",
+      "pinyin": "Xiànzài Běijīng shíjiān jiǔ diǎn shí fēn.",
+      "english": "It is 9:10 Beijing time now.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_311",
+      "hanzi": "明天几点吃早饭？",
+      "pinyin": "Míngtiān jǐ diǎn chī zǎofàn?",
+      "english": "What time do we eat breakfast tomorrow?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_312",
+      "hanzi": "明天早上七点吃早饭。",
+      "pinyin": "Míngtiān zǎoshang qī diǎn chī zǎofàn.",
+      "english": "Eat breakfast at 7:00 tomorrow morning.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_313",
+      "hanzi": "你几点上班？",
+      "pinyin": "Nǐ jǐ diǎn shàngbān?",
+      "english": "What time do you go to work?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_314",
+      "hanzi": "你几点下班？",
+      "pinyin": "Nǐ jǐ diǎn xiàbān?",
+      "english": "What time do you get off work?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_315",
+      "hanzi": "你几点上课？",
+      "pinyin": "Nǐ jǐ diǎn shàngkè?",
+      "english": "What time do you go to class?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_316",
+      "hanzi": "你几点下课？",
+      "pinyin": "Nǐ jǐ diǎn xiàkè?",
+      "english": "What time do you finish class?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_317",
+      "hanzi": "你明天上课吗？",
+      "pinyin": "Nǐ míngtiān shàngkè ma?",
+      "english": "Do you have class tomorrow?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_318",
+      "hanzi": "你星期几不上班？",
+      "pinyin": "Nǐ xīngqījǐ bù shàngbān?",
+      "english": "Which day of the week do you not work?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_319",
+      "hanzi": "你星期几上课？",
+      "pinyin": "Nǐ xīngqījǐ shàngkè?",
+      "english": "Which day of the week do you have class?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_320",
+      "hanzi": "他什么时候上课？",
+      "pinyin": "Tā shénme shíhou shàngkè?",
+      "english": "When does he have class?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_321",
+      "hanzi": "他下午两点上课。",
+      "pinyin": "Tā xiàwǔ liǎng diǎn shàngkè.",
+      "english": "He has class at 2:00 PM.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_322",
+      "hanzi": "每个星期天都上班吗？",
+      "pinyin": "Měi gè xīngqītiān dōu shàngbān ma?",
+      "english": "Do you work every Sunday?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_323",
+      "hanzi": "我星期天不上班。今天加班。",
+      "pinyin": "Wǒ xīngqītiān bù shàngbān. Jīntiān jiābān.",
+      "english": "I don’t work on Sundays. I’m working overtime today.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_324",
+      "hanzi": "你今天几点上中文课？",
+      "pinyin": "Nǐ jīntiān jǐ diǎn shàng zhōngwén kè?",
+      "english": "What time do you have Chinese class today?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_325",
+      "hanzi": "他们一起看电影。",
+      "pinyin": "Tāmen yìqǐ kàn diànyǐng.",
+      "english": "They watch a movie together.",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_326",
+      "hanzi": "你今天九点下班，对吗？",
+      "pinyin": "Nǐ jīntiān jiǔ diǎn xiàbān, duì ma?",
+      "english": "You get off work at 9 today, right?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_327",
+      "hanzi": "祝你生日快乐！",
+      "pinyin": "Zhù nǐ shēngrì kuàilè!",
+      "english": "I wish you a happy birthday!",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_328",
+      "hanzi": "他们晚上一起做什么？",
+      "pinyin": "Tāmen wǎnshang yìqǐ zuò shénme?",
+      "english": "What do they do together in the evening?",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_329",
+      "hanzi": "她们一起吃饭。",
+      "pinyin": "Tāmen yìqǐ chī fàn.",
+      "english": "They eat together.",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_330",
+      "hanzi": "他们一起上课。",
+      "pinyin": "Tāmen yìqǐ shàngkè.",
+      "english": "They attend class together.",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_331",
+      "hanzi": "他们一起吃披萨。",
+      "pinyin": "Tāmen yìqǐ chī pīsà.",
+      "english": "They eat pizza together.",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_332",
+      "hanzi": "我现在很饿。你呢？",
+      "pinyin": "Wǒ xiànzài hěn è. Nǐ ne?",
+      "english": "I’m very hungry right now. How about you?",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_333",
+      "hanzi": "我们一起吃披萨吧。",
+      "pinyin": "Wǒmen yìqǐ chī pīsà ba.",
+      "english": "Let’s eat pizza together.",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_334",
+      "hanzi": "这个好看吗？",
+      "pinyin": "Zhège hǎokàn ma?",
+      "english": "Is this good-looking?",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_335",
+      "hanzi": "这个很好看。",
+      "pinyin": "Zhège hěn hǎokàn.",
+      "english": "This is very good-looking.",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_336",
+      "hanzi": "我要这个吧。",
+      "pinyin": "Wǒ yào zhège ba.",
+      "english": "I’ll take this one.",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_337",
+      "hanzi": "我们明天早上九点上课，对吗？",
+      "pinyin": "Wǒmen míngtiān zǎoshang jiǔ diǎn shàngkè, duì ma?",
+      "english": "We have class at 9 tomorrow morning, right?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_338",
+      "hanzi": "对啊！",
+      "pinyin": "Duì a!",
+      "english": "Right! / Exactly!",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_339",
+      "hanzi": "你的老师是中国人吗？",
+      "pinyin": "Nǐ de lǎoshī shì Zhōngguó rén ma?",
+      "english": "Is your teacher Chinese?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_340",
+      "hanzi": "是啊！",
+      "pinyin": "Shì a!",
+      "english": "Yes, indeed!",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_341",
+      "hanzi": "我们今天晚上一起吃饭吧。",
+      "pinyin": "Wǒmen jīntiān wǎnshang yìqǐ chī fàn ba.",
+      "english": "Let’s have dinner together tonight.",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_342",
+      "hanzi": "好啊！几点？",
+      "pinyin": "Hǎo a! Jǐ diǎn?",
+      "english": "Great! What time?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_343",
+      "hanzi": "七点吧。",
+      "pinyin": "Qī diǎn ba.",
+      "english": "How about 7:00.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_344",
+      "hanzi": "哎呀！对不起！",
+      "pinyin": "Āiyā! Duìbuqǐ!",
+      "english": "Oh my! I’m sorry!",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_345",
+      "hanzi": "哎呀！谢谢！",
+      "pinyin": "Āiyā! Xièxie!",
+      "english": "Oh my! Thank you!",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_346",
+      "hanzi": "好啊！几点见？",
+      "pinyin": "Hǎo a! Jǐ diǎn jiàn?",
+      "english": "Sure! What time should we meet?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_347",
+      "hanzi": "迎迎，你几点下班？",
+      "pinyin": "Yíngying, nǐ jǐ diǎn xiàbān?",
+      "english": "Yingying, what time do you get off work?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_348",
+      "hanzi": "我六点下班。你什么时候下课？",
+      "pinyin": "Wǒ liù diǎn xiàbān. Nǐ shénme shíhou xiàkè?",
+      "english": "I get off work at 6:00. When do you finish class?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_349",
+      "hanzi": "我五点半下课。我们晚上一起吃饭吧。",
+      "pinyin": "Wǒ wǔ diǎn bàn xiàkè. Wǒmen wǎnshang yìqǐ chī fàn ba.",
+      "english": "I finish class at 5:30. Let’s have dinner together tonight.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_350",
+      "hanzi": "现在差一刻九点。",
+      "pinyin": "Xiànzài chà yí kè jiǔ diǎn.",
+      "english": "It is a quarter to nine now.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_351",
+      "hanzi": "哎呀，我九点上班。晚上见。",
+      "pinyin": "Āiyā, wǒ jiǔ diǎn shàngbān. Wǎnshang jiàn.",
+      "english": "Oh no, I start work at 9:00. See you tonight.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_352",
+      "hanzi": "晚上几点见？",
+      "pinyin": "Wǎnshang jǐ diǎn jiàn?",
+      "english": "What time should we meet tonight?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_353",
+      "hanzi": "六点二十。",
+      "pinyin": "Liù diǎn èrshí.",
+      "english": "6:20.",
+      "type": "sentence",
+      "concept": "time"
     }
   ],
   "char_dictionary": {
@@ -2726,6 +3678,170 @@
     "龙": {
       "pinyin": "lóng",
       "english": "dragon (Bruce Lee / Jackie Chan)"
+    },
+    "书": {
+      "pinyin": "shū",
+      "english": "book, document, letter"
+    },
+    "伦": {
+      "pinyin": "lún",
+      "english": "human relationships, logic (used in London 伦敦)"
+    },
+    "候": {
+      "pinyin": "hòu",
+      "english": "time, season, wait (as in 时候)"
+    },
+    "冰": {
+      "pinyin": "bīng",
+      "english": "ice, cold"
+    },
+    "华": {
+      "pinyin": "huá",
+      "english": "splendid, China (used in Vancouver 温哥华)"
+    },
+    "卫": {
+      "pinyin": "wèi",
+      "english": "guard, protect (used in David 大卫)"
+    },
+    "友": {
+      "pinyin": "yǒu",
+      "english": "friend, companion (as in 朋友)"
+    },
+    "吧": {
+      "pinyin": "ba",
+      "english": "suggestion modal particle (let's, right?)"
+    },
+    "呀": {
+      "pinyin": "yā",
+      "english": "interjection particle (as in 哎呀)"
+    },
+    "哎": {
+      "pinyin": "āi",
+      "english": "interjection particle (as in 哎呀 oh my!)"
+    },
+    "啊": {
+      "pinyin": "a",
+      "english": "modal particle expressing enthusiasm, affirmation"
+    },
+    "家": {
+      "pinyin": "jiā",
+      "english": "home, family"
+    },
+    "导": {
+      "pinyin": "dǎo",
+      "english": "to guide, lead, direct (as in 导游)"
+    },
+    "山": {
+      "pinyin": "shān",
+      "english": "mountain, hill (used in San Francisco 旧金山)"
+    },
+    "床": {
+      "pinyin": "chuáng",
+      "english": "bed (as in 起床 get up)"
+    },
+    "影": {
+      "pinyin": "yǐng",
+      "english": "shadow, movie, image (as in 电影)"
+    },
+    "快": {
+      "pinyin": "kuài",
+      "english": "fast, quick, joyful (as in 快乐 happy)"
+    },
+    "想": {
+      "pinyin": "xiǎng",
+      "english": "to think, would like to, want"
+    },
+    "敦": {
+      "pinyin": "dūn",
+      "english": "honest, sincere (used in London 伦敦)"
+    },
+    "旧": {
+      "pinyin": "jiù",
+      "english": "old, past, former (as in 旧金山)"
+    },
+    "时": {
+      "pinyin": "shí",
+      "english": "time, hour, o'clock (as in 时间)"
+    },
+    "朋": {
+      "pinyin": "péng",
+      "english": "friend, companion (as in 朋友)"
+    },
+    "每": {
+      "pinyin": "měi",
+      "english": "every, each"
+    },
+    "淇": {
+      "pinyin": "qí",
+      "english": "used in phonetic loanword ice cream 冰淇淋"
+    },
+    "淋": {
+      "pinyin": "lín",
+      "english": "to drip, drench (used in 冰淇淋)"
+    },
+    "温": {
+      "pinyin": "wēn",
+      "english": "warm, lukewarm (used in Vancouver 温哥华)"
+    },
+    "游": {
+      "pinyin": "yóu",
+      "english": "to tour, travel, swim (as in 导游、游客)"
+    },
+    "班": {
+      "pinyin": "bān",
+      "english": "work shift, class (as in 上班、下班)"
+    },
+    "睡": {
+      "pinyin": "shuì",
+      "english": "to sleep (as in 睡觉)"
+    },
+    "祝": {
+      "pinyin": "zhù",
+      "english": "to wish, congratulate (as in 祝你)"
+    },
+    "约": {
+      "pinyin": "yuē",
+      "english": "agreement, appointment (used in New York 纽约)"
+    },
+    "纽": {
+      "pinyin": "niǔ",
+      "english": "knot, button (used in New York 纽约)"
+    },
+    "脑": {
+      "pinyin": "nǎo",
+      "english": "brain (as in 电脑 computer)"
+    },
+    "要": {
+      "pinyin": "yào",
+      "english": "to want, will, need to"
+    },
+    "视": {
+      "pinyin": "shì",
+      "english": "to look at, vision (as in 电视 television)"
+    },
+    "请": {
+      "pinyin": "qǐng",
+      "english": "please, to invite, to request (as in 请问)"
+    },
+    "迎": {
+      "pinyin": "yíng",
+      "english": "to welcome, greet (used in 迎迎)"
+    },
+    "都": {
+      "pinyin": "dōu",
+      "english": "all, both, entirely"
+    },
+    "金": {
+      "pinyin": "jīn",
+      "english": "gold, metal (as in 旧金山)"
+    },
+    "问": {
+      "pinyin": "wèn",
+      "english": "to ask, inquire (as in 请问)"
+    },
+    "间": {
+      "pinyin": "jiān",
+      "english": "between, room, interval (as in 时间 time)"
     }
   }
 }
