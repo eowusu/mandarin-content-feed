@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-09-09T20:23:45.098837+00:00",
-  "total_cards": 353,
+  "last_updated": "2026-09-10T17:04:17.198537+00:00",
+  "total_cards": 402,
   "concepts": [
     {
       "id": "all",
@@ -2904,6 +2904,398 @@
       "english": "6:20.",
       "type": "sentence",
       "concept": "time"
+    },
+    {
+      "id": "card_354",
+      "hanzi": "爸爸",
+      "pinyin": "bàba",
+      "english": "dad / father",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_355",
+      "hanzi": "妈妈",
+      "pinyin": "māma",
+      "english": "mom / mother",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_356",
+      "hanzi": "弟弟",
+      "pinyin": "dìdi",
+      "english": "younger brother",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_357",
+      "hanzi": "姐姐",
+      "pinyin": "jiějie",
+      "english": "older sister",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_358",
+      "hanzi": "妹妹",
+      "pinyin": "mèimei",
+      "english": "younger sister",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_359",
+      "hanzi": "叔叔",
+      "pinyin": "shūshu",
+      "english": "uncle",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_360",
+      "hanzi": "阿姨",
+      "pinyin": "āyí",
+      "english": "aunt / older woman",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_361",
+      "hanzi": "同事",
+      "pinyin": "tóngshì",
+      "english": "coworker / colleague",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_362",
+      "hanzi": "男朋友",
+      "pinyin": "nánpéngyou",
+      "english": "boyfriend",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_363",
+      "hanzi": "女朋友",
+      "pinyin": "nǚpéngyou",
+      "english": "girlfriend",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_364",
+      "hanzi": "我没有哥哥。",
+      "pinyin": "Wǒ méiyǒu gēge.",
+      "english": "I don’t have an older brother.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_365",
+      "hanzi": "三个弟弟",
+      "pinyin": "sān gè dìdi",
+      "english": "three younger brothers",
+      "type": "phrase",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_366",
+      "hanzi": "三个人",
+      "pinyin": "sān gè rén",
+      "english": "three people",
+      "type": "phrase",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_367",
+      "hanzi": "这是我妈妈。",
+      "pinyin": "Zhè shì wǒ māma.",
+      "english": "This is my mother.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_368",
+      "hanzi": "这是我爸爸。",
+      "pinyin": "Zhè shì wǒ bàba.",
+      "english": "This is my father.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_369",
+      "hanzi": "这是我男朋友。",
+      "pinyin": "Zhè shì wǒ nánpéngyou.",
+      "english": "This is my boyfriend.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_370",
+      "hanzi": "这是我女朋友。",
+      "pinyin": "Zhè shì wǒ nǚpéngyou.",
+      "english": "This is my girlfriend.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_371",
+      "hanzi": "筷子",
+      "pinyin": "kuàizi",
+      "english": "chopsticks",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_372",
+      "hanzi": "用",
+      "pinyin": "yòng",
+      "english": "to use",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_373",
+      "hanzi": "我会用筷子。",
+      "pinyin": "Wǒ huì yòng kuàizi.",
+      "english": "I can use chopsticks.",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_374",
+      "hanzi": "汉语",
+      "pinyin": "Hànyǔ",
+      "english": "Chinese language",
+      "type": "word",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_375",
+      "hanzi": "我的汉语不太好。",
+      "pinyin": "Wǒ de Hànyǔ bú tài hǎo.",
+      "english": "My Chinese isn’t very good.",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_376",
+      "hanzi": "你的汉语好吗？",
+      "pinyin": "Nǐ de Hànyǔ hǎo ma?",
+      "english": "Is your Chinese good?",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_377",
+      "hanzi": "这是什么？",
+      "pinyin": "Zhè shì shénme?",
+      "english": "What is this?",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_378",
+      "hanzi": "阿姨好！",
+      "pinyin": "Āyí hǎo!",
+      "english": "Hello Auntie!",
+      "type": "sentence",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_379",
+      "hanzi": "欢迎",
+      "pinyin": "huānyíng",
+      "english": "to welcome / welcome",
+      "type": "word",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_380",
+      "hanzi": "欢迎！欢迎！",
+      "pinyin": "Huānyíng! Huānyíng!",
+      "english": "Welcome! Welcome!",
+      "type": "sentence",
+      "concept": "greetings"
+    },
+    {
+      "id": "card_381",
+      "hanzi": "北京欢迎你！",
+      "pinyin": "Běijīng huānyíng nǐ!",
+      "english": "Beijing welcomes you!",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_382",
+      "hanzi": "每天",
+      "pinyin": "měitiān",
+      "english": "every day",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_383",
+      "hanzi": "昨晚",
+      "pinyin": "zuówǎn",
+      "english": "last night",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_384",
+      "hanzi": "昨天晚上",
+      "pinyin": "zuótiān wǎnshang",
+      "english": "last night / yesterday evening",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_385",
+      "hanzi": "我中午十二点吃的午饭。",
+      "pinyin": "Wǒ zhōngwǔ shí'èr diǎn chī de wǔfàn.",
+      "english": "I had lunch at 12 noon.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_386",
+      "hanzi": "你和谁一起吃的午饭？",
+      "pinyin": "Nǐ hé shéi yìqǐ chī de wǔfàn?",
+      "english": "Who did you have lunch with?",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_387",
+      "hanzi": "我和同事一起吃的午饭。",
+      "pinyin": "Wǒ hé tóngshì yìqǐ chī de wǔfàn.",
+      "english": "I had lunch with my coworker.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_388",
+      "hanzi": "每天我早上七点半起床。",
+      "pinyin": "Měitiān wǒ zǎoshang qī diǎn bàn qǐchuáng.",
+      "english": "I get up at 7:30 every morning.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_389",
+      "hanzi": "今天我七点半起床的。",
+      "pinyin": "Jīntiān wǒ qī diǎn bàn qǐchuáng de.",
+      "english": "I got up at 7:30 today.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_390",
+      "hanzi": "岁",
+      "pinyin": "suì",
+      "english": "years old / age",
+      "type": "word",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_391",
+      "hanzi": "几岁",
+      "pinyin": "jǐ suì",
+      "english": "how old (for children under 10)",
+      "type": "word",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_392",
+      "hanzi": "多大",
+      "pinyin": "duō dà",
+      "english": "how old",
+      "type": "word",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_393",
+      "hanzi": "多大年纪",
+      "pinyin": "duō dà niánjì",
+      "english": "how old (respectful, for elderly)",
+      "type": "word",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_394",
+      "hanzi": "年纪",
+      "pinyin": "niánjì",
+      "english": "age",
+      "type": "word",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_395",
+      "hanzi": "你多大？",
+      "pinyin": "Nǐ duō dà?",
+      "english": "How old are you?",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_396",
+      "hanzi": "他多大？",
+      "pinyin": "Tā duō dà?",
+      "english": "How old is he?",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_397",
+      "hanzi": "她多大？",
+      "pinyin": "Tā duō dà?",
+      "english": "How old is she?",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_398",
+      "hanzi": "你几岁？",
+      "pinyin": "Nǐ jǐ suì?",
+      "english": "How old are you? (for a child)",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_399",
+      "hanzi": "您多大年纪？",
+      "pinyin": "Nín duō dà niánjì?",
+      "english": "How old are you? (respectful, for an elder)",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_400",
+      "hanzi": "我二十岁。",
+      "pinyin": "Wǒ èrshí suì.",
+      "english": "I am 20 years old.",
+      "type": "sentence",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_401",
+      "hanzi": "他三十岁。",
+      "pinyin": "Tā sānshí suì.",
+      "english": "He is 30 years old.",
+      "type": "sentence",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_402",
+      "hanzi": "她十八岁。",
+      "pinyin": "Tā shíbā suì.",
+      "english": "She is 18 years old.",
+      "type": "sentence",
+      "concept": "numbers"
     }
   ],
   "char_dictionary": {
@@ -3842,6 +4234,82 @@
     "间": {
       "pinyin": "jiān",
       "english": "between, room, interval (as in 时间 time)"
+    },
+    "会": {
+      "pinyin": "huì",
+      "english": "can, to be able to, will"
+    },
+    "叔": {
+      "pinyin": "shū",
+      "english": "uncle, father's younger brother"
+    },
+    "同": {
+      "pinyin": "tóng",
+      "english": "same, together (as in 同事 coworker)"
+    },
+    "和": {
+      "pinyin": "hé",
+      "english": "and, with"
+    },
+    "女": {
+      "pinyin": "nǚ",
+      "english": "female, woman"
+    },
+    "妈": {
+      "pinyin": "mā",
+      "english": "mother, mom"
+    },
+    "妹": {
+      "pinyin": "mèi",
+      "english": "younger sister"
+    },
+    "姐": {
+      "pinyin": "jiě",
+      "english": "older sister"
+    },
+    "姨": {
+      "pinyin": "yí",
+      "english": "aunt, mother's sister (as in 阿姨)"
+    },
+    "岁": {
+      "pinyin": "suì",
+      "english": "years old, age"
+    },
+    "弟": {
+      "pinyin": "dì",
+      "english": "younger brother"
+    },
+    "汉": {
+      "pinyin": "hàn",
+      "english": "Han, Chinese (as in 汉语)"
+    },
+    "爸": {
+      "pinyin": "bà",
+      "english": "father, dad"
+    },
+    "用": {
+      "pinyin": "yòng",
+      "english": "to use"
+    },
+    "男": {
+      "pinyin": "nán",
+      "english": "male, man"
+    },
+    "筷": {
+      "pinyin": "kuài",
+      "english": "chopstick (as in 筷子)"
+    },
+    "纪": {
+      "pinyin": "jì",
+      "english": "age, era, record (as in 年纪)"
+    },
+    "语": {
+      "pinyin": "yǔ",
+      "english": "language, words (as in 汉语)"
+    },
+    "阿": {
+      "pinyin": "ā",
+      "english": "prefix for names and kinship terms (as in 阿姨)"
     }
   }
 }
