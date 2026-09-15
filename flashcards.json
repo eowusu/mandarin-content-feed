@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-09-10T17:04:17.198537+00:00",
-  "total_cards": 402,
+  "last_updated": "2026-09-15T04:05:47.397607+00:00",
+  "total_cards": 473,
   "concepts": [
     {
       "id": "all",
@@ -3296,6 +3296,574 @@
       "english": "She is 18 years old.",
       "type": "sentence",
       "concept": "numbers"
+    },
+    {
+      "id": "card_403",
+      "hanzi": "谁做的晚饭？",
+      "pinyin": "Shuí zuò de wǎnfàn?",
+      "english": "Who made dinner?",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_404",
+      "hanzi": "打包的外卖。",
+      "pinyin": "Dǎbāo de wàimài.",
+      "english": "Takeout that was packed to go.",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_405",
+      "hanzi": "在这儿吃还是打包？",
+      "pinyin": "Zài zhèr chī háishi dǎbāo?",
+      "english": "Eat here or get it to go?",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_406",
+      "hanzi": "在这儿吃还是带走？",
+      "pinyin": "Zài zhèr chī háishi dàizǒu?",
+      "english": "Eat here or take it to go?",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_407",
+      "hanzi": "打包",
+      "pinyin": "dǎbāo",
+      "english": "to pack / to get to go / takeout packaging",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_408",
+      "hanzi": "外卖",
+      "pinyin": "wàimài",
+      "english": "takeout / food delivery",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_409",
+      "hanzi": "带走",
+      "pinyin": "dàizǒu",
+      "english": "to take away / to go",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_410",
+      "hanzi": "饭馆儿",
+      "pinyin": "fànguǎnr",
+      "english": "restaurant",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_411",
+      "hanzi": "饭馆",
+      "pinyin": "fànguǎn",
+      "english": "restaurant",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_412",
+      "hanzi": "一只猫",
+      "pinyin": "yì zhī māo",
+      "english": "One cat",
+      "type": "phrase",
+      "concept": "objects"
+    },
+    {
+      "id": "card_413",
+      "hanzi": "只",
+      "pinyin": "zhī",
+      "english": "measure word for certain animals (cats, birds, etc.)",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_414",
+      "hanzi": "猫",
+      "pinyin": "māo",
+      "english": "cat",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_415",
+      "hanzi": "一本书",
+      "pinyin": "yì běn shū",
+      "english": "One book",
+      "type": "phrase",
+      "concept": "objects"
+    },
+    {
+      "id": "card_416",
+      "hanzi": "本",
+      "pinyin": "běn",
+      "english": "measure word for books, notebooks, etc.",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_417",
+      "hanzi": "书",
+      "pinyin": "shū",
+      "english": "book",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_418",
+      "hanzi": "英语",
+      "pinyin": "yīngyǔ",
+      "english": "English language",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_419",
+      "hanzi": "西班牙语",
+      "pinyin": "xībānyáyǔ",
+      "english": "Spanish language",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_420",
+      "hanzi": "法语",
+      "pinyin": "fǎyǔ",
+      "english": "French language",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_421",
+      "hanzi": "你家有几口人？",
+      "pinyin": "Nǐ jiā yǒu jǐ kǒu rén?",
+      "english": "How many people are there in your family?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_422",
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "english": "family / home",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_423",
+      "hanzi": "我家",
+      "pinyin": "wǒ jiā",
+      "english": "my family / my home",
+      "type": "phrase",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_424",
+      "hanzi": "我姐姐",
+      "pinyin": "wǒ jiějie",
+      "english": "my older sister",
+      "type": "phrase",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_425",
+      "hanzi": "口",
+      "pinyin": "kǒu",
+      "english": "measure word for family members / mouth",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_426",
+      "hanzi": "四口人",
+      "pinyin": "sì kǒu rén",
+      "english": "four family members",
+      "type": "phrase",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_427",
+      "hanzi": "五口人",
+      "pinyin": "wǔ kǒu rén",
+      "english": "five family members",
+      "type": "phrase",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_428",
+      "hanzi": "我家有四口人。",
+      "pinyin": "Wǒ jiā yǒu sì kǒu rén.",
+      "english": "There are four people in my family.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_429",
+      "hanzi": "和",
+      "pinyin": "hé",
+      "english": "and / with",
+      "type": "word",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_430",
+      "hanzi": "爸爸和妈妈",
+      "pinyin": "bàba hé māma",
+      "english": "dad and mom",
+      "type": "phrase",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_431",
+      "hanzi": "我和妹妹",
+      "pinyin": "wǒ hé mèimei",
+      "english": "me and younger sister",
+      "type": "phrase",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_432",
+      "hanzi": "她和男朋友一起吃饭。",
+      "pinyin": "Tā hé nánpéngyou yìqǐ chīfàn.",
+      "english": "She eats with her boyfriend.",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_433",
+      "hanzi": "我家有四口人，爸爸、妈妈、姐姐和我。",
+      "pinyin": "Wǒ jiā yǒu sì kǒu rén, bàba, māma, jiějie hé wǒ.",
+      "english": "There are four people in my family: dad, mom, older sister, and me.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_434",
+      "hanzi": "工作",
+      "pinyin": "gōngzuò",
+      "english": "work, job / to work",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_435",
+      "hanzi": "你爸爸、妈妈做什么工作？",
+      "pinyin": "Nǐ bàba, māma zuò shénme gōngzuò?",
+      "english": "What do your parents do?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_436",
+      "hanzi": "做",
+      "pinyin": "zuò",
+      "english": "to do / to make",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_437",
+      "hanzi": "你做什么工作？",
+      "pinyin": "Nǐ zuò shénme gōngzuò?",
+      "english": "What work do you do? / What do you do?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_438",
+      "hanzi": "我是老师。",
+      "pinyin": "Wǒ shì lǎoshī.",
+      "english": "I am a teacher.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_439",
+      "hanzi": "我爸爸是老师，妈妈是医生。",
+      "pinyin": "Wǒ bàba shì lǎoshī, māma shì yīshēng.",
+      "english": "My dad is a teacher, and my mom is a doctor.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_440",
+      "hanzi": "你的工作忙吗？",
+      "pinyin": "Nǐ de gōngzuò máng ma?",
+      "english": "Is your work busy?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_441",
+      "hanzi": "我的工作太忙了！",
+      "pinyin": "Wǒ de gōngzuò tài máng le!",
+      "english": "My work is too busy!",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_442",
+      "hanzi": "医生",
+      "pinyin": "yīshēng",
+      "english": "doctor",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_443",
+      "hanzi": "护士",
+      "pinyin": "hùshi",
+      "english": "nurse",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_444",
+      "hanzi": "软件工程师",
+      "pinyin": "ruǎnjiàn gōngchéngshī",
+      "english": "software engineer",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_445",
+      "hanzi": "软件",
+      "pinyin": "ruǎnjiàn",
+      "english": "software",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_446",
+      "hanzi": "工程师",
+      "pinyin": "gōngchéngshī",
+      "english": "engineer",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_447",
+      "hanzi": "公司",
+      "pinyin": "gōngsī",
+      "english": "company",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_448",
+      "hanzi": "问题",
+      "pinyin": "wèntí",
+      "english": "question / problem",
+      "type": "word",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_449",
+      "hanzi": "你们有问题吗？",
+      "pinyin": "Nǐmen yǒu wèntí ma?",
+      "english": "Do you (all) have any questions?",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_450",
+      "hanzi": "我有个问题。",
+      "pinyin": "Wǒ yǒu gè wèntí.",
+      "english": "I have a question.",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_451",
+      "hanzi": "这个不对。",
+      "pinyin": "Zhège bú duì.",
+      "english": "This is not correct / This is wrong.",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_452",
+      "hanzi": "对不起，是我的问题。",
+      "pinyin": "Duìbuqǐ, shì wǒ de wèntí.",
+      "english": "Sorry, it's my fault / my mistake.",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_453",
+      "hanzi": "多",
+      "pinyin": "duō",
+      "english": "many / much",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_454",
+      "hanzi": "太多了",
+      "pinyin": "tài duō le",
+      "english": "too much / too many",
+      "type": "phrase",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_455",
+      "hanzi": "工作太多了",
+      "pinyin": "gōngzuò tài duō le",
+      "english": "too much work",
+      "type": "phrase",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_456",
+      "hanzi": "问题太多了",
+      "pinyin": "wèntí tài duō le",
+      "english": "too many questions / too many problems",
+      "type": "phrase",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_457",
+      "hanzi": "妈，这是我男朋友大卫，他的汉语很好。",
+      "pinyin": "Mā, zhè shì wǒ nánpéngyou Dàwèi, tā de hànyǔ hěn hǎo.",
+      "english": "Mom, this is my boyfriend David, his Chinese is very good.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_458",
+      "hanzi": "我二十五岁。",
+      "pinyin": "Wǒ èrshíwǔ suì.",
+      "english": "I am 25 years old.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_459",
+      "hanzi": "妈！您的问题太多了！",
+      "pinyin": "Mā! Nín de wèntí tài duō le!",
+      "english": "Mom! You have too many questions!",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_460",
+      "hanzi": "学校",
+      "pinyin": "xuéxiào",
+      "english": "school",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_461",
+      "hanzi": "医院",
+      "pinyin": "yīyuàn",
+      "english": "hospital",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_462",
+      "hanzi": "老板",
+      "pinyin": "lǎobǎn",
+      "english": "boss",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_463",
+      "hanzi": "秘书",
+      "pinyin": "mìshū",
+      "english": "secretary",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_464",
+      "hanzi": "职员",
+      "pinyin": "zhíyuán",
+      "english": "clerk / office worker / employee",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_465",
+      "hanzi": "银行",
+      "pinyin": "yínháng",
+      "english": "bank",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_466",
+      "hanzi": "记者",
+      "pinyin": "jìzhě",
+      "english": "journalist / reporter",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_467",
+      "hanzi": "电视台",
+      "pinyin": "diànshìtái",
+      "english": "TV station",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_468",
+      "hanzi": "旅行社",
+      "pinyin": "lǚxíngshè",
+      "english": "travel agency",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_469",
+      "hanzi": "售货员",
+      "pinyin": "shòuhuòyuán",
+      "english": "salesperson / shop assistant",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_470",
+      "hanzi": "商场",
+      "pinyin": "shāngchǎng",
+      "english": "shopping mall",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_471",
+      "hanzi": "收银员",
+      "pinyin": "shōuyínyuán",
+      "english": "cashier",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_472",
+      "hanzi": "超市",
+      "pinyin": "chāoshì",
+      "english": "supermarket",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_473",
+      "hanzi": "服务员",
+      "pinyin": "fúwùyuán",
+      "english": "waiter / waitress / server",
+      "type": "word",
+      "concept": "introductions"
     }
   ],
   "char_dictionary": {
@@ -4310,6 +4878,186 @@
     "阿": {
       "pinyin": "ā",
       "english": "prefix for names and kinship terms (as in 阿姨)"
+    },
+    "件": {
+      "pinyin": "jiàn",
+      "english": "item, component, piece"
+    },
+    "作": {
+      "pinyin": "zuò",
+      "english": "to do, to make, work"
+    },
+    "公": {
+      "pinyin": "gōng",
+      "english": "public, company"
+    },
+    "务": {
+      "pinyin": "wù",
+      "english": "affair, business, service"
+    },
+    "包": {
+      "pinyin": "bāo",
+      "english": "to wrap, pack, bag"
+    },
+    "医": {
+      "pinyin": "yī",
+      "english": "medical, doctor, medicine"
+    },
+    "卖": {
+      "pinyin": "mài",
+      "english": "to sell"
+    },
+    "口": {
+      "pinyin": "kǒu",
+      "english": "mouth, measure word for family"
+    },
+    "只": {
+      "pinyin": "zhī",
+      "english": "measure word for animals"
+    },
+    "台": {
+      "pinyin": "tái",
+      "english": "platform, station, desk"
+    },
+    "司": {
+      "pinyin": "sī",
+      "english": "to manage, company"
+    },
+    "员": {
+      "pinyin": "yuán",
+      "english": "member, staff, personnel"
+    },
+    "售": {
+      "pinyin": "shòu",
+      "english": "to sell"
+    },
+    "商": {
+      "pinyin": "shāng",
+      "english": "commerce, business"
+    },
+    "场": {
+      "pinyin": "chǎng",
+      "english": "field, market, open place"
+    },
+    "士": {
+      "pinyin": "shì",
+      "english": "scholar, specialist, person"
+    },
+    "外": {
+      "pinyin": "wài",
+      "english": "outside, foreign, external"
+    },
+    "工": {
+      "pinyin": "gōng",
+      "english": "work, worker, engineering"
+    },
+    "市": {
+      "pinyin": "shì",
+      "english": "market, city"
+    },
+    "带": {
+      "pinyin": "dài",
+      "english": "to bring, carry, take"
+    },
+    "打": {
+      "pinyin": "dǎ",
+      "english": "to hit, pack, make"
+    },
+    "护": {
+      "pinyin": "hù",
+      "english": "to protect, nurse"
+    },
+    "收": {
+      "pinyin": "shōu",
+      "english": "to receive, collect"
+    },
+    "旅": {
+      "pinyin": "lǚ",
+      "english": "to travel, trip"
+    },
+    "服": {
+      "pinyin": "fú",
+      "english": "clothes, to serve"
+    },
+    "板": {
+      "pinyin": "bǎn",
+      "english": "board, boss, plate"
+    },
+    "校": {
+      "pinyin": "xiào",
+      "english": "school"
+    },
+    "牙": {
+      "pinyin": "yá",
+      "english": "tooth, Spanish (in 西班牙)"
+    },
+    "猫": {
+      "pinyin": "māo",
+      "english": "cat"
+    },
+    "社": {
+      "pinyin": "shè",
+      "english": "society, agency, club"
+    },
+    "秘": {
+      "pinyin": "mì",
+      "english": "secret, secretary"
+    },
+    "程": {
+      "pinyin": "chéng",
+      "english": "procedure, rule, engineering"
+    },
+    "者": {
+      "pinyin": "zhě",
+      "english": "person, one who does"
+    },
+    "职": {
+      "pinyin": "zhí",
+      "english": "duty, post, occupation"
+    },
+    "行": {
+      "pinyin": "háng",
+      "english": "bank, firm, row"
+    },
+    "记": {
+      "pinyin": "jì",
+      "english": "to record, remember"
+    },
+    "货": {
+      "pinyin": "huò",
+      "english": "goods, commodity"
+    },
+    "走": {
+      "pinyin": "zǒu",
+      "english": "to walk, leave, go"
+    },
+    "超": {
+      "pinyin": "chāo",
+      "english": "super-, to exceed, surpass"
+    },
+    "软": {
+      "pinyin": "ruǎn",
+      "english": "soft, flexible"
+    },
+    "还": {
+      "pinyin": "hái",
+      "english": "still, yet, or"
+    },
+    "银": {
+      "pinyin": "yín",
+      "english": "silver, money"
+    },
+    "院": {
+      "pinyin": "yuàn",
+      "english": "institution, courtyard, hospital"
+    },
+    "题": {
+      "pinyin": "tí",
+      "english": "topic, question, problem"
+    },
+    "馆": {
+      "pinyin": "guǎn",
+      "english": "building, shop, restaurant"
     }
   }
 }
