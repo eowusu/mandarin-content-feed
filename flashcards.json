@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-09-15T04:05:47.397607+00:00",
-  "total_cards": 473,
+  "last_updated": "2026-09-15T04:23:16.549001+00:00",
+  "total_cards": 513,
   "concepts": [
     {
       "id": "all",
@@ -3864,6 +3864,326 @@
       "english": "waiter / waitress / server",
       "type": "word",
       "concept": "introductions"
+    },
+    {
+      "id": "card_474",
+      "hanzi": "瑞典肉丸",
+      "pinyin": "ruìdiǎn ròuwán",
+      "english": "Swedish meatballs",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_475",
+      "hanzi": "瑞典",
+      "pinyin": "Ruìdiǎn",
+      "english": "Sweden",
+      "type": "word",
+      "concept": "countries"
+    },
+    {
+      "id": "card_476",
+      "hanzi": "肉丸",
+      "pinyin": "ròuwán",
+      "english": "meatball(s)",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_477",
+      "hanzi": "下午我做了运动，在外面跑步。",
+      "pinyin": "Xiàwǔ wǒ zuò le yùndòng, zài wàimiàn pǎobù.",
+      "english": "I worked out in the afternoon and went running outside.",
+      "type": "sentence",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_478",
+      "hanzi": "外面",
+      "pinyin": "wàimiàn",
+      "english": "outside / outdoors",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_479",
+      "hanzi": "跑步",
+      "pinyin": "pǎobù",
+      "english": "to run / running / jogging",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_480",
+      "hanzi": "看完电影",
+      "pinyin": "kàn wán diànyǐng",
+      "english": "finish watching the movie",
+      "type": "phrase",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_481",
+      "hanzi": "完",
+      "pinyin": "wán",
+      "english": "to finish / to complete / finished",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_482",
+      "hanzi": "我晚上六点跑完步，七点上中文课。",
+      "pinyin": "Wǒ wǎnshang liù diǎn pǎo wán bù, qī diǎn shàng zhōngwén kè.",
+      "english": "I finish running at 6 p.m. and have Chinese class at 7.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_483",
+      "hanzi": "运动员",
+      "pinyin": "yùndòngyuán",
+      "english": "athlete / sports player",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_484",
+      "hanzi": "你会打乒乓球吗？",
+      "pinyin": "Nǐ huì dǎ pīngpāngqiú ma?",
+      "english": "Can you play table tennis?",
+      "type": "sentence",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_485",
+      "hanzi": "乒乓球",
+      "pinyin": "pīngpāngqiú",
+      "english": "table tennis / ping-pong",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_486",
+      "hanzi": "打乒乓球",
+      "pinyin": "dǎ pīngpāngqiú",
+      "english": "to play table tennis / to play ping-pong",
+      "type": "phrase",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_487",
+      "hanzi": "你的工作是什么？",
+      "pinyin": "Nǐ de gōngzuò shì shénme?",
+      "english": "What do you do for work?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_488",
+      "hanzi": "我是软件工程师。",
+      "pinyin": "Wǒ shì ruǎnjiàn gōngchéngshī.",
+      "english": "I am a software engineer.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_489",
+      "hanzi": "几口人",
+      "pinyin": "jǐ kǒu rén",
+      "english": "how many people in a family",
+      "type": "phrase",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_490",
+      "hanzi": "心理医生",
+      "pinyin": "xīnlǐyīshēng",
+      "english": "psychologist / therapist / psychiatrist",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_491",
+      "hanzi": "心理",
+      "pinyin": "xīnlǐ",
+      "english": "psychology / mental / psychological",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_492",
+      "hanzi": "这不是我的。这是你的。",
+      "pinyin": "Zhè búshì wǒ de. Zhè shì nǐ de.",
+      "english": "This isn't mine. This is yours.",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_493",
+      "hanzi": "这不是我的。",
+      "pinyin": "Zhè búshì wǒ de.",
+      "english": "This isn't mine.",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_494",
+      "hanzi": "这是你的。",
+      "pinyin": "Zhè shì nǐ de.",
+      "english": "This is yours.",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_495",
+      "hanzi": "这是谁的？",
+      "pinyin": "Zhè shì shéi de?",
+      "english": "Whose is this?",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_496",
+      "hanzi": "谁的",
+      "pinyin": "shéi de",
+      "english": "whose",
+      "type": "phrase",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_497",
+      "hanzi": "这是我的，谢谢！",
+      "pinyin": "Zhè shì wǒ de, xièxie!",
+      "english": "This is mine, thank you!",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_498",
+      "hanzi": "你现在在大学吗？",
+      "pinyin": "Nǐ xiànzài zài dàxué ma?",
+      "english": "Are you in college now?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_499",
+      "hanzi": "我现在不在大学。",
+      "pinyin": "Wǒ xiànzài bú zài dàxué.",
+      "english": "I am not in college now.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_500",
+      "hanzi": "大学",
+      "pinyin": "dàxué",
+      "english": "university / college",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_501",
+      "hanzi": "在银行",
+      "pinyin": "zài yínháng",
+      "english": "at the bank",
+      "type": "phrase",
+      "concept": "objects"
+    },
+    {
+      "id": "card_502",
+      "hanzi": "在大学",
+      "pinyin": "zài dàxué",
+      "english": "at university / in college",
+      "type": "phrase",
+      "concept": "objects"
+    },
+    {
+      "id": "card_503",
+      "hanzi": "在家",
+      "pinyin": "zài jiā",
+      "english": "at home",
+      "type": "phrase",
+      "concept": "objects"
+    },
+    {
+      "id": "card_504",
+      "hanzi": "在",
+      "pinyin": "zài",
+      "english": "in / at / on",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_505",
+      "hanzi": "这是谁？",
+      "pinyin": "Zhè shì shéi?",
+      "english": "Who is this?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_506",
+      "hanzi": "他是谁？",
+      "pinyin": "Tā shì shéi?",
+      "english": "Who is he?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_507",
+      "hanzi": "他是学生吗？",
+      "pinyin": "Tā shì xuéshēng ma?",
+      "english": "Is he a student?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_508",
+      "hanzi": "她是学生吗？",
+      "pinyin": "Tā shì xuéshēng ma?",
+      "english": "Is she a student?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_509",
+      "hanzi": "雪丽",
+      "pinyin": "Xuělì",
+      "english": "Shirley (name)",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_510",
+      "hanzi": "她在哪儿学习？",
+      "pinyin": "Tā zài nǎr xuéxí?",
+      "english": "Where does she study?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_511",
+      "hanzi": "学习",
+      "pinyin": "xuéxí",
+      "english": "to study / to learn",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_512",
+      "hanzi": "学习汉语",
+      "pinyin": "xuéxí hànyǔ",
+      "english": "to study Chinese",
+      "type": "phrase",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_513",
+      "hanzi": "你学习什么？",
+      "pinyin": "Nǐ xuéxí shénme?",
+      "english": "What do you study?",
+      "type": "sentence",
+      "concept": "introductions"
     }
   ],
   "char_dictionary": {
@@ -5058,6 +5378,62 @@
     "馆": {
       "pinyin": "guǎn",
       "english": "building, shop, restaurant"
+    },
+    "丸": {
+      "pinyin": "wán",
+      "english": "pill, small ball, pellet"
+    },
+    "乒": {
+      "pinyin": "pīng",
+      "english": "ping (in ping-pong)"
+    },
+    "乓": {
+      "pinyin": "pāng",
+      "english": "pong (in ping-pong)"
+    },
+    "习": {
+      "pinyin": "xí",
+      "english": "to practice, study, habit"
+    },
+    "典": {
+      "pinyin": "diǎn",
+      "english": "standard, canon, Sweden (in 瑞典)"
+    },
+    "完": {
+      "pinyin": "wán",
+      "english": "to finish, complete, end"
+    },
+    "心": {
+      "pinyin": "xīn",
+      "english": "heart, mind"
+    },
+    "步": {
+      "pinyin": "bù",
+      "english": "step, pace, to walk"
+    },
+    "球": {
+      "pinyin": "qiú",
+      "english": "ball, sphere, globe"
+    },
+    "理": {
+      "pinyin": "lǐ",
+      "english": "reason, logic, science, psychology"
+    },
+    "瑞": {
+      "pinyin": "ruì",
+      "english": "auspicious, lucky, Swiss/Swedish"
+    },
+    "肉": {
+      "pinyin": "ròu",
+      "english": "meat, flesh"
+    },
+    "跑": {
+      "pinyin": "pǎo",
+      "english": "to run"
+    },
+    "面": {
+      "pinyin": "miàn",
+      "english": "surface, side, outside, face"
     }
   }
 }
