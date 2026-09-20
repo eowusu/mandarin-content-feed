@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-09-15T04:23:16.549001+00:00",
-  "total_cards": 513,
+  "last_updated": "2026-09-20T22:03:10.956183+00:00",
+  "total_cards": 621,
   "concepts": [
     {
       "id": "all",
@@ -4184,6 +4184,870 @@
       "english": "What do you study?",
       "type": "sentence",
       "concept": "introductions"
+    },
+    {
+      "id": "card_514",
+      "hanzi": "你工作做完了吗？",
+      "pinyin": "Nǐ gōngzuò zuò wán le ma?",
+      "english": "Have you finished your work?",
+      "type": "sentence",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_515",
+      "hanzi": "还没做完。",
+      "pinyin": "Hái méi zuò wán.",
+      "english": "I haven't finished it yet.",
+      "type": "sentence",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_516",
+      "hanzi": "我住在美国旧金山。",
+      "pinyin": "Wǒ zhù zài Měiguó Jiùjīnshān.",
+      "english": "I live in San Francisco, USA.",
+      "type": "sentence",
+      "concept": "countries"
+    },
+    {
+      "id": "card_517",
+      "hanzi": "住在",
+      "pinyin": "zhù zài",
+      "english": "to live in / to reside at",
+      "type": "phrase",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_518",
+      "hanzi": "住",
+      "pinyin": "zhù",
+      "english": "to live / to reside",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_519",
+      "hanzi": "大弟弟",
+      "pinyin": "dà dìdi",
+      "english": "eldest younger brother",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_520",
+      "hanzi": "二弟弟",
+      "pinyin": "èr dìdi",
+      "english": "second younger brother",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_521",
+      "hanzi": "三弟弟",
+      "pinyin": "sān dìdi",
+      "english": "third younger brother",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_522",
+      "hanzi": "两千零八",
+      "pinyin": "liǎng qiān líng bā",
+      "english": "2008 (two thousand and eight)",
+      "type": "number",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_523",
+      "hanzi": "两万零八",
+      "pinyin": "liǎng wàn líng bā",
+      "english": "20008 (twenty thousand and eight)",
+      "type": "number",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_524",
+      "hanzi": "两万零一十八",
+      "pinyin": "liǎng wàn líng yīshíbā",
+      "english": "20018 (twenty thousand and eighteen)",
+      "type": "number",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_525",
+      "hanzi": "钱包",
+      "pinyin": "qiánbāo",
+      "english": "wallet / purse",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_526",
+      "hanzi": "包子",
+      "pinyin": "bāozi",
+      "english": "steamed bun / baozi",
+      "type": "word",
+      "concept": "food"
+    },
+    {
+      "id": "card_527",
+      "hanzi": "等于",
+      "pinyin": "děngyú",
+      "english": "equal to / equals",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_528",
+      "hanzi": "您买什么？",
+      "pinyin": "Nín mǎi shénme?",
+      "english": "What do you want to buy? (polite)",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_529",
+      "hanzi": "买",
+      "pinyin": "mǎi",
+      "english": "to buy / to purchase",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_530",
+      "hanzi": "买苹果",
+      "pinyin": "mǎi píngguǒ",
+      "english": "buy apples",
+      "type": "phrase",
+      "concept": "food"
+    },
+    {
+      "id": "card_531",
+      "hanzi": "买西瓜",
+      "pinyin": "mǎi xīguā",
+      "english": "buy watermelon",
+      "type": "phrase",
+      "concept": "food"
+    },
+    {
+      "id": "card_532",
+      "hanzi": "我买苹果。",
+      "pinyin": "Wǒ mǎi píngguǒ.",
+      "english": "I'll buy apples.",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_533",
+      "hanzi": "我买西瓜。",
+      "pinyin": "Wǒ mǎi xīguā.",
+      "english": "I'll buy watermelon.",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_534",
+      "hanzi": "我要西瓜。",
+      "pinyin": "Wǒ yào xīguā.",
+      "english": "I want watermelon.",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_535",
+      "hanzi": "你要苹果吗？",
+      "pinyin": "Nǐ yào píngguǒ ma?",
+      "english": "Do you want apples?",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_536",
+      "hanzi": "我不要苹果。",
+      "pinyin": "Wǒ bú yào píngguǒ.",
+      "english": "I don't want apples.",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_537",
+      "hanzi": "多少钱？",
+      "pinyin": "Duōshao qián?",
+      "english": "How much is it? / How much money?",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_538",
+      "hanzi": "钱",
+      "pinyin": "qián",
+      "english": "money / coin",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_539",
+      "hanzi": "块",
+      "pinyin": "kuài",
+      "english": "kuai (spoken unit of currency, yuan)",
+      "type": "word",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_540",
+      "hanzi": "元",
+      "pinyin": "yuán",
+      "english": "yuan (formal unit of currency)",
+      "type": "word",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_541",
+      "hanzi": "毛",
+      "pinyin": "máo",
+      "english": "mao (spoken unit of 10 cents, jiao)",
+      "type": "word",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_542",
+      "hanzi": "角",
+      "pinyin": "jiǎo",
+      "english": "jiao (formal unit of 10 cents)",
+      "type": "word",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_543",
+      "hanzi": "一块",
+      "pinyin": "yí kuài",
+      "english": "one kuai / 1 RMB",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_544",
+      "hanzi": "一元",
+      "pinyin": "yì yuán",
+      "english": "one yuan / 1 RMB",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_545",
+      "hanzi": "五块",
+      "pinyin": "wǔ kuài",
+      "english": "five kuai / 5 RMB",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_546",
+      "hanzi": "五元",
+      "pinyin": "wǔ yuán",
+      "english": "five yuan / 5 RMB",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_547",
+      "hanzi": "十块",
+      "pinyin": "shí kuài",
+      "english": "ten kuai / 10 RMB",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_548",
+      "hanzi": "十元",
+      "pinyin": "shí yuán",
+      "english": "ten yuan / 10 RMB",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_549",
+      "hanzi": "二十块",
+      "pinyin": "èrshí kuài",
+      "english": "twenty kuai / 20 RMB",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_550",
+      "hanzi": "二十元",
+      "pinyin": "èrshí yuán",
+      "english": "twenty yuan / 20 RMB",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_551",
+      "hanzi": "五十块",
+      "pinyin": "wǔshí kuài",
+      "english": "fifty kuai / 50 RMB",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_552",
+      "hanzi": "五十元",
+      "pinyin": "wǔshí yuán",
+      "english": "fifty yuan / 50 RMB",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_553",
+      "hanzi": "一百块",
+      "pinyin": "yìbǎi kuài",
+      "english": "one hundred kuai / 100 RMB",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_554",
+      "hanzi": "一百元",
+      "pinyin": "yìbǎi yuán",
+      "english": "one hundred yuan / 100 RMB",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_555",
+      "hanzi": "一毛",
+      "pinyin": "yì máo",
+      "english": "one mao (10 cents)",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_556",
+      "hanzi": "一角",
+      "pinyin": "yì jiǎo",
+      "english": "one jiao (10 cents)",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_557",
+      "hanzi": "五毛",
+      "pinyin": "wǔ máo",
+      "english": "five mao (50 cents)",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_558",
+      "hanzi": "五角",
+      "pinyin": "wǔ jiǎo",
+      "english": "five jiao (50 cents)",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_559",
+      "hanzi": "一分",
+      "pinyin": "yì fēn",
+      "english": "one cent / 1 fen",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_560",
+      "hanzi": "两块五",
+      "pinyin": "liǎng kuài wǔ",
+      "english": "two kuai fifty (¥2.50)",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_561",
+      "hanzi": "一百三",
+      "pinyin": "yìbǎi sān",
+      "english": "one hundred and thirty (¥130)",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_562",
+      "hanzi": "三块",
+      "pinyin": "sān kuài",
+      "english": "three kuai (¥3.00)",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_563",
+      "hanzi": "六毛",
+      "pinyin": "liù máo",
+      "english": "sixty cents (¥0.60)",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_564",
+      "hanzi": "七分",
+      "pinyin": "qī fēn",
+      "english": "seven cents (¥0.07)",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_565",
+      "hanzi": "七毛九",
+      "pinyin": "qī máo jiǔ",
+      "english": "seventy-nine cents (¥0.79)",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_566",
+      "hanzi": "一块八",
+      "pinyin": "yí kuài bā",
+      "english": "one kuai eighty (¥1.80)",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_567",
+      "hanzi": "两块",
+      "pinyin": "liǎng kuài",
+      "english": "two kuai (¥2.00)",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_568",
+      "hanzi": "两百块",
+      "pinyin": "liǎng bǎi kuài",
+      "english": "two hundred kuai (¥200)",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_569",
+      "hanzi": "两毛",
+      "pinyin": "liǎng máo",
+      "english": "twenty cents (¥0.20)",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_570",
+      "hanzi": "两分",
+      "pinyin": "liǎng fēn",
+      "english": "two cents (¥0.02)",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_571",
+      "hanzi": "二分",
+      "pinyin": "èr fēn",
+      "english": "two cents (¥0.02)",
+      "type": "phrase",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_572",
+      "hanzi": "电子钱包",
+      "pinyin": "diànzǐ qiánbāo",
+      "english": "e-wallet / digital wallet",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_573",
+      "hanzi": "斤",
+      "pinyin": "jīn",
+      "english": "jin (unit of weight = 500g)",
+      "type": "word",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_574",
+      "hanzi": "公斤",
+      "pinyin": "gōngjīn",
+      "english": "kilogram (kg)",
+      "type": "word",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_575",
+      "hanzi": "千克",
+      "pinyin": "qiānkè",
+      "english": "kilogram (kg)",
+      "type": "word",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_576",
+      "hanzi": "克",
+      "pinyin": "kè",
+      "english": "gram (g)",
+      "type": "word",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_577",
+      "hanzi": "升",
+      "pinyin": "shēng",
+      "english": "liter (L)",
+      "type": "word",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_578",
+      "hanzi": "毫升",
+      "pinyin": "háoshēng",
+      "english": "milliliter (mL)",
+      "type": "word",
+      "concept": "numbers"
+    },
+    {
+      "id": "card_579",
+      "hanzi": "多少钱一斤？",
+      "pinyin": "Duōshao qián yì jīn?",
+      "english": "How much is it per jin (500g)?",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_580",
+      "hanzi": "中学",
+      "pinyin": "zhōngxué",
+      "english": "middle school / secondary school",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_581",
+      "hanzi": "初中",
+      "pinyin": "chūzhōng",
+      "english": "junior high school",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_582",
+      "hanzi": "高中",
+      "pinyin": "gāozhōng",
+      "english": "senior high school",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_583",
+      "hanzi": "小学",
+      "pinyin": "xiǎoxué",
+      "english": "primary school / elementary school",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_584",
+      "hanzi": "超人",
+      "pinyin": "chāorén",
+      "english": "Superman",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_585",
+      "hanzi": "你有空儿吗？",
+      "pinyin": "Nǐ yǒu kòngr ma?",
+      "english": "Are you free?",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_586",
+      "hanzi": "你有空吗？",
+      "pinyin": "Nǐ yǒu kòng ma?",
+      "english": "Are you free?",
+      "type": "sentence",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_587",
+      "hanzi": "空儿",
+      "pinyin": "kòngr",
+      "english": "free time",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_588",
+      "hanzi": "空",
+      "pinyin": "kòng",
+      "english": "free time / leisure",
+      "type": "word",
+      "concept": "time"
+    },
+    {
+      "id": "card_589",
+      "hanzi": "上课的时候",
+      "pinyin": "shàngkè de shíhou",
+      "english": "during class / when having class",
+      "type": "phrase",
+      "concept": "time"
+    },
+    {
+      "id": "card_590",
+      "hanzi": "的时候",
+      "pinyin": "de shíhou",
+      "english": "when... / during...",
+      "type": "phrase",
+      "concept": "time"
+    },
+    {
+      "id": "card_591",
+      "hanzi": "你有兄弟姐妹吗？",
+      "pinyin": "Nǐ yǒu xiōngdì jiěmèi ma?",
+      "english": "Do you have any brothers or sisters?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_592",
+      "hanzi": "兄弟姐妹",
+      "pinyin": "xiōngdì jiěmèi",
+      "english": "brothers and sisters / siblings",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_593",
+      "hanzi": "兄弟",
+      "pinyin": "xiōngdì",
+      "english": "brothers / brothers in arms",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_594",
+      "hanzi": "雪丽在学校上课。",
+      "pinyin": "Xuělì zài xuéxiào shàngkè.",
+      "english": "Shirley has class at school.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_595",
+      "hanzi": "他在医院工作。",
+      "pinyin": "Tā zài yīyuàn gōngzuò.",
+      "english": "He works at the hospital.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_596",
+      "hanzi": "他们在家吃饭。",
+      "pinyin": "Tāmen zài jiā chīfàn.",
+      "english": "They eat at home.",
+      "type": "sentence",
+      "concept": "food"
+    },
+    {
+      "id": "card_597",
+      "hanzi": "她在大学工作。",
+      "pinyin": "Tā zài dàxué gōngzuò.",
+      "english": "She works at the university.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_598",
+      "hanzi": "哪儿",
+      "pinyin": "nǎr",
+      "english": "where",
+      "type": "word",
+      "concept": "phrases"
+    },
+    {
+      "id": "card_599",
+      "hanzi": "你在哪儿学习？",
+      "pinyin": "Nǐ zài nǎr xuéxí?",
+      "english": "Where do you study?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_600",
+      "hanzi": "没有",
+      "pinyin": "méiyǒu",
+      "english": "to not have / there is not",
+      "type": "word",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_601",
+      "hanzi": "我没有弟弟。",
+      "pinyin": "Wǒ méiyǒu dìdi.",
+      "english": "I don't have a younger brother.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_602",
+      "hanzi": "我太忙了，没有时间。",
+      "pinyin": "Wǒ tài máng le, méiyǒu shíjiān.",
+      "english": "I am too busy, I don't have time.",
+      "type": "sentence",
+      "concept": "time"
+    },
+    {
+      "id": "card_603",
+      "hanzi": "我太忙了",
+      "pinyin": "wǒ tài máng le",
+      "english": "I am too busy",
+      "type": "phrase",
+      "concept": "verbs_adjectives"
+    },
+    {
+      "id": "card_604",
+      "hanzi": "你有哥哥吗？",
+      "pinyin": "Nǐ yǒu gēge ma?",
+      "english": "Do you have an older brother?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_605",
+      "hanzi": "你有姐姐吗？",
+      "pinyin": "Nǐ yǒu jiějie ma?",
+      "english": "Do you have an older sister?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_606",
+      "hanzi": "你有弟弟吗？",
+      "pinyin": "Nǐ yǒu dìdi ma?",
+      "english": "Do you have a younger brother?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_607",
+      "hanzi": "你有妹妹吗？",
+      "pinyin": "Nǐ yǒu mèimei ma?",
+      "english": "Do you have a younger sister?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_608",
+      "hanzi": "你有男朋友吗？",
+      "pinyin": "Nǐ yǒu nánpéngyou ma?",
+      "english": "Do you have a boyfriend?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_609",
+      "hanzi": "你有邮箱吗？",
+      "pinyin": "Nǐ yǒu yóuxiāng ma?",
+      "english": "Do you have an email address?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_610",
+      "hanzi": "中国银行",
+      "pinyin": "Zhōngguó Yínháng",
+      "english": "Bank of China",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_611",
+      "hanzi": "她在哪儿工作？",
+      "pinyin": "Tā zài nǎr gōngzuò?",
+      "english": "Where does she work?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_612",
+      "hanzi": "她在银行工作。",
+      "pinyin": "Tā zài yínháng gōngzuò.",
+      "english": "She works at a bank.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_613",
+      "hanzi": "她在中国银行工作。",
+      "pinyin": "Tā zài Zhōngguó Yínháng gōngzuò.",
+      "english": "She works at the Bank of China.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_614",
+      "hanzi": "思齐",
+      "pinyin": "Sīqí",
+      "english": "Siqi (proper name)",
+      "type": "word",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_615",
+      "hanzi": "这是我妹妹。",
+      "pinyin": "Zhè shì wǒ mèimei.",
+      "english": "This is my younger sister.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_616",
+      "hanzi": "这是你弟弟吗？",
+      "pinyin": "Zhè shì nǐ dìdi ma?",
+      "english": "Is this your younger brother?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_617",
+      "hanzi": "我没有弟弟，这是我哥哥。",
+      "pinyin": "Wǒ méiyǒu dìdi, zhè shì wǒ gēge.",
+      "english": "I don't have a younger brother, this is my older brother.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_618",
+      "hanzi": "他也是学生吗？",
+      "pinyin": "Tā yě shì xuéshēng ma?",
+      "english": "Is he also a student?",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_619",
+      "hanzi": "不是，他在银行工作。",
+      "pinyin": "Bú shì, tā zài yínháng gōngzuò.",
+      "english": "No, he works at a bank.",
+      "type": "sentence",
+      "concept": "introductions"
+    },
+    {
+      "id": "card_620",
+      "hanzi": "北京大学",
+      "pinyin": "Běijīng Dàxué",
+      "english": "Peking University",
+      "type": "word",
+      "concept": "objects"
+    },
+    {
+      "id": "card_621",
+      "hanzi": "她在北京大学学习。",
+      "pinyin": "Tā zài Běijīng Dàxué xuéxí.",
+      "english": "She studies at Peking University.",
+      "type": "sentence",
+      "concept": "introductions"
     }
   ],
   "char_dictionary": {
@@ -5434,6 +6298,74 @@
     "面": {
       "pinyin": "miàn",
       "english": "surface, side, outside, face"
+    },
+    "买": {
+      "pinyin": "mǎi",
+      "english": "to buy / to purchase"
+    },
+    "于": {
+      "pinyin": "yú",
+      "english": "at / in / to / equal to (in 等于)"
+    },
+    "住": {
+      "pinyin": "zhù",
+      "english": "to live / to dwell / to stay"
+    },
+    "元": {
+      "pinyin": "yuán",
+      "english": "yuan (currency unit) / primary"
+    },
+    "兄": {
+      "pinyin": "xiōng",
+      "english": "elder brother"
+    },
+    "克": {
+      "pinyin": "kè",
+      "english": "gram / to overcome"
+    },
+    "初": {
+      "pinyin": "chū",
+      "english": "beginning / early / junior (in 初中)"
+    },
+    "升": {
+      "pinyin": "shēng",
+      "english": "liter (capacity unit) / to rise"
+    },
+    "块": {
+      "pinyin": "kuài",
+      "english": "kuai (currency unit) / piece / lump"
+    },
+    "思": {
+      "pinyin": "sī",
+      "english": "to think / thought / consider (in 思齐)"
+    },
+    "斤": {
+      "pinyin": "jīn",
+      "english": "jin (unit of weight, 500g) / catty"
+    },
+    "毫": {
+      "pinyin": "háo",
+      "english": "milli- / fine hair / tiny"
+    },
+    "空": {
+      "pinyin": "kòng",
+      "english": "free time / leisure / spare time"
+    },
+    "等": {
+      "pinyin": "děng",
+      "english": "to wait / equal to / class"
+    },
+    "角": {
+      "pinyin": "jiǎo",
+      "english": "jiao (fractional currency unit, 10 cents) / horn / corner"
+    },
+    "钱": {
+      "pinyin": "qián",
+      "english": "money / coin / currency"
+    },
+    "齐": {
+      "pinyin": "qí",
+      "english": "neat / even / together (in 思齐)"
     }
   }
 }
