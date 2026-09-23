@@ -1,12 +1,16 @@
 {
-  "version": "1.0.0",
-  "last_updated": "2026-09-20T22:03:10.956183+00:00",
-  "total_cards": 621,
+  "feed_version": "2.0.0",
+  "last_updated": "2026-09-23",
   "concepts": [
     {
       "id": "all",
       "name": "All Concepts",
       "emoji": "📚"
+    },
+    {
+      "id": "top100",
+      "name": "Top 100 Characters",
+      "emoji": "💯"
     },
     {
       "id": "greetings",
@@ -59,24 +63,1448 @@
       "emoji": "💬"
     }
   ],
-  "types": [
-    {
-      "id": "all",
-      "name": "All"
+  "char_dictionary": {
+    "你": {
+      "pinyin": "nǐ",
+      "english": "you"
     },
-    {
-      "id": "word",
-      "name": "Words"
+    "我": {
+      "pinyin": "wǒ",
+      "english": "I / me"
     },
-    {
-      "id": "number",
-      "name": "Numbers"
+    "他": {
+      "pinyin": "tā",
+      "english": "he / him"
     },
-    {
-      "id": "sentence",
-      "name": "Sentences"
+    "她": {
+      "pinyin": "tā",
+      "english": "she / her"
+    },
+    "您": {
+      "pinyin": "nín",
+      "english": "you (polite)"
+    },
+    "们": {
+      "pinyin": "men",
+      "english": "plural suffix"
+    },
+    "人": {
+      "pinyin": "rén",
+      "english": "person"
+    },
+    "老": {
+      "pinyin": "lǎo",
+      "english": "old / venerable"
+    },
+    "师": {
+      "pinyin": "shī",
+      "english": "teacher / master"
+    },
+    "学": {
+      "pinyin": "xué",
+      "english": "study / learn"
+    },
+    "生": {
+      "pinyin": "shēng",
+      "english": "student / born"
+    },
+    "哥": {
+      "pinyin": "gē",
+      "english": "elder brother"
+    },
+    "好": {
+      "pinyin": "hǎo",
+      "english": "good"
+    },
+    "再": {
+      "pinyin": "zài",
+      "english": "again"
+    },
+    "见": {
+      "pinyin": "jiàn",
+      "english": "see / meet"
+    },
+    "对": {
+      "pinyin": "duì",
+      "english": "correct / towards"
+    },
+    "不": {
+      "pinyin": "bù",
+      "english": "not / no"
+    },
+    "起": {
+      "pinyin": "qǐ",
+      "english": "rise / start"
+    },
+    "没": {
+      "pinyin": "méi",
+      "english": "have not / no"
+    },
+    "关": {
+      "pinyin": "guān",
+      "english": "close / relate"
+    },
+    "系": {
+      "pinyin": "xì",
+      "english": "connection / system"
+    },
+    "事": {
+      "pinyin": "shì",
+      "english": "matter / thing"
+    },
+    "儿": {
+      "pinyin": "r",
+      "english": "noun suffix"
+    },
+    "客": {
+      "pinyin": "kè",
+      "english": "guest"
+    },
+    "气": {
+      "pinyin": "qì",
+      "english": "air / spirit"
+    },
+    "叫": {
+      "pinyin": "jiào",
+      "english": "call / named"
+    },
+    "什": {
+      "pinyin": "shén",
+      "english": "what"
+    },
+    "么": {
+      "pinyin": "me",
+      "english": "suffix"
+    },
+    "名": {
+      "pinyin": "míng",
+      "english": "name"
+    },
+    "字": {
+      "pinyin": "zì",
+      "english": "character / word"
+    },
+    "呢": {
+      "pinyin": "ne",
+      "english": "question particle"
+    },
+    "是": {
+      "pinyin": "shì",
+      "english": "is / are / am"
+    },
+    "哪": {
+      "pinyin": "nǎ",
+      "english": "which / where"
+    },
+    "这": {
+      "pinyin": "zhè",
+      "english": "this"
+    },
+    "那": {
+      "pinyin": "nà",
+      "english": "that"
+    },
+    "的": {
+      "pinyin": "de",
+      "english": "possessive particle"
+    },
+    "吗": {
+      "pinyin": "ma",
+      "english": "question particle"
+    },
+    "了": {
+      "pinyin": "le",
+      "english": "completed action"
+    },
+    "个": {
+      "pinyin": "ge",
+      "english": "measure word"
+    },
+    "谁": {
+      "pinyin": "shuí",
+      "english": "who"
+    },
+    "几": {
+      "pinyin": "jǐ",
+      "english": "how many"
+    },
+    "多": {
+      "pinyin": "duō",
+      "english": "many / much"
+    },
+    "少": {
+      "pinyin": "shǎo",
+      "english": "few / little"
+    },
+    "怎": {
+      "pinyin": "zěn",
+      "english": "how"
+    },
+    "样": {
+      "pinyin": "yàng",
+      "english": "appearance / shape"
+    },
+    "零": {
+      "pinyin": "líng",
+      "english": "zero"
+    },
+    "一": {
+      "pinyin": "yī",
+      "english": "one"
+    },
+    "二": {
+      "pinyin": "èr",
+      "english": "two"
+    },
+    "两": {
+      "pinyin": "liǎng",
+      "english": "two (quantities)"
+    },
+    "三": {
+      "pinyin": "sān",
+      "english": "three"
+    },
+    "四": {
+      "pinyin": "sì",
+      "english": "four"
+    },
+    "五": {
+      "pinyin": "wǔ",
+      "english": "five"
+    },
+    "六": {
+      "pinyin": "liù",
+      "english": "six"
+    },
+    "七": {
+      "pinyin": "qī",
+      "english": "seven"
+    },
+    "八": {
+      "pinyin": "bā",
+      "english": "eight"
+    },
+    "九": {
+      "pinyin": "jiǔ",
+      "english": "nine"
+    },
+    "十": {
+      "pinyin": "shí",
+      "english": "ten"
+    },
+    "百": {
+      "pinyin": "bǎi",
+      "english": "hundred"
+    },
+    "千": {
+      "pinyin": "qiān",
+      "english": "thousand"
+    },
+    "万": {
+      "pinyin": "wàn",
+      "english": "ten thousand"
+    },
+    "天": {
+      "pinyin": "tiān",
+      "english": "day / sky"
+    },
+    "昨": {
+      "pinyin": "zuó",
+      "english": "yesterday"
+    },
+    "今": {
+      "pinyin": "jīn",
+      "english": "today / present"
+    },
+    "明": {
+      "pinyin": "míng",
+      "english": "tomorrow / bright"
+    },
+    "后": {
+      "pinyin": "hòu",
+      "english": "after / behind"
+    },
+    "前": {
+      "pinyin": "qián",
+      "english": "before / front"
+    },
+    "年": {
+      "pinyin": "nián",
+      "english": "year"
+    },
+    "去": {
+      "pinyin": "qù",
+      "english": "go / past"
+    },
+    "月": {
+      "pinyin": "yuè",
+      "english": "month / moon"
+    },
+    "日": {
+      "pinyin": "rì",
+      "english": "day / sun"
+    },
+    "号": {
+      "pinyin": "hào",
+      "english": "number / date"
+    },
+    "星": {
+      "pinyin": "xīng",
+      "english": "star"
+    },
+    "期": {
+      "pinyin": "qī",
+      "english": "period of time"
+    },
+    "上": {
+      "pinyin": "shàng",
+      "english": "up / previous"
+    },
+    "下": {
+      "pinyin": "xià",
+      "english": "down / next"
+    },
+    "周": {
+      "pinyin": "zhōu",
+      "english": "week / circumference"
+    },
+    "末": {
+      "pinyin": "mò",
+      "english": "end / final"
+    },
+    "点": {
+      "pinyin": "diǎn",
+      "english": "o'clock / dot"
+    },
+    "分": {
+      "pinyin": "fēn",
+      "english": "minute"
+    },
+    "刻": {
+      "pinyin": "kè",
+      "english": "quarter"
+    },
+    "半": {
+      "pinyin": "bàn",
+      "english": "half"
+    },
+    "差": {
+      "pinyin": "chà",
+      "english": "to be short of"
+    },
+    "早": {
+      "pinyin": "zǎo",
+      "english": "early / morning"
+    },
+    "晚": {
+      "pinyin": "wǎn",
+      "english": "late / night"
+    },
+    "现": {
+      "pinyin": "xiàn",
+      "english": "appear / present"
+    },
+    "在": {
+      "pinyin": "zài",
+      "english": "at / exist"
+    },
+    "热": {
+      "pinyin": "rè",
+      "english": "hot"
+    },
+    "雨": {
+      "pinyin": "yǔ",
+      "english": "rain"
+    },
+    "夏": {
+      "pinyin": "xià",
+      "english": "summer"
+    },
+    "很": {
+      "pinyin": "hěn",
+      "english": "very"
+    },
+    "高": {
+      "pinyin": "gāo",
+      "english": "tall / high"
+    },
+    "兴": {
+      "pinyin": "xìng",
+      "english": "mood / interest"
+    },
+    "漂": {
+      "pinyin": "piào",
+      "english": "elegant"
+    },
+    "亮": {
+      "pinyin": "liang",
+      "english": "bright"
+    },
+    "帅": {
+      "pinyin": "shuài",
+      "english": "handsome"
+    },
+    "饿": {
+      "pinyin": "è",
+      "english": "hungry"
+    },
+    "渴": {
+      "pinyin": "kě",
+      "english": "thirsty"
+    },
+    "忙": {
+      "pinyin": "máng",
+      "english": "busy"
+    },
+    "累": {
+      "pinyin": "lèi",
+      "english": "tired"
+    },
+    "认": {
+      "pinyin": "rèn",
+      "english": "recognize"
+    },
+    "识": {
+      "pinyin": "shi",
+      "english": "know"
+    },
+    "吃": {
+      "pinyin": "chī",
+      "english": "eat"
+    },
+    "饭": {
+      "pinyin": "fàn",
+      "english": "meal / cooked rice"
+    },
+    "课": {
+      "pinyin": "kè",
+      "english": "class / lesson"
+    },
+    "喝": {
+      "pinyin": "hē",
+      "english": "drink"
+    },
+    "喜": {
+      "pinyin": "xǐ",
+      "english": "fond of"
+    },
+    "欢": {
+      "pinyin": "huan",
+      "english": "joyous"
+    },
+    "觉": {
+      "pinyin": "jué",
+      "english": "feel"
+    },
+    "得": {
+      "pinyin": "de",
+      "english": "particle"
+    },
+    "但": {
+      "pinyin": "dàn",
+      "english": "but"
+    },
+    "看": {
+      "pinyin": "kàn",
+      "english": "look / see"
+    },
+    "玩": {
+      "pinyin": "wán",
+      "english": "play"
+    },
+    "有": {
+      "pinyin": "yǒu",
+      "english": "have"
+    },
+    "做": {
+      "pinyin": "zuò",
+      "english": "do / make"
+    },
+    "运": {
+      "pinyin": "yùn",
+      "english": "move / transport"
+    },
+    "动": {
+      "pinyin": "dòng",
+      "english": "move / act"
+    },
+    "雪": {
+      "pinyin": "xuě",
+      "english": "snow"
+    },
+    "丽": {
+      "pinyin": "lì",
+      "english": "beautiful"
+    },
+    "太": {
+      "pinyin": "tài",
+      "english": "too / extremely"
+    },
+    "谢": {
+      "pinyin": "xiè",
+      "english": "thank"
+    },
+    "里": {
+      "pinyin": "lǐ",
+      "english": "inside / place"
+    },
+    "国": {
+      "pinyin": "guó",
+      "english": "country"
+    },
+    "中": {
+      "pinyin": "zhōng",
+      "english": "middle"
+    },
+    "美": {
+      "pinyin": "měi",
+      "english": "beautiful"
+    },
+    "英": {
+      "pinyin": "yīng",
+      "english": "hero / UK"
+    },
+    "加": {
+      "pinyin": "jiā",
+      "english": "add"
+    },
+    "拿": {
+      "pinyin": "ná",
+      "english": "take / hold"
+    },
+    "大": {
+      "pinyin": "dà",
+      "english": "big"
+    },
+    "本": {
+      "pinyin": "běn",
+      "english": "root / origin"
+    },
+    "俄": {
+      "pinyin": "é",
+      "english": "Russia (phonetic)"
+    },
+    "罗": {
+      "pinyin": "luó",
+      "english": "net (phonetic)"
+    },
+    "斯": {
+      "pinyin": "sī",
+      "english": "this (phonetic)"
+    },
+    "澳": {
+      "pinyin": "ào",
+      "english": "bay (phonetic)"
+    },
+    "利": {
+      "pinyin": "lì",
+      "english": "profit"
+    },
+    "亚": {
+      "pinyin": "yà",
+      "english": "Asia"
+    },
+    "法": {
+      "pinyin": "fǎ",
+      "english": "law / France"
+    },
+    "墨": {
+      "pinyin": "mò",
+      "english": "ink"
+    },
+    "西": {
+      "pinyin": "xī",
+      "english": "west"
+    },
+    "摩": {
+      "pinyin": "mó",
+      "english": "rub (phonetic)"
+    },
+    "洛": {
+      "pinyin": "luò",
+      "english": "river (phonetic)"
+    },
+    "泰": {
+      "pinyin": "tài",
+      "english": "safe / peace"
+    },
+    "埃": {
+      "pinyin": "āi",
+      "english": "dust / Egypt (phonetic)"
+    },
+    "及": {
+      "pinyin": "jí",
+      "english": "reach / Egypt (phonetic)"
+    },
+    "电": {
+      "pinyin": "diàn",
+      "english": "electricity"
+    },
+    "话": {
+      "pinyin": "huà",
+      "english": "speech / words"
+    },
+    "码": {
+      "pinyin": "mǎ",
+      "english": "code / number"
+    },
+    "邮": {
+      "pinyin": "yóu",
+      "english": "post / mail"
+    },
+    "箱": {
+      "pinyin": "xiāng",
+      "english": "box / trunk"
+    },
+    "手": {
+      "pinyin": "shǒu",
+      "english": "hand"
+    },
+    "机": {
+      "pinyin": "jī",
+      "english": "machine"
+    },
+    "瓜": {
+      "pinyin": "guā",
+      "english": "melon"
+    },
+    "北": {
+      "pinyin": "běi",
+      "english": "north"
+    },
+    "京": {
+      "pinyin": "jīng",
+      "english": "capital"
+    },
+    "烤": {
+      "pinyin": "kǎo",
+      "english": "roast / bake"
+    },
+    "鸭": {
+      "pinyin": "yā",
+      "english": "duck"
+    },
+    "宫": {
+      "pinyin": "gōng",
+      "english": "palace"
+    },
+    "保": {
+      "pinyin": "bǎo",
+      "english": "protect"
+    },
+    "鸡": {
+      "pinyin": "jī",
+      "english": "chicken"
+    },
+    "丁": {
+      "pinyin": "dīng",
+      "english": "cube / male"
+    },
+    "饺": {
+      "pinyin": "jiǎo",
+      "english": "dumpling"
+    },
+    "子": {
+      "pinyin": "zi",
+      "english": "suffix"
+    },
+    "粽": {
+      "pinyin": "zòng",
+      "english": "rice dumpling"
+    },
+    "咖": {
+      "pinyin": "kā",
+      "english": "coffee (phonetic)"
+    },
+    "啡": {
+      "pinyin": "fēi",
+      "english": "coffee (phonetic)"
+    },
+    "可": {
+      "pinyin": "kě",
+      "english": "can / may"
+    },
+    "乐": {
+      "pinyin": "lè",
+      "english": "happy / laugh"
+    },
+    "火": {
+      "pinyin": "huǒ",
+      "english": "fire"
+    },
+    "锅": {
+      "pinyin": "guō",
+      "english": "pot / pan"
+    },
+    "地": {
+      "pinyin": "dì",
+      "english": "earth"
+    },
+    "图": {
+      "pinyin": "tú",
+      "english": "map / picture"
+    },
+    "飞": {
+      "pinyin": "fēi",
+      "english": "fly"
+    },
+    "毛": {
+      "pinyin": "máo",
+      "english": "hair / feather"
+    },
+    "笔": {
+      "pinyin": "bǐ",
+      "english": "pen / brush"
+    },
+    "耳": {
+      "pinyin": "ěr",
+      "english": "ear"
+    },
+    "鸟": {
+      "pinyin": "niǎo",
+      "english": "bird"
+    },
+    "毽": {
+      "pinyin": "jiàn",
+      "english": "shuttlecock"
+    },
+    "趣": {
+      "pinyin": "qù",
+      "english": "interest"
+    },
+    "文": {
+      "pinyin": "wén",
+      "english": "language / culture"
+    },
+    "菜": {
+      "pinyin": "cài",
+      "english": "dish / vegetable"
+    },
+    "苹": {
+      "pinyin": "píng",
+      "english": "apple"
+    },
+    "果": {
+      "pinyin": "guǒ",
+      "english": "fruit"
+    },
+    "披": {
+      "pinyin": "pī",
+      "english": "drape over"
+    },
+    "萨": {
+      "pinyin": "sà",
+      "english": "Bodhisattva (phonetic)"
+    },
+    "也": {
+      "pinyin": "yě",
+      "english": "also / too"
+    },
+    "先": {
+      "pinyin": "xiān",
+      "english": "first / before"
+    },
+    "午": {
+      "pinyin": "wǔ",
+      "english": "noon"
+    },
+    "小": {
+      "pinyin": "xiǎo",
+      "english": "small / little"
+    },
+    "憨": {
+      "pinyin": "hān",
+      "english": "silly (Mr. Bean)"
+    },
+    "成": {
+      "pinyin": "chéng",
+      "english": "succeed (Jackie Chan)"
+    },
+    "李": {
+      "pinyin": "lǐ",
+      "english": "plum / surname (Bruce Lee)"
+    },
+    "豆": {
+      "pinyin": "dòu",
+      "english": "bean (Mr. Bean)"
+    },
+    "过": {
+      "pinyin": "guò",
+      "english": "pass / have experienced"
+    },
+    "龙": {
+      "pinyin": "lóng",
+      "english": "dragon (Bruce Lee / Jackie Chan)"
+    },
+    "书": {
+      "pinyin": "shū",
+      "english": "book, document, letter"
+    },
+    "伦": {
+      "pinyin": "lún",
+      "english": "human relationships, logic (used in London 伦敦)"
+    },
+    "候": {
+      "pinyin": "hòu",
+      "english": "time, season, wait (as in 时候)"
+    },
+    "冰": {
+      "pinyin": "bīng",
+      "english": "ice, cold"
+    },
+    "华": {
+      "pinyin": "huá",
+      "english": "splendid, China (used in Vancouver 温哥华)"
+    },
+    "卫": {
+      "pinyin": "wèi",
+      "english": "guard, protect (used in David 大卫)"
+    },
+    "友": {
+      "pinyin": "yǒu",
+      "english": "friend, companion (as in 朋友)"
+    },
+    "吧": {
+      "pinyin": "ba",
+      "english": "suggestion modal particle (let's, right?)"
+    },
+    "呀": {
+      "pinyin": "yā",
+      "english": "interjection particle (as in 哎呀)"
+    },
+    "哎": {
+      "pinyin": "āi",
+      "english": "interjection particle (as in 哎呀 oh my!)"
+    },
+    "啊": {
+      "pinyin": "a",
+      "english": "modal particle expressing enthusiasm, affirmation"
+    },
+    "家": {
+      "pinyin": "jiā",
+      "english": "home, family"
+    },
+    "导": {
+      "pinyin": "dǎo",
+      "english": "to guide, lead, direct (as in 导游)"
+    },
+    "山": {
+      "pinyin": "shān",
+      "english": "mountain, hill (used in San Francisco 旧金山)"
+    },
+    "床": {
+      "pinyin": "chuáng",
+      "english": "bed (as in 起床 get up)"
+    },
+    "影": {
+      "pinyin": "yǐng",
+      "english": "shadow, movie, image (as in 电影)"
+    },
+    "快": {
+      "pinyin": "kuài",
+      "english": "fast, quick, joyful (as in 快乐 happy)"
+    },
+    "想": {
+      "pinyin": "xiǎng",
+      "english": "to think, would like to, want"
+    },
+    "敦": {
+      "pinyin": "dūn",
+      "english": "honest, sincere (used in London 伦敦)"
+    },
+    "旧": {
+      "pinyin": "jiù",
+      "english": "old, past, former (as in 旧金山)"
+    },
+    "时": {
+      "pinyin": "shí",
+      "english": "time, hour, o'clock (as in 时间)"
+    },
+    "朋": {
+      "pinyin": "péng",
+      "english": "friend, companion (as in 朋友)"
+    },
+    "每": {
+      "pinyin": "měi",
+      "english": "every, each"
+    },
+    "淇": {
+      "pinyin": "qí",
+      "english": "used in phonetic loanword ice cream 冰淇淋"
+    },
+    "淋": {
+      "pinyin": "lín",
+      "english": "to drip, drench (used in 冰淇淋)"
+    },
+    "温": {
+      "pinyin": "wēn",
+      "english": "warm, lukewarm (used in Vancouver 温哥华)"
+    },
+    "游": {
+      "pinyin": "yóu",
+      "english": "to tour, travel, swim (as in 导游、游客)"
+    },
+    "班": {
+      "pinyin": "bān",
+      "english": "work shift, class (as in 上班、下班)"
+    },
+    "睡": {
+      "pinyin": "shuì",
+      "english": "to sleep (as in 睡觉)"
+    },
+    "祝": {
+      "pinyin": "zhù",
+      "english": "to wish, congratulate (as in 祝你)"
+    },
+    "约": {
+      "pinyin": "yuē",
+      "english": "agreement, appointment (used in New York 纽约)"
+    },
+    "纽": {
+      "pinyin": "niǔ",
+      "english": "knot, button (used in New York 纽约)"
+    },
+    "脑": {
+      "pinyin": "nǎo",
+      "english": "brain (as in 电脑 computer)"
+    },
+    "要": {
+      "pinyin": "yào",
+      "english": "to want, will, need to"
+    },
+    "视": {
+      "pinyin": "shì",
+      "english": "to look at, vision (as in 电视 television)"
+    },
+    "请": {
+      "pinyin": "qǐng",
+      "english": "please, to invite, to request (as in 请问)"
+    },
+    "迎": {
+      "pinyin": "yíng",
+      "english": "to welcome, greet (used in 迎迎)"
+    },
+    "都": {
+      "pinyin": "dōu",
+      "english": "all, both, entirely"
+    },
+    "金": {
+      "pinyin": "jīn",
+      "english": "gold, metal (as in 旧金山)"
+    },
+    "问": {
+      "pinyin": "wèn",
+      "english": "to ask, inquire (as in 请问)"
+    },
+    "间": {
+      "pinyin": "jiān",
+      "english": "between, room, interval (as in 时间 time)"
+    },
+    "会": {
+      "pinyin": "huì",
+      "english": "can, to be able to, will"
+    },
+    "叔": {
+      "pinyin": "shū",
+      "english": "uncle, father's younger brother"
+    },
+    "同": {
+      "pinyin": "tóng",
+      "english": "same, together (as in 同事 coworker)"
+    },
+    "和": {
+      "pinyin": "hé",
+      "english": "and, with"
+    },
+    "女": {
+      "pinyin": "nǚ",
+      "english": "female, woman"
+    },
+    "妈": {
+      "pinyin": "mā",
+      "english": "mother, mom"
+    },
+    "妹": {
+      "pinyin": "mèi",
+      "english": "younger sister"
+    },
+    "姐": {
+      "pinyin": "jiě",
+      "english": "older sister"
+    },
+    "姨": {
+      "pinyin": "yí",
+      "english": "aunt, mother's sister (as in 阿姨)"
+    },
+    "岁": {
+      "pinyin": "suì",
+      "english": "years old, age"
+    },
+    "弟": {
+      "pinyin": "dì",
+      "english": "younger brother"
+    },
+    "汉": {
+      "pinyin": "hàn",
+      "english": "Han, Chinese (as in 汉语)"
+    },
+    "爸": {
+      "pinyin": "bà",
+      "english": "father, dad"
+    },
+    "用": {
+      "pinyin": "yòng",
+      "english": "to use"
+    },
+    "男": {
+      "pinyin": "nán",
+      "english": "male, man"
+    },
+    "筷": {
+      "pinyin": "kuài",
+      "english": "chopstick (as in 筷子)"
+    },
+    "纪": {
+      "pinyin": "jì",
+      "english": "age, era, record (as in 年纪)"
+    },
+    "语": {
+      "pinyin": "yǔ",
+      "english": "language, words (as in 汉语)"
+    },
+    "阿": {
+      "pinyin": "ā",
+      "english": "prefix for names and kinship terms (as in 阿姨)"
+    },
+    "件": {
+      "pinyin": "jiàn",
+      "english": "item, component, piece"
+    },
+    "作": {
+      "pinyin": "zuò",
+      "english": "to do, to make, work"
+    },
+    "公": {
+      "pinyin": "gōng",
+      "english": "public, company"
+    },
+    "务": {
+      "pinyin": "wù",
+      "english": "affair, business, service"
+    },
+    "包": {
+      "pinyin": "bāo",
+      "english": "to wrap, pack, bag"
+    },
+    "医": {
+      "pinyin": "yī",
+      "english": "medical, doctor, medicine"
+    },
+    "卖": {
+      "pinyin": "mài",
+      "english": "to sell"
+    },
+    "口": {
+      "pinyin": "kǒu",
+      "english": "mouth, measure word for family"
+    },
+    "只": {
+      "pinyin": "zhī",
+      "english": "measure word for animals"
+    },
+    "台": {
+      "pinyin": "tái",
+      "english": "platform, station, desk"
+    },
+    "司": {
+      "pinyin": "sī",
+      "english": "to manage, company"
+    },
+    "员": {
+      "pinyin": "yuán",
+      "english": "member, staff, personnel"
+    },
+    "售": {
+      "pinyin": "shòu",
+      "english": "to sell"
+    },
+    "商": {
+      "pinyin": "shāng",
+      "english": "commerce, business"
+    },
+    "场": {
+      "pinyin": "chǎng",
+      "english": "field, market, open place"
+    },
+    "士": {
+      "pinyin": "shì",
+      "english": "scholar, specialist, person"
+    },
+    "外": {
+      "pinyin": "wài",
+      "english": "outside, foreign, external"
+    },
+    "工": {
+      "pinyin": "gōng",
+      "english": "work, worker, engineering"
+    },
+    "市": {
+      "pinyin": "shì",
+      "english": "market, city"
+    },
+    "带": {
+      "pinyin": "dài",
+      "english": "to bring, carry, take"
+    },
+    "打": {
+      "pinyin": "dǎ",
+      "english": "to hit, pack, make"
+    },
+    "护": {
+      "pinyin": "hù",
+      "english": "to protect, nurse"
+    },
+    "收": {
+      "pinyin": "shōu",
+      "english": "to receive, collect"
+    },
+    "旅": {
+      "pinyin": "lǚ",
+      "english": "to travel, trip"
+    },
+    "服": {
+      "pinyin": "fú",
+      "english": "clothes, to serve"
+    },
+    "板": {
+      "pinyin": "bǎn",
+      "english": "board, boss, plate"
+    },
+    "校": {
+      "pinyin": "xiào",
+      "english": "school"
+    },
+    "牙": {
+      "pinyin": "yá",
+      "english": "tooth, Spanish (in 西班牙)"
+    },
+    "猫": {
+      "pinyin": "māo",
+      "english": "cat"
+    },
+    "社": {
+      "pinyin": "shè",
+      "english": "society, agency, club"
+    },
+    "秘": {
+      "pinyin": "mì",
+      "english": "secret, secretary"
+    },
+    "程": {
+      "pinyin": "chéng",
+      "english": "procedure, rule, engineering"
+    },
+    "者": {
+      "pinyin": "zhě",
+      "english": "person, one who does"
+    },
+    "职": {
+      "pinyin": "zhí",
+      "english": "duty, post, occupation"
+    },
+    "行": {
+      "pinyin": "háng",
+      "english": "bank, firm, row"
+    },
+    "记": {
+      "pinyin": "jì",
+      "english": "to record, remember"
+    },
+    "货": {
+      "pinyin": "huò",
+      "english": "goods, commodity"
+    },
+    "走": {
+      "pinyin": "zǒu",
+      "english": "to walk, leave, go"
+    },
+    "超": {
+      "pinyin": "chāo",
+      "english": "super-, to exceed, surpass"
+    },
+    "软": {
+      "pinyin": "ruǎn",
+      "english": "soft, flexible"
+    },
+    "还": {
+      "pinyin": "hái",
+      "english": "still, yet, or"
+    },
+    "银": {
+      "pinyin": "yín",
+      "english": "silver, money"
+    },
+    "院": {
+      "pinyin": "yuàn",
+      "english": "institution, courtyard, hospital"
+    },
+    "题": {
+      "pinyin": "tí",
+      "english": "topic, question, problem"
+    },
+    "馆": {
+      "pinyin": "guǎn",
+      "english": "building, shop, restaurant"
+    },
+    "丸": {
+      "pinyin": "wán",
+      "english": "pill, small ball, pellet"
+    },
+    "乒": {
+      "pinyin": "pīng",
+      "english": "ping (in ping-pong)"
+    },
+    "乓": {
+      "pinyin": "pāng",
+      "english": "pong (in ping-pong)"
+    },
+    "习": {
+      "pinyin": "xí",
+      "english": "to practice, study, habit"
+    },
+    "典": {
+      "pinyin": "diǎn",
+      "english": "standard, canon, Sweden (in 瑞典)"
+    },
+    "完": {
+      "pinyin": "wán",
+      "english": "to finish, complete, end"
+    },
+    "心": {
+      "pinyin": "xīn",
+      "english": "heart, mind"
+    },
+    "步": {
+      "pinyin": "bù",
+      "english": "step, pace, to walk"
+    },
+    "球": {
+      "pinyin": "qiú",
+      "english": "ball, sphere, globe"
+    },
+    "理": {
+      "pinyin": "lǐ",
+      "english": "reason, logic, science, psychology"
+    },
+    "瑞": {
+      "pinyin": "ruì",
+      "english": "auspicious, lucky, Swiss/Swedish"
+    },
+    "肉": {
+      "pinyin": "ròu",
+      "english": "meat, flesh"
+    },
+    "跑": {
+      "pinyin": "pǎo",
+      "english": "to run"
+    },
+    "面": {
+      "pinyin": "miàn",
+      "english": "surface, side, outside, face"
+    },
+    "买": {
+      "pinyin": "mǎi",
+      "english": "to buy / to purchase"
+    },
+    "于": {
+      "pinyin": "yú",
+      "english": "at / in / to / equal to (in 等于)"
+    },
+    "住": {
+      "pinyin": "zhù",
+      "english": "to live / to dwell / to stay"
+    },
+    "元": {
+      "pinyin": "yuán",
+      "english": "yuan (currency unit) / primary"
+    },
+    "兄": {
+      "pinyin": "xiōng",
+      "english": "elder brother"
+    },
+    "克": {
+      "pinyin": "kè",
+      "english": "gram / to overcome"
+    },
+    "初": {
+      "pinyin": "chū",
+      "english": "beginning / early / junior (in 初中)"
+    },
+    "升": {
+      "pinyin": "shēng",
+      "english": "liter (capacity unit) / to rise"
+    },
+    "块": {
+      "pinyin": "kuài",
+      "english": "kuai (currency unit) / piece / lump"
+    },
+    "思": {
+      "pinyin": "sī",
+      "english": "to think / thought / consider (in 思齐)"
+    },
+    "斤": {
+      "pinyin": "jīn",
+      "english": "jin (unit of weight, 500g) / catty"
+    },
+    "毫": {
+      "pinyin": "háo",
+      "english": "milli- / fine hair / tiny"
+    },
+    "空": {
+      "pinyin": "kòng",
+      "english": "free time / leisure / spare time"
+    },
+    "等": {
+      "pinyin": "děng",
+      "english": "to wait / equal to / class"
+    },
+    "角": {
+      "pinyin": "jiǎo",
+      "english": "jiao (fractional currency unit, 10 cents) / horn / corner"
+    },
+    "钱": {
+      "pinyin": "qián",
+      "english": "money / coin / currency"
+    },
+    "齐": {
+      "pinyin": "qí",
+      "english": "neat / even / together (in 思齐)"
+    },
+    "来": {
+      "pinyin": "lái",
+      "english": "to come / arrive"
+    },
+    "为": {
+      "pinyin": "wèi",
+      "english": "for / because of / to act as"
+    },
+    "到": {
+      "pinyin": "dào",
+      "english": "to arrive / to reach / to"
+    },
+    "以": {
+      "pinyin": "yǐ",
+      "english": "by means of / according to / so as to"
+    },
+    "说": {
+      "pinyin": "shuō",
+      "english": "to speak / to say"
+    },
+    "就": {
+      "pinyin": "jiù",
+      "english": "at once / then / right away / precisely"
+    },
+    "出": {
+      "pinyin": "chū",
+      "english": "to go out / to emerge / to produce"
+    },
+    "能": {
+      "pinyin": "néng",
+      "english": "can / to be able to / capability"
+    },
+    "而": {
+      "pinyin": "ér",
+      "english": "and / as well as / but / yet"
+    },
+    "着": {
+      "pinyin": "zhe",
+      "english": "aspect particle (action in progress)"
+    },
+    "自": {
+      "pinyin": "zì",
+      "english": "self / oneself / from / since"
+    },
+    "之": {
+      "pinyin": "zhī",
+      "english": "possessive particle / him / her / it"
+    },
+    "发": {
+      "pinyin": "fā",
+      "english": "to send out / issue / develop / hair"
+    },
+    "道": {
+      "pinyin": "dào",
+      "english": "way / path / road / to say / Dao"
+    },
+    "所": {
+      "pinyin": "suǒ",
+      "english": "place / that which"
+    },
+    "然": {
+      "pinyin": "rán",
+      "english": "correct / so / thus / -ly"
+    },
+    "种": {
+      "pinyin": "zhǒng",
+      "english": "kind / type / seed / to plant"
+    },
+    "方": {
+      "pinyin": "fāng",
+      "english": "square / direction / side / region"
+    },
+    "经": {
+      "pinyin": "jīng",
+      "english": "to pass through / undergo / classics"
+    },
+    "如": {
+      "pinyin": "rú",
+      "english": "as if / such as / like"
+    },
+    "当": {
+      "pinyin": "dāng",
+      "english": "to act as / when / during / should"
+    },
+    "定": {
+      "pinyin": "dìng",
+      "english": "to fix / determine / decide / definite"
+    },
+    "进": {
+      "pinyin": "jìn",
+      "english": "to advance / enter / come in"
+    },
+    "部": {
+      "pinyin": "bù",
+      "english": "part / section / department / ministry"
+    },
+    "其": {
+      "pinyin": "qí",
+      "english": "his / her / its / their / that"
+    },
+    "些": {
+      "pinyin": "xiē",
+      "english": "some / few / several"
+    },
+    "主": {
+      "pinyin": "zhǔ",
+      "english": "master / host / primary / main"
+    },
+    "开": {
+      "pinyin": "kāi",
+      "english": "to open / operate / start"
+    },
+    "因": {
+      "pinyin": "yīn",
+      "english": "cause / reason / because"
+    },
+    "从": {
+      "pinyin": "cóng",
+      "english": "from / since / to follow"
+    },
+    "实": {
+      "pinyin": "shí",
+      "english": "real / true / solid / fruit"
     }
-  ],
+  },
   "cards": [
     {
       "id": "card_001",
@@ -5048,1324 +6476,806 @@
       "english": "She studies at Peking University.",
       "type": "sentence",
       "concept": "introductions"
-    }
-  ],
-  "char_dictionary": {
-    "你": {
-      "pinyin": "nǐ",
-      "english": "you"
     },
-    "我": {
-      "pinyin": "wǒ",
-      "english": "I / me"
-    },
-    "他": {
-      "pinyin": "tā",
-      "english": "he / him"
-    },
-    "她": {
-      "pinyin": "tā",
-      "english": "she / her"
-    },
-    "您": {
-      "pinyin": "nín",
-      "english": "you (polite)"
-    },
-    "们": {
-      "pinyin": "men",
-      "english": "plural suffix"
-    },
-    "人": {
-      "pinyin": "rén",
-      "english": "person"
-    },
-    "老": {
-      "pinyin": "lǎo",
-      "english": "old / venerable"
-    },
-    "师": {
-      "pinyin": "shī",
-      "english": "teacher / master"
-    },
-    "学": {
-      "pinyin": "xué",
-      "english": "study / learn"
-    },
-    "生": {
-      "pinyin": "shēng",
-      "english": "student / born"
-    },
-    "哥": {
-      "pinyin": "gē",
-      "english": "elder brother"
-    },
-    "好": {
-      "pinyin": "hǎo",
-      "english": "good"
-    },
-    "再": {
-      "pinyin": "zài",
-      "english": "again"
-    },
-    "见": {
-      "pinyin": "jiàn",
-      "english": "see / meet"
-    },
-    "对": {
-      "pinyin": "duì",
-      "english": "correct / towards"
-    },
-    "不": {
-      "pinyin": "bù",
-      "english": "not / no"
-    },
-    "起": {
-      "pinyin": "qǐ",
-      "english": "rise / start"
-    },
-    "没": {
-      "pinyin": "méi",
-      "english": "have not / no"
-    },
-    "关": {
-      "pinyin": "guān",
-      "english": "close / relate"
-    },
-    "系": {
-      "pinyin": "xì",
-      "english": "connection / system"
-    },
-    "事": {
-      "pinyin": "shì",
-      "english": "matter / thing"
-    },
-    "儿": {
-      "pinyin": "r",
-      "english": "noun suffix"
-    },
-    "客": {
-      "pinyin": "kè",
-      "english": "guest"
-    },
-    "气": {
-      "pinyin": "qì",
-      "english": "air / spirit"
-    },
-    "叫": {
-      "pinyin": "jiào",
-      "english": "call / named"
-    },
-    "什": {
-      "pinyin": "shén",
-      "english": "what"
-    },
-    "么": {
-      "pinyin": "me",
-      "english": "suffix"
-    },
-    "名": {
-      "pinyin": "míng",
-      "english": "name"
-    },
-    "字": {
-      "pinyin": "zì",
-      "english": "character / word"
-    },
-    "呢": {
-      "pinyin": "ne",
-      "english": "question particle"
-    },
-    "是": {
-      "pinyin": "shì",
-      "english": "is / are / am"
-    },
-    "哪": {
-      "pinyin": "nǎ",
-      "english": "which / where"
-    },
-    "这": {
-      "pinyin": "zhè",
-      "english": "this"
-    },
-    "那": {
-      "pinyin": "nà",
-      "english": "that"
-    },
-    "的": {
+    {
+      "id": "card_622",
+      "hanzi": "的",
       "pinyin": "de",
-      "english": "possessive particle"
+      "english": "possessive particle ('s) / of",
+      "type": "word",
+      "concept": "top100"
     },
-    "吗": {
-      "pinyin": "ma",
-      "english": "question particle"
+    {
+      "id": "card_623",
+      "hanzi": "一",
+      "pinyin": "yī",
+      "english": "one / single / a",
+      "type": "word",
+      "concept": "top100"
     },
-    "了": {
+    {
+      "id": "card_624",
+      "hanzi": "是",
+      "pinyin": "shì",
+      "english": "to be / is / are / am / yes",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_625",
+      "hanzi": "不",
+      "pinyin": "bù",
+      "english": "not / no",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_626",
+      "hanzi": "了",
       "pinyin": "le",
-      "english": "completed action"
+      "english": "modal / completed action particle",
+      "type": "word",
+      "concept": "top100"
     },
-    "个": {
-      "pinyin": "ge",
-      "english": "measure word"
-    },
-    "谁": {
-      "pinyin": "shuí",
-      "english": "who"
-    },
-    "几": {
-      "pinyin": "jǐ",
-      "english": "how many"
-    },
-    "多": {
-      "pinyin": "duō",
-      "english": "many / much"
-    },
-    "少": {
-      "pinyin": "shǎo",
-      "english": "few / little"
-    },
-    "怎": {
-      "pinyin": "zěn",
-      "english": "how"
-    },
-    "样": {
-      "pinyin": "yàng",
-      "english": "appearance / shape"
-    },
-    "零": {
-      "pinyin": "líng",
-      "english": "zero"
-    },
-    "一": {
-      "pinyin": "yī",
-      "english": "one"
-    },
-    "二": {
-      "pinyin": "èr",
-      "english": "two"
-    },
-    "两": {
-      "pinyin": "liǎng",
-      "english": "two (quantities)"
-    },
-    "三": {
-      "pinyin": "sān",
-      "english": "three"
-    },
-    "四": {
-      "pinyin": "sì",
-      "english": "four"
-    },
-    "五": {
-      "pinyin": "wǔ",
-      "english": "five"
-    },
-    "六": {
-      "pinyin": "liù",
-      "english": "six"
-    },
-    "七": {
-      "pinyin": "qī",
-      "english": "seven"
-    },
-    "八": {
-      "pinyin": "bā",
-      "english": "eight"
-    },
-    "九": {
-      "pinyin": "jiǔ",
-      "english": "nine"
-    },
-    "十": {
-      "pinyin": "shí",
-      "english": "ten"
-    },
-    "百": {
-      "pinyin": "bǎi",
-      "english": "hundred"
-    },
-    "千": {
-      "pinyin": "qiān",
-      "english": "thousand"
-    },
-    "万": {
-      "pinyin": "wàn",
-      "english": "ten thousand"
-    },
-    "天": {
-      "pinyin": "tiān",
-      "english": "day / sky"
-    },
-    "昨": {
-      "pinyin": "zuó",
-      "english": "yesterday"
-    },
-    "今": {
-      "pinyin": "jīn",
-      "english": "today / present"
-    },
-    "明": {
-      "pinyin": "míng",
-      "english": "tomorrow / bright"
-    },
-    "后": {
-      "pinyin": "hòu",
-      "english": "after / behind"
-    },
-    "前": {
-      "pinyin": "qián",
-      "english": "before / front"
-    },
-    "年": {
-      "pinyin": "nián",
-      "english": "year"
-    },
-    "去": {
-      "pinyin": "qù",
-      "english": "go / past"
-    },
-    "月": {
-      "pinyin": "yuè",
-      "english": "month / moon"
-    },
-    "日": {
-      "pinyin": "rì",
-      "english": "day / sun"
-    },
-    "号": {
-      "pinyin": "hào",
-      "english": "number / date"
-    },
-    "星": {
-      "pinyin": "xīng",
-      "english": "star"
-    },
-    "期": {
-      "pinyin": "qī",
-      "english": "period of time"
-    },
-    "上": {
-      "pinyin": "shàng",
-      "english": "up / previous"
-    },
-    "下": {
-      "pinyin": "xià",
-      "english": "down / next"
-    },
-    "周": {
-      "pinyin": "zhōu",
-      "english": "week / circumference"
-    },
-    "末": {
-      "pinyin": "mò",
-      "english": "end / final"
-    },
-    "点": {
-      "pinyin": "diǎn",
-      "english": "o'clock / dot"
-    },
-    "分": {
-      "pinyin": "fēn",
-      "english": "minute"
-    },
-    "刻": {
-      "pinyin": "kè",
-      "english": "quarter"
-    },
-    "半": {
-      "pinyin": "bàn",
-      "english": "half"
-    },
-    "差": {
-      "pinyin": "chà",
-      "english": "to be short of"
-    },
-    "早": {
-      "pinyin": "zǎo",
-      "english": "early / morning"
-    },
-    "晚": {
-      "pinyin": "wǎn",
-      "english": "late / night"
-    },
-    "现": {
-      "pinyin": "xiàn",
-      "english": "appear / present"
-    },
-    "在": {
+    {
+      "id": "card_627",
+      "hanzi": "在",
       "pinyin": "zài",
-      "english": "at / exist"
+      "english": "at / in / located at",
+      "type": "word",
+      "concept": "top100"
     },
-    "热": {
-      "pinyin": "rè",
-      "english": "hot"
+    {
+      "id": "card_628",
+      "hanzi": "人",
+      "pinyin": "rén",
+      "english": "person / people",
+      "type": "word",
+      "concept": "top100"
     },
-    "雨": {
-      "pinyin": "yǔ",
-      "english": "rain"
-    },
-    "夏": {
-      "pinyin": "xià",
-      "english": "summer"
-    },
-    "很": {
-      "pinyin": "hěn",
-      "english": "very"
-    },
-    "高": {
-      "pinyin": "gāo",
-      "english": "tall / high"
-    },
-    "兴": {
-      "pinyin": "xìng",
-      "english": "mood / interest"
-    },
-    "漂": {
-      "pinyin": "piào",
-      "english": "elegant"
-    },
-    "亮": {
-      "pinyin": "liang",
-      "english": "bright"
-    },
-    "帅": {
-      "pinyin": "shuài",
-      "english": "handsome"
-    },
-    "饿": {
-      "pinyin": "è",
-      "english": "hungry"
-    },
-    "渴": {
-      "pinyin": "kě",
-      "english": "thirsty"
-    },
-    "忙": {
-      "pinyin": "máng",
-      "english": "busy"
-    },
-    "累": {
-      "pinyin": "lèi",
-      "english": "tired"
-    },
-    "认": {
-      "pinyin": "rèn",
-      "english": "recognize"
-    },
-    "识": {
-      "pinyin": "shi",
-      "english": "know"
-    },
-    "吃": {
-      "pinyin": "chī",
-      "english": "eat"
-    },
-    "饭": {
-      "pinyin": "fàn",
-      "english": "meal / cooked rice"
-    },
-    "课": {
-      "pinyin": "kè",
-      "english": "class / lesson"
-    },
-    "喝": {
-      "pinyin": "hē",
-      "english": "drink"
-    },
-    "喜": {
-      "pinyin": "xǐ",
-      "english": "fond of"
-    },
-    "欢": {
-      "pinyin": "huan",
-      "english": "joyous"
-    },
-    "觉": {
-      "pinyin": "jué",
-      "english": "feel"
-    },
-    "得": {
-      "pinyin": "de",
-      "english": "particle"
-    },
-    "但": {
-      "pinyin": "dàn",
-      "english": "but"
-    },
-    "看": {
-      "pinyin": "kàn",
-      "english": "look / see"
-    },
-    "玩": {
-      "pinyin": "wán",
-      "english": "play"
-    },
-    "有": {
+    {
+      "id": "card_629",
+      "hanzi": "有",
       "pinyin": "yǒu",
-      "english": "have"
+      "english": "to have / there is / there are",
+      "type": "word",
+      "concept": "top100"
     },
-    "做": {
-      "pinyin": "zuò",
-      "english": "do / make"
+    {
+      "id": "card_630",
+      "hanzi": "我",
+      "pinyin": "wǒ",
+      "english": "I / me",
+      "type": "word",
+      "concept": "top100"
     },
-    "运": {
-      "pinyin": "yùn",
-      "english": "move / transport"
+    {
+      "id": "card_631",
+      "hanzi": "他",
+      "pinyin": "tā",
+      "english": "he / him",
+      "type": "word",
+      "concept": "top100"
     },
-    "动": {
-      "pinyin": "dòng",
-      "english": "move / act"
+    {
+      "id": "card_632",
+      "hanzi": "这",
+      "pinyin": "zhè",
+      "english": "this / these",
+      "type": "word",
+      "concept": "top100"
     },
-    "雪": {
-      "pinyin": "xuě",
-      "english": "snow"
+    {
+      "id": "card_633",
+      "hanzi": "个",
+      "pinyin": "gè",
+      "english": "general measure word / individual",
+      "type": "word",
+      "concept": "top100"
     },
-    "丽": {
-      "pinyin": "lì",
-      "english": "beautiful"
+    {
+      "id": "card_634",
+      "hanzi": "们",
+      "pinyin": "men",
+      "english": "plural marker for pronouns",
+      "type": "word",
+      "concept": "top100"
     },
-    "太": {
-      "pinyin": "tài",
-      "english": "too / extremely"
-    },
-    "谢": {
-      "pinyin": "xiè",
-      "english": "thank"
-    },
-    "里": {
-      "pinyin": "lǐ",
-      "english": "inside / place"
-    },
-    "国": {
-      "pinyin": "guó",
-      "english": "country"
-    },
-    "中": {
+    {
+      "id": "card_635",
+      "hanzi": "中",
       "pinyin": "zhōng",
-      "english": "middle"
+      "english": "middle / center / within / China",
+      "type": "word",
+      "concept": "top100"
     },
-    "美": {
-      "pinyin": "měi",
-      "english": "beautiful"
+    {
+      "id": "card_636",
+      "hanzi": "来",
+      "pinyin": "lái",
+      "english": "to come / arrive",
+      "type": "word",
+      "concept": "top100"
     },
-    "英": {
-      "pinyin": "yīng",
-      "english": "hero / UK"
+    {
+      "id": "card_637",
+      "hanzi": "上",
+      "pinyin": "shàng",
+      "english": "up / on / above / to go up",
+      "type": "word",
+      "concept": "top100"
     },
-    "加": {
-      "pinyin": "jiā",
-      "english": "add"
-    },
-    "拿": {
-      "pinyin": "ná",
-      "english": "take / hold"
-    },
-    "大": {
+    {
+      "id": "card_638",
+      "hanzi": "大",
       "pinyin": "dà",
-      "english": "big"
-    },
-    "本": {
-      "pinyin": "běn",
-      "english": "root / origin"
-    },
-    "俄": {
-      "pinyin": "é",
-      "english": "Russia (phonetic)"
-    },
-    "罗": {
-      "pinyin": "luó",
-      "english": "net (phonetic)"
-    },
-    "斯": {
-      "pinyin": "sī",
-      "english": "this (phonetic)"
-    },
-    "澳": {
-      "pinyin": "ào",
-      "english": "bay (phonetic)"
-    },
-    "利": {
-      "pinyin": "lì",
-      "english": "profit"
-    },
-    "亚": {
-      "pinyin": "yà",
-      "english": "Asia"
-    },
-    "法": {
-      "pinyin": "fǎ",
-      "english": "law / France"
-    },
-    "墨": {
-      "pinyin": "mò",
-      "english": "ink"
-    },
-    "西": {
-      "pinyin": "xī",
-      "english": "west"
-    },
-    "摩": {
-      "pinyin": "mó",
-      "english": "rub (phonetic)"
-    },
-    "洛": {
-      "pinyin": "luò",
-      "english": "river (phonetic)"
-    },
-    "泰": {
-      "pinyin": "tài",
-      "english": "safe / peace"
-    },
-    "埃": {
-      "pinyin": "āi",
-      "english": "dust / Egypt (phonetic)"
-    },
-    "及": {
-      "pinyin": "jí",
-      "english": "reach / Egypt (phonetic)"
-    },
-    "电": {
-      "pinyin": "diàn",
-      "english": "electricity"
-    },
-    "话": {
-      "pinyin": "huà",
-      "english": "speech / words"
-    },
-    "码": {
-      "pinyin": "mǎ",
-      "english": "code / number"
-    },
-    "邮": {
-      "pinyin": "yóu",
-      "english": "post / mail"
-    },
-    "箱": {
-      "pinyin": "xiāng",
-      "english": "box / trunk"
-    },
-    "手": {
-      "pinyin": "shǒu",
-      "english": "hand"
-    },
-    "机": {
-      "pinyin": "jī",
-      "english": "machine"
-    },
-    "瓜": {
-      "pinyin": "guā",
-      "english": "melon"
-    },
-    "北": {
-      "pinyin": "běi",
-      "english": "north"
-    },
-    "京": {
-      "pinyin": "jīng",
-      "english": "capital"
-    },
-    "烤": {
-      "pinyin": "kǎo",
-      "english": "roast / bake"
-    },
-    "鸭": {
-      "pinyin": "yā",
-      "english": "duck"
-    },
-    "宫": {
-      "pinyin": "gōng",
-      "english": "palace"
-    },
-    "保": {
-      "pinyin": "bǎo",
-      "english": "protect"
-    },
-    "鸡": {
-      "pinyin": "jī",
-      "english": "chicken"
-    },
-    "丁": {
-      "pinyin": "dīng",
-      "english": "cube / male"
-    },
-    "饺": {
-      "pinyin": "jiǎo",
-      "english": "dumpling"
-    },
-    "子": {
-      "pinyin": "zi",
-      "english": "suffix"
-    },
-    "粽": {
-      "pinyin": "zòng",
-      "english": "rice dumpling"
-    },
-    "咖": {
-      "pinyin": "kā",
-      "english": "coffee (phonetic)"
-    },
-    "啡": {
-      "pinyin": "fēi",
-      "english": "coffee (phonetic)"
-    },
-    "可": {
-      "pinyin": "kě",
-      "english": "can / may"
-    },
-    "乐": {
-      "pinyin": "lè",
-      "english": "happy / laugh"
-    },
-    "火": {
-      "pinyin": "huǒ",
-      "english": "fire"
-    },
-    "锅": {
-      "pinyin": "guō",
-      "english": "pot / pan"
-    },
-    "地": {
-      "pinyin": "dì",
-      "english": "earth"
-    },
-    "图": {
-      "pinyin": "tú",
-      "english": "map / picture"
-    },
-    "飞": {
-      "pinyin": "fēi",
-      "english": "fly"
-    },
-    "毛": {
-      "pinyin": "máo",
-      "english": "hair / feather"
-    },
-    "笔": {
-      "pinyin": "bǐ",
-      "english": "pen / brush"
-    },
-    "耳": {
-      "pinyin": "ěr",
-      "english": "ear"
-    },
-    "鸟": {
-      "pinyin": "niǎo",
-      "english": "bird"
-    },
-    "毽": {
-      "pinyin": "jiàn",
-      "english": "shuttlecock"
-    },
-    "趣": {
-      "pinyin": "qù",
-      "english": "interest"
-    },
-    "文": {
-      "pinyin": "wén",
-      "english": "language / culture"
-    },
-    "菜": {
-      "pinyin": "cài",
-      "english": "dish / vegetable"
-    },
-    "苹": {
-      "pinyin": "píng",
-      "english": "apple"
-    },
-    "果": {
-      "pinyin": "guǒ",
-      "english": "fruit"
-    },
-    "披": {
-      "pinyin": "pī",
-      "english": "drape over"
-    },
-    "萨": {
-      "pinyin": "sà",
-      "english": "Bodhisattva (phonetic)"
-    },
-    "也": {
-      "pinyin": "yě",
-      "english": "also / too"
-    },
-    "先": {
-      "pinyin": "xiān",
-      "english": "first / before"
-    },
-    "午": {
-      "pinyin": "wǔ",
-      "english": "noon"
-    },
-    "小": {
-      "pinyin": "xiǎo",
-      "english": "small / little"
-    },
-    "憨": {
-      "pinyin": "hān",
-      "english": "silly (Mr. Bean)"
-    },
-    "成": {
-      "pinyin": "chéng",
-      "english": "succeed (Jackie Chan)"
-    },
-    "李": {
-      "pinyin": "lǐ",
-      "english": "plum / surname (Bruce Lee)"
-    },
-    "豆": {
-      "pinyin": "dòu",
-      "english": "bean (Mr. Bean)"
-    },
-    "过": {
-      "pinyin": "guò",
-      "english": "pass / have experienced"
-    },
-    "龙": {
-      "pinyin": "lóng",
-      "english": "dragon (Bruce Lee / Jackie Chan)"
-    },
-    "书": {
-      "pinyin": "shū",
-      "english": "book, document, letter"
-    },
-    "伦": {
-      "pinyin": "lún",
-      "english": "human relationships, logic (used in London 伦敦)"
-    },
-    "候": {
-      "pinyin": "hòu",
-      "english": "time, season, wait (as in 时候)"
-    },
-    "冰": {
-      "pinyin": "bīng",
-      "english": "ice, cold"
-    },
-    "华": {
-      "pinyin": "huá",
-      "english": "splendid, China (used in Vancouver 温哥华)"
-    },
-    "卫": {
+      "english": "big / large / great",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_639",
+      "hanzi": "为",
       "pinyin": "wèi",
-      "english": "guard, protect (used in David 大卫)"
+      "english": "for / because of / to act as",
+      "type": "word",
+      "concept": "top100"
     },
-    "友": {
-      "pinyin": "yǒu",
-      "english": "friend, companion (as in 朋友)"
-    },
-    "吧": {
-      "pinyin": "ba",
-      "english": "suggestion modal particle (let's, right?)"
-    },
-    "呀": {
-      "pinyin": "yā",
-      "english": "interjection particle (as in 哎呀)"
-    },
-    "哎": {
-      "pinyin": "āi",
-      "english": "interjection particle (as in 哎呀 oh my!)"
-    },
-    "啊": {
-      "pinyin": "a",
-      "english": "modal particle expressing enthusiasm, affirmation"
-    },
-    "家": {
-      "pinyin": "jiā",
-      "english": "home, family"
-    },
-    "导": {
-      "pinyin": "dǎo",
-      "english": "to guide, lead, direct (as in 导游)"
-    },
-    "山": {
-      "pinyin": "shān",
-      "english": "mountain, hill (used in San Francisco 旧金山)"
-    },
-    "床": {
-      "pinyin": "chuáng",
-      "english": "bed (as in 起床 get up)"
-    },
-    "影": {
-      "pinyin": "yǐng",
-      "english": "shadow, movie, image (as in 电影)"
-    },
-    "快": {
-      "pinyin": "kuài",
-      "english": "fast, quick, joyful (as in 快乐 happy)"
-    },
-    "想": {
-      "pinyin": "xiǎng",
-      "english": "to think, would like to, want"
-    },
-    "敦": {
-      "pinyin": "dūn",
-      "english": "honest, sincere (used in London 伦敦)"
-    },
-    "旧": {
-      "pinyin": "jiù",
-      "english": "old, past, former (as in 旧金山)"
-    },
-    "时": {
-      "pinyin": "shí",
-      "english": "time, hour, o'clock (as in 时间)"
-    },
-    "朋": {
-      "pinyin": "péng",
-      "english": "friend, companion (as in 朋友)"
-    },
-    "每": {
-      "pinyin": "měi",
-      "english": "every, each"
-    },
-    "淇": {
-      "pinyin": "qí",
-      "english": "used in phonetic loanword ice cream 冰淇淋"
-    },
-    "淋": {
-      "pinyin": "lín",
-      "english": "to drip, drench (used in 冰淇淋)"
-    },
-    "温": {
-      "pinyin": "wēn",
-      "english": "warm, lukewarm (used in Vancouver 温哥华)"
-    },
-    "游": {
-      "pinyin": "yóu",
-      "english": "to tour, travel, swim (as in 导游、游客)"
-    },
-    "班": {
-      "pinyin": "bān",
-      "english": "work shift, class (as in 上班、下班)"
-    },
-    "睡": {
-      "pinyin": "shuì",
-      "english": "to sleep (as in 睡觉)"
-    },
-    "祝": {
-      "pinyin": "zhù",
-      "english": "to wish, congratulate (as in 祝你)"
-    },
-    "约": {
-      "pinyin": "yuē",
-      "english": "agreement, appointment (used in New York 纽约)"
-    },
-    "纽": {
-      "pinyin": "niǔ",
-      "english": "knot, button (used in New York 纽约)"
-    },
-    "脑": {
-      "pinyin": "nǎo",
-      "english": "brain (as in 电脑 computer)"
-    },
-    "要": {
-      "pinyin": "yào",
-      "english": "to want, will, need to"
-    },
-    "视": {
-      "pinyin": "shì",
-      "english": "to look at, vision (as in 电视 television)"
-    },
-    "请": {
-      "pinyin": "qǐng",
-      "english": "please, to invite, to request (as in 请问)"
-    },
-    "迎": {
-      "pinyin": "yíng",
-      "english": "to welcome, greet (used in 迎迎)"
-    },
-    "都": {
-      "pinyin": "dōu",
-      "english": "all, both, entirely"
-    },
-    "金": {
-      "pinyin": "jīn",
-      "english": "gold, metal (as in 旧金山)"
-    },
-    "问": {
-      "pinyin": "wèn",
-      "english": "to ask, inquire (as in 请问)"
-    },
-    "间": {
-      "pinyin": "jiān",
-      "english": "between, room, interval (as in 时间 time)"
-    },
-    "会": {
-      "pinyin": "huì",
-      "english": "can, to be able to, will"
-    },
-    "叔": {
-      "pinyin": "shū",
-      "english": "uncle, father's younger brother"
-    },
-    "同": {
-      "pinyin": "tóng",
-      "english": "same, together (as in 同事 coworker)"
-    },
-    "和": {
+    {
+      "id": "card_640",
+      "hanzi": "和",
       "pinyin": "hé",
-      "english": "and, with"
+      "english": "and / together with / harmony",
+      "type": "word",
+      "concept": "top100"
     },
-    "女": {
-      "pinyin": "nǚ",
-      "english": "female, woman"
+    {
+      "id": "card_641",
+      "hanzi": "国",
+      "pinyin": "guó",
+      "english": "country / nation / state",
+      "type": "word",
+      "concept": "top100"
     },
-    "妈": {
-      "pinyin": "mā",
-      "english": "mother, mom"
-    },
-    "妹": {
-      "pinyin": "mèi",
-      "english": "younger sister"
-    },
-    "姐": {
-      "pinyin": "jiě",
-      "english": "older sister"
-    },
-    "姨": {
-      "pinyin": "yí",
-      "english": "aunt, mother's sister (as in 阿姨)"
-    },
-    "岁": {
-      "pinyin": "suì",
-      "english": "years old, age"
-    },
-    "弟": {
+    {
+      "id": "card_642",
+      "hanzi": "地",
       "pinyin": "dì",
-      "english": "younger brother"
-    },
-    "汉": {
-      "pinyin": "hàn",
-      "english": "Han, Chinese (as in 汉语)"
-    },
-    "爸": {
-      "pinyin": "bà",
-      "english": "father, dad"
-    },
-    "用": {
-      "pinyin": "yòng",
-      "english": "to use"
-    },
-    "男": {
-      "pinyin": "nán",
-      "english": "male, man"
-    },
-    "筷": {
-      "pinyin": "kuài",
-      "english": "chopstick (as in 筷子)"
-    },
-    "纪": {
-      "pinyin": "jì",
-      "english": "age, era, record (as in 年纪)"
-    },
-    "语": {
-      "pinyin": "yǔ",
-      "english": "language, words (as in 汉语)"
-    },
-    "阿": {
-      "pinyin": "ā",
-      "english": "prefix for names and kinship terms (as in 阿姨)"
-    },
-    "件": {
-      "pinyin": "jiàn",
-      "english": "item, component, piece"
-    },
-    "作": {
-      "pinyin": "zuò",
-      "english": "to do, to make, work"
-    },
-    "公": {
-      "pinyin": "gōng",
-      "english": "public, company"
-    },
-    "务": {
-      "pinyin": "wù",
-      "english": "affair, business, service"
-    },
-    "包": {
-      "pinyin": "bāo",
-      "english": "to wrap, pack, bag"
-    },
-    "医": {
-      "pinyin": "yī",
-      "english": "medical, doctor, medicine"
-    },
-    "卖": {
-      "pinyin": "mài",
-      "english": "to sell"
-    },
-    "口": {
-      "pinyin": "kǒu",
-      "english": "mouth, measure word for family"
-    },
-    "只": {
-      "pinyin": "zhī",
-      "english": "measure word for animals"
-    },
-    "台": {
-      "pinyin": "tái",
-      "english": "platform, station, desk"
-    },
-    "司": {
-      "pinyin": "sī",
-      "english": "to manage, company"
-    },
-    "员": {
-      "pinyin": "yuán",
-      "english": "member, staff, personnel"
-    },
-    "售": {
-      "pinyin": "shòu",
-      "english": "to sell"
-    },
-    "商": {
-      "pinyin": "shāng",
-      "english": "commerce, business"
-    },
-    "场": {
-      "pinyin": "chǎng",
-      "english": "field, market, open place"
-    },
-    "士": {
-      "pinyin": "shì",
-      "english": "scholar, specialist, person"
-    },
-    "外": {
-      "pinyin": "wài",
-      "english": "outside, foreign, external"
-    },
-    "工": {
-      "pinyin": "gōng",
-      "english": "work, worker, engineering"
-    },
-    "市": {
-      "pinyin": "shì",
-      "english": "market, city"
-    },
-    "带": {
-      "pinyin": "dài",
-      "english": "to bring, carry, take"
-    },
-    "打": {
-      "pinyin": "dǎ",
-      "english": "to hit, pack, make"
-    },
-    "护": {
-      "pinyin": "hù",
-      "english": "to protect, nurse"
-    },
-    "收": {
-      "pinyin": "shōu",
-      "english": "to receive, collect"
-    },
-    "旅": {
-      "pinyin": "lǚ",
-      "english": "to travel, trip"
-    },
-    "服": {
-      "pinyin": "fú",
-      "english": "clothes, to serve"
-    },
-    "板": {
-      "pinyin": "bǎn",
-      "english": "board, boss, plate"
-    },
-    "校": {
-      "pinyin": "xiào",
-      "english": "school"
-    },
-    "牙": {
-      "pinyin": "yá",
-      "english": "tooth, Spanish (in 西班牙)"
-    },
-    "猫": {
-      "pinyin": "māo",
-      "english": "cat"
-    },
-    "社": {
-      "pinyin": "shè",
-      "english": "society, agency, club"
-    },
-    "秘": {
-      "pinyin": "mì",
-      "english": "secret, secretary"
-    },
-    "程": {
-      "pinyin": "chéng",
-      "english": "procedure, rule, engineering"
-    },
-    "者": {
-      "pinyin": "zhě",
-      "english": "person, one who does"
-    },
-    "职": {
-      "pinyin": "zhí",
-      "english": "duty, post, occupation"
-    },
-    "行": {
-      "pinyin": "háng",
-      "english": "bank, firm, row"
-    },
-    "记": {
-      "pinyin": "jì",
-      "english": "to record, remember"
-    },
-    "货": {
-      "pinyin": "huò",
-      "english": "goods, commodity"
-    },
-    "走": {
-      "pinyin": "zǒu",
-      "english": "to walk, leave, go"
-    },
-    "超": {
-      "pinyin": "chāo",
-      "english": "super-, to exceed, surpass"
-    },
-    "软": {
-      "pinyin": "ruǎn",
-      "english": "soft, flexible"
-    },
-    "还": {
-      "pinyin": "hái",
-      "english": "still, yet, or"
-    },
-    "银": {
-      "pinyin": "yín",
-      "english": "silver, money"
-    },
-    "院": {
-      "pinyin": "yuàn",
-      "english": "institution, courtyard, hospital"
-    },
-    "题": {
-      "pinyin": "tí",
-      "english": "topic, question, problem"
-    },
-    "馆": {
-      "pinyin": "guǎn",
-      "english": "building, shop, restaurant"
-    },
-    "丸": {
-      "pinyin": "wán",
-      "english": "pill, small ball, pellet"
-    },
-    "乒": {
-      "pinyin": "pīng",
-      "english": "ping (in ping-pong)"
-    },
-    "乓": {
-      "pinyin": "pāng",
-      "english": "pong (in ping-pong)"
-    },
-    "习": {
-      "pinyin": "xí",
-      "english": "to practice, study, habit"
-    },
-    "典": {
-      "pinyin": "diǎn",
-      "english": "standard, canon, Sweden (in 瑞典)"
-    },
-    "完": {
-      "pinyin": "wán",
-      "english": "to finish, complete, end"
-    },
-    "心": {
-      "pinyin": "xīn",
-      "english": "heart, mind"
-    },
-    "步": {
-      "pinyin": "bù",
-      "english": "step, pace, to walk"
-    },
-    "球": {
-      "pinyin": "qiú",
-      "english": "ball, sphere, globe"
-    },
-    "理": {
-      "pinyin": "lǐ",
-      "english": "reason, logic, science, psychology"
-    },
-    "瑞": {
-      "pinyin": "ruì",
-      "english": "auspicious, lucky, Swiss/Swedish"
-    },
-    "肉": {
-      "pinyin": "ròu",
-      "english": "meat, flesh"
-    },
-    "跑": {
-      "pinyin": "pǎo",
-      "english": "to run"
-    },
-    "面": {
-      "pinyin": "miàn",
-      "english": "surface, side, outside, face"
-    },
-    "买": {
-      "pinyin": "mǎi",
-      "english": "to buy / to purchase"
-    },
-    "于": {
-      "pinyin": "yú",
-      "english": "at / in / to / equal to (in 等于)"
-    },
-    "住": {
-      "pinyin": "zhù",
-      "english": "to live / to dwell / to stay"
-    },
-    "元": {
-      "pinyin": "yuán",
-      "english": "yuan (currency unit) / primary"
-    },
-    "兄": {
-      "pinyin": "xiōng",
-      "english": "elder brother"
-    },
-    "克": {
-      "pinyin": "kè",
-      "english": "gram / to overcome"
-    },
-    "初": {
+      "english": "earth / ground / field / place",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_643",
+      "hanzi": "到",
+      "pinyin": "dào",
+      "english": "to arrive / to reach / to",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_644",
+      "hanzi": "以",
+      "pinyin": "yǐ",
+      "english": "by means of / according to / so as to",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_645",
+      "hanzi": "说",
+      "pinyin": "shuō",
+      "english": "to speak / to say",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_646",
+      "hanzi": "时",
+      "pinyin": "shí",
+      "english": "time / hour / season / period",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_647",
+      "hanzi": "要",
+      "pinyin": "yào",
+      "english": "to want / need / will / important",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_648",
+      "hanzi": "就",
+      "pinyin": "jiù",
+      "english": "at once / then / right away / precisely",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_649",
+      "hanzi": "出",
       "pinyin": "chū",
-      "english": "beginning / early / junior (in 初中)"
+      "english": "to go out / to emerge / to produce",
+      "type": "word",
+      "concept": "top100"
     },
-    "升": {
+    {
+      "id": "card_650",
+      "hanzi": "会",
+      "pinyin": "huì",
+      "english": "can / be able to / meeting / will",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_651",
+      "hanzi": "可",
+      "pinyin": "kě",
+      "english": "can / may / able to",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_652",
+      "hanzi": "也",
+      "pinyin": "yě",
+      "english": "also / too",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_653",
+      "hanzi": "你",
+      "pinyin": "nǐ",
+      "english": "you",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_654",
+      "hanzi": "对",
+      "pinyin": "duì",
+      "english": "correct / right / towards / opposite",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_655",
+      "hanzi": "生",
       "pinyin": "shēng",
-      "english": "liter (capacity unit) / to rise"
+      "english": "to be born / life / student / raw",
+      "type": "word",
+      "concept": "top100"
     },
-    "块": {
-      "pinyin": "kuài",
-      "english": "kuai (currency unit) / piece / lump"
+    {
+      "id": "card_656",
+      "hanzi": "能",
+      "pinyin": "néng",
+      "english": "can / to be able to / capability",
+      "type": "word",
+      "concept": "top100"
     },
-    "思": {
-      "pinyin": "sī",
-      "english": "to think / thought / consider (in 思齐)"
+    {
+      "id": "card_657",
+      "hanzi": "而",
+      "pinyin": "ér",
+      "english": "and / as well as / but / yet",
+      "type": "word",
+      "concept": "top100"
     },
-    "斤": {
-      "pinyin": "jīn",
-      "english": "jin (unit of weight, 500g) / catty"
+    {
+      "id": "card_658",
+      "hanzi": "子",
+      "pinyin": "zǐ",
+      "english": "child / son / noun suffix",
+      "type": "word",
+      "concept": "top100"
     },
-    "毫": {
-      "pinyin": "háo",
-      "english": "milli- / fine hair / tiny"
+    {
+      "id": "card_659",
+      "hanzi": "那",
+      "pinyin": "nà",
+      "english": "that / those",
+      "type": "word",
+      "concept": "top100"
     },
-    "空": {
-      "pinyin": "kòng",
-      "english": "free time / leisure / spare time"
+    {
+      "id": "card_660",
+      "hanzi": "得",
+      "pinyin": "de",
+      "english": "particle for degree / to obtain / must",
+      "type": "word",
+      "concept": "top100"
     },
-    "等": {
-      "pinyin": "děng",
-      "english": "to wait / equal to / class"
+    {
+      "id": "card_661",
+      "hanzi": "于",
+      "pinyin": "yú",
+      "english": "in / at / to / from / than",
+      "type": "word",
+      "concept": "top100"
     },
-    "角": {
-      "pinyin": "jiǎo",
-      "english": "jiao (fractional currency unit, 10 cents) / horn / corner"
+    {
+      "id": "card_662",
+      "hanzi": "着",
+      "pinyin": "zhe",
+      "english": "aspect particle (action in progress)",
+      "type": "word",
+      "concept": "top100"
     },
-    "钱": {
-      "pinyin": "qián",
-      "english": "money / coin / currency"
+    {
+      "id": "card_663",
+      "hanzi": "下",
+      "pinyin": "xià",
+      "english": "down / below / under / next",
+      "type": "word",
+      "concept": "top100"
     },
-    "齐": {
+    {
+      "id": "card_664",
+      "hanzi": "自",
+      "pinyin": "zì",
+      "english": "self / oneself / from / since",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_665",
+      "hanzi": "之",
+      "pinyin": "zhī",
+      "english": "possessive particle / him / her / it",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_666",
+      "hanzi": "年",
+      "pinyin": "nián",
+      "english": "year",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_667",
+      "hanzi": "过",
+      "pinyin": "guò",
+      "english": "to pass / cross / experienced action marker",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_668",
+      "hanzi": "发",
+      "pinyin": "fā",
+      "english": "to send out / issue / develop / hair",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_669",
+      "hanzi": "后",
+      "pinyin": "hòu",
+      "english": "behind / rear / after / later",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_670",
+      "hanzi": "作",
+      "pinyin": "zuò",
+      "english": "to do / make / regard as / work",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_671",
+      "hanzi": "里",
+      "pinyin": "lǐ",
+      "english": "inside / interior / neighborhood / li (0.5km)",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_672",
+      "hanzi": "用",
+      "pinyin": "yòng",
+      "english": "to use / employ",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_673",
+      "hanzi": "道",
+      "pinyin": "dào",
+      "english": "way / path / road / to say / Dao",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_674",
+      "hanzi": "行",
+      "pinyin": "xíng",
+      "english": "all right / capable / to walk / to travel / row",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_675",
+      "hanzi": "所",
+      "pinyin": "suǒ",
+      "english": "place / that which",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_676",
+      "hanzi": "然",
+      "pinyin": "rán",
+      "english": "correct / so / thus / -ly",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_677",
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "english": "home / family / household",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_678",
+      "hanzi": "种",
+      "pinyin": "zhǒng",
+      "english": "kind / type / seed / to plant",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_679",
+      "hanzi": "事",
+      "pinyin": "shì",
+      "english": "matter / thing / business / affair",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_680",
+      "hanzi": "成",
+      "pinyin": "chéng",
+      "english": "to complete / accomplish / become / succeed",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_681",
+      "hanzi": "方",
+      "pinyin": "fāng",
+      "english": "square / direction / side / region",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_682",
+      "hanzi": "多",
+      "pinyin": "duō",
+      "english": "many / much / multi-",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_683",
+      "hanzi": "经",
+      "pinyin": "jīng",
+      "english": "to pass through / undergo / classics",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_684",
+      "hanzi": "么",
+      "pinyin": "me",
+      "english": "interrogative suffix",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_685",
+      "hanzi": "去",
+      "pinyin": "qù",
+      "english": "to go / to leave / to remove",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_686",
+      "hanzi": "法",
+      "pinyin": "fǎ",
+      "english": "law / method / way / France",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_687",
+      "hanzi": "学",
+      "pinyin": "xué",
+      "english": "to learn / study / science",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_688",
+      "hanzi": "如",
+      "pinyin": "rú",
+      "english": "as if / such as / like",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_689",
+      "hanzi": "都",
+      "pinyin": "dōu",
+      "english": "all / both / entirely",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_690",
+      "hanzi": "同",
+      "pinyin": "tóng",
+      "english": "same / similar / together / with",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_691",
+      "hanzi": "现",
+      "pinyin": "xiàn",
+      "english": "appear / present / current / now",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_692",
+      "hanzi": "当",
+      "pinyin": "dāng",
+      "english": "to act as / when / during / should",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_693",
+      "hanzi": "没",
+      "pinyin": "méi",
+      "english": "not have / there is not",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_694",
+      "hanzi": "动",
+      "pinyin": "dòng",
+      "english": "to move / act / change",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_695",
+      "hanzi": "面",
+      "pinyin": "miàn",
+      "english": "face / side / surface / noodles",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_696",
+      "hanzi": "起",
+      "pinyin": "qǐ",
+      "english": "to rise / raise / get up",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_697",
+      "hanzi": "看",
+      "pinyin": "kàn",
+      "english": "to look at / see / watch / read",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_698",
+      "hanzi": "定",
+      "pinyin": "dìng",
+      "english": "to fix / determine / decide / definite",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_699",
+      "hanzi": "天",
+      "pinyin": "tiān",
+      "english": "day / sky / heaven",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_700",
+      "hanzi": "分",
+      "pinyin": "fēn",
+      "english": "to divide / minute / point / cent",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_701",
+      "hanzi": "还",
+      "pinyin": "hái",
+      "english": "still / yet / also / in addition",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_702",
+      "hanzi": "进",
+      "pinyin": "jìn",
+      "english": "to advance / enter / come in",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_703",
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "english": "good / well / fine",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_704",
+      "hanzi": "小",
+      "pinyin": "xiǎo",
+      "english": "small / tiny / young",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_705",
+      "hanzi": "部",
+      "pinyin": "bù",
+      "english": "part / section / department / ministry",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_706",
+      "hanzi": "其",
       "pinyin": "qí",
-      "english": "neat / even / together (in 思齐)"
+      "english": "his / her / its / their / that",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_707",
+      "hanzi": "些",
+      "pinyin": "xiē",
+      "english": "some / few / several",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_708",
+      "hanzi": "主",
+      "pinyin": "zhǔ",
+      "english": "master / host / primary / main",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_709",
+      "hanzi": "样",
+      "pinyin": "yàng",
+      "english": "manner / pattern / appearance / shape",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_710",
+      "hanzi": "理",
+      "pinyin": "lǐ",
+      "english": "reason / logic / science / principle",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_711",
+      "hanzi": "心",
+      "pinyin": "xīn",
+      "english": "heart / mind",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_712",
+      "hanzi": "她",
+      "pinyin": "tā",
+      "english": "she / her",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_713",
+      "hanzi": "本",
+      "pinyin": "běn",
+      "english": "root / origin / book (measure word)",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_714",
+      "hanzi": "前",
+      "pinyin": "qián",
+      "english": "front / forward / before / ago",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_715",
+      "hanzi": "开",
+      "pinyin": "kāi",
+      "english": "to open / operate / start",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_716",
+      "hanzi": "但",
+      "pinyin": "dàn",
+      "english": "but / yet / however",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_717",
+      "hanzi": "因",
+      "pinyin": "yīn",
+      "english": "cause / reason / because",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_718",
+      "hanzi": "只",
+      "pinyin": "zhǐ",
+      "english": "only / merely / just",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_719",
+      "hanzi": "从",
+      "pinyin": "cóng",
+      "english": "from / since / to follow",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_720",
+      "hanzi": "想",
+      "pinyin": "xiǎng",
+      "english": "to think / want / wish / miss",
+      "type": "word",
+      "concept": "top100"
+    },
+    {
+      "id": "card_721",
+      "hanzi": "实",
+      "pinyin": "shí",
+      "english": "real / true / solid / fruit",
+      "type": "word",
+      "concept": "top100"
     }
-  }
+  ]
 }
