@@ -15,7 +15,7 @@ REQUIRED_CARD_FIELDS = {"id", "hanzi", "pinyin", "english", "type", "concept"}
 VALID_TYPES = {"word", "number", "sentence", "phrase"}
 VALID_CONCEPTS = {
     "all", "greetings", "introductions", "time", "numbers",
-    "countries", "food", "weather", "verbs_adjectives", "objects", "phrases"
+    "countries", "food", "weather", "verbs_adjectives", "objects", "phrases", "top100"
 }
 
 def is_cjk(char: str) -> bool:
