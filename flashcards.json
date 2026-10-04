@@ -2,7 +2,7 @@
   "feed_version": "2.0.0",
   "version": "2.0.0",
   "total_cards": 925,
-  "last_updated": "2026-10-02T21:22:39.624030+00:00",
+  "last_updated": "2026-10-04T22:17:12.946Z",
   "concepts": [
     {
       "id": "all",
@@ -35,9 +35,14 @@
       "emoji": "🔢"
     },
     {
-      "id": "countries",
-      "name": "Countries",
-      "emoji": "🌎"
+      "id": "places",
+      "name": "Places & Locations",
+      "emoji": "📍"
+    },
+    {
+      "id": "directions",
+      "name": "Directions & Positions",
+      "emoji": "🧭"
     },
     {
       "id": "food",
@@ -2118,7 +2123,7 @@
       "pinyin": "nǎ",
       "english": "which / where",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_043",
@@ -2126,7 +2131,7 @@
       "pinyin": "Zhōngguórén",
       "english": "Chinese person",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_044",
@@ -2134,7 +2139,7 @@
       "pinyin": "Měiguórén",
       "english": "American",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_045",
@@ -2142,7 +2147,7 @@
       "pinyin": "Yīngguórén",
       "english": "British",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_046",
@@ -2150,7 +2155,7 @@
       "pinyin": "Jiānádàrén",
       "english": "Canadian",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_047",
@@ -2158,7 +2163,7 @@
       "pinyin": "Tàiguórén",
       "english": "Thai person",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_048",
@@ -2166,7 +2171,7 @@
       "pinyin": "Móluògērén",
       "english": "Moroccan person",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_049",
@@ -2174,7 +2179,7 @@
       "pinyin": "Rìběn",
       "english": "Japan",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_050",
@@ -2182,7 +2187,7 @@
       "pinyin": "Éluósī",
       "english": "Russia",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_051",
@@ -2190,7 +2195,7 @@
       "pinyin": "Àodàlìyà",
       "english": "Australia",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_052",
@@ -2198,7 +2203,7 @@
       "pinyin": "Fǎguó",
       "english": "France",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_053",
@@ -2206,7 +2211,7 @@
       "pinyin": "Mòxīgē",
       "english": "Mexico",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_054",
@@ -2214,7 +2219,7 @@
       "pinyin": "Āijí",
       "english": "Egypt",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_055",
@@ -2222,7 +2227,7 @@
       "pinyin": "Nǐ shì nǎ guó rén?",
       "english": "Which country are you from?",
       "type": "sentence",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_056",
@@ -2230,7 +2235,7 @@
       "pinyin": "Tā shì nǎ guó rén?",
       "english": "What nationality is he?",
       "type": "sentence",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_057",
@@ -2238,7 +2243,7 @@
       "pinyin": "Wǒ shì Měiguórén, nǐ ne?",
       "english": "I come from America, and you?",
       "type": "sentence",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_058",
@@ -2246,7 +2251,7 @@
       "pinyin": "Nǐ qùguò Āijí ma?",
       "english": "Have you ever been to Egypt?",
       "type": "sentence",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_059",
@@ -2254,7 +2259,7 @@
       "pinyin": "Wǒ méi qùguò Āijí.",
       "english": "I've never been to Egypt.",
       "type": "sentence",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_060",
@@ -3745,7 +3750,7 @@
       "pinyin": "Wēngēhuá",
       "english": "Vancouver",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_246",
@@ -3753,7 +3758,7 @@
       "pinyin": "Jiùjīnshān",
       "english": "San Francisco",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_247",
@@ -3761,7 +3766,7 @@
       "pinyin": "Lúndūn",
       "english": "London",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_248",
@@ -3769,7 +3774,7 @@
       "pinyin": "Niǔyuē",
       "english": "New York",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_249",
@@ -5065,7 +5070,7 @@
       "pinyin": "fànguǎnr",
       "english": "restaurant",
       "type": "word",
-      "concept": "food"
+      "concept": "places"
     },
     {
       "id": "card_411",
@@ -5073,7 +5078,7 @@
       "pinyin": "fànguǎn",
       "english": "restaurant",
       "type": "word",
-      "concept": "food"
+      "concept": "places"
     },
     {
       "id": "card_412",
@@ -5129,7 +5134,7 @@
       "pinyin": "yīngyǔ",
       "english": "English language",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_419",
@@ -5137,7 +5142,7 @@
       "pinyin": "xībānyáyǔ",
       "english": "Spanish language",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_420",
@@ -5145,7 +5150,7 @@
       "pinyin": "fǎyǔ",
       "english": "French language",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_421",
@@ -5161,7 +5166,7 @@
       "pinyin": "jiā",
       "english": "family / home",
       "type": "word",
-      "concept": "introductions"
+      "concept": "places"
     },
     {
       "id": "card_423",
@@ -5169,7 +5174,7 @@
       "pinyin": "wǒ jiā",
       "english": "my family / my home",
       "type": "phrase",
-      "concept": "introductions"
+      "concept": "places"
     },
     {
       "id": "card_424",
@@ -5361,7 +5366,7 @@
       "pinyin": "gōngsī",
       "english": "company",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_448",
@@ -5465,7 +5470,7 @@
       "pinyin": "xuéxiào",
       "english": "school",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_461",
@@ -5473,7 +5478,7 @@
       "pinyin": "yīyuàn",
       "english": "hospital",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_462",
@@ -5505,7 +5510,7 @@
       "pinyin": "yínháng",
       "english": "bank",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_466",
@@ -5521,7 +5526,7 @@
       "pinyin": "diànshìtái",
       "english": "TV station",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_468",
@@ -5529,7 +5534,7 @@
       "pinyin": "lǚxíngshè",
       "english": "travel agency",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_469",
@@ -5545,7 +5550,7 @@
       "pinyin": "shāngchǎng",
       "english": "shopping mall",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_471",
@@ -5561,7 +5566,7 @@
       "pinyin": "chāoshì",
       "english": "supermarket",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_473",
@@ -5585,7 +5590,7 @@
       "pinyin": "Ruìdiǎn",
       "english": "Sweden",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_476",
@@ -5609,7 +5614,7 @@
       "pinyin": "wàimiàn",
       "english": "outside / outdoors",
       "type": "word",
-      "concept": "objects"
+      "concept": "directions"
     },
     {
       "id": "card_479",
@@ -5785,7 +5790,7 @@
       "pinyin": "dàxué",
       "english": "university / college",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_501",
@@ -5793,7 +5798,7 @@
       "pinyin": "zài yínháng",
       "english": "at the bank",
       "type": "phrase",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_502",
@@ -5801,7 +5806,7 @@
       "pinyin": "zài dàxué",
       "english": "at university / in college",
       "type": "phrase",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_503",
@@ -5809,7 +5814,7 @@
       "pinyin": "zài jiā",
       "english": "at home",
       "type": "phrase",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_504",
@@ -5913,7 +5918,7 @@
       "pinyin": "Wǒ zhù zài Měiguó Jiùjīnshān.",
       "english": "I live in San Francisco, USA.",
       "type": "sentence",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_517",
@@ -6425,7 +6430,7 @@
       "pinyin": "zhōngxué",
       "english": "middle school / secondary school",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_581",
@@ -6433,7 +6438,7 @@
       "pinyin": "chūzhōng",
       "english": "junior high school",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_582",
@@ -6441,7 +6446,7 @@
       "pinyin": "gāozhōng",
       "english": "senior high school",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_583",
@@ -6449,7 +6454,7 @@
       "pinyin": "xiǎoxué",
       "english": "primary school / elementary school",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_584",
@@ -6569,7 +6574,7 @@
       "pinyin": "nǎr",
       "english": "where",
       "type": "word",
-      "concept": "phrases"
+      "concept": "places"
     },
     {
       "id": "card_599",
@@ -6665,7 +6670,7 @@
       "pinyin": "Zhōngguó Yínháng",
       "english": "Bank of China",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_611",
@@ -6745,7 +6750,7 @@
       "pinyin": "Běijīng Dàxué",
       "english": "Peking University",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_621",
@@ -8297,7 +8302,7 @@
       "pinyin": "Yìdàlì",
       "english": "Italy",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_815",
@@ -8345,7 +8350,7 @@
       "pinyin": "xǐshǒujiān",
       "english": "restroom / bathroom",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_821",
@@ -8353,7 +8358,7 @@
       "pinyin": "wèishēngjiān",
       "english": "restroom / bathroom",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_822",
@@ -8361,7 +8366,7 @@
       "pinyin": "cèsuǒ",
       "english": "toilet / restroom",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_823",
@@ -8369,7 +8374,7 @@
       "pinyin": "Xiànzài zài jiā.",
       "english": "I'm at home now.",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "places"
     },
     {
       "id": "card_824",
@@ -8377,7 +8382,7 @@
       "pinyin": "wǎng zuǒ zǒu",
       "english": "walk to the left",
       "type": "phrase",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_825",
@@ -8385,7 +8390,7 @@
       "pinyin": "wǎng zuǒ guǎi",
       "english": "turn left",
       "type": "phrase",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_826",
@@ -8393,7 +8398,7 @@
       "pinyin": "zǒu",
       "english": "to walk",
       "type": "word",
-      "concept": "verbs_adjectives"
+      "concept": "directions"
     },
     {
       "id": "card_827",
@@ -8401,7 +8406,7 @@
       "pinyin": "péngyou jiā",
       "english": "friend's house",
       "type": "phrase",
-      "concept": "phrases"
+      "concept": "places"
     },
     {
       "id": "card_828",
@@ -8409,7 +8414,7 @@
       "pinyin": "dìtiězhàn",
       "english": "subway station",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_829",
@@ -8417,7 +8422,7 @@
       "pinyin": "Yínháng zài nǐ de zuǒbian.",
       "english": "The bank is on your left.",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_830",
@@ -8425,7 +8430,7 @@
       "pinyin": "Yínháng zài nǐ de zuǒmiàn.",
       "english": "The bank is on your left side.",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_831",
@@ -8433,7 +8438,7 @@
       "pinyin": "guójiā",
       "english": "country / nation",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_832",
@@ -8457,7 +8462,7 @@
       "pinyin": "Qǐngwèn, xǐshǒujiān zài nǎr?",
       "english": "Excuse me, where is the restroom?",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "places"
     },
     {
       "id": "card_835",
@@ -8465,7 +8470,7 @@
       "pinyin": "Yìzhí zǒu.",
       "english": "Go straight / keep walking straight.",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_836",
@@ -8473,7 +8478,7 @@
       "pinyin": "Wǎng qián zǒu, ránhòu wǎng yòu guǎi.",
       "english": "Go forward, then turn right.",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_837",
@@ -8481,7 +8486,7 @@
       "pinyin": "fángjiān",
       "english": "room",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_838",
@@ -8497,7 +8502,7 @@
       "pinyin": "fángjiān hàomǎ",
       "english": "room number",
       "type": "phrase",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_840",
@@ -8513,7 +8518,7 @@
       "pinyin": "zuǒ",
       "english": "left (direction)",
       "type": "word",
-      "concept": "objects"
+      "concept": "directions"
     },
     {
       "id": "card_842",
@@ -8521,7 +8526,7 @@
       "pinyin": "yòu",
       "english": "right (direction)",
       "type": "word",
-      "concept": "objects"
+      "concept": "directions"
     },
     {
       "id": "card_843",
@@ -8529,7 +8534,7 @@
       "pinyin": "wǎng",
       "english": "toward / to go toward",
       "type": "word",
-      "concept": "verbs_adjectives"
+      "concept": "directions"
     },
     {
       "id": "card_844",
@@ -8537,7 +8542,7 @@
       "pinyin": "wǎng qián",
       "english": "forward / ahead",
       "type": "phrase",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_845",
@@ -8545,7 +8550,7 @@
       "pinyin": "wǎng zuǒ",
       "english": "to the left",
       "type": "phrase",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_846",
@@ -8553,7 +8558,7 @@
       "pinyin": "wǎng yòu",
       "english": "to the right",
       "type": "phrase",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_847",
@@ -8561,7 +8566,7 @@
       "pinyin": "guǎi",
       "english": "to turn",
       "type": "word",
-      "concept": "verbs_adjectives"
+      "concept": "directions"
     },
     {
       "id": "card_848",
@@ -8569,7 +8574,7 @@
       "pinyin": "wǎng yòu guǎi",
       "english": "turn right",
       "type": "phrase",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_849",
@@ -8577,7 +8582,7 @@
       "pinyin": "wǎng qián zǒu",
       "english": "walk forward",
       "type": "phrase",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_850",
@@ -8593,7 +8598,7 @@
       "pinyin": "Wǎng zuǒ guǎi, ránhòu yìzhí zǒu.",
       "english": "Turn left, then keep walking straight.",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_852",
@@ -8601,7 +8606,7 @@
       "pinyin": "Chāoshì zěnme zǒu?",
       "english": "How do I get to the supermarket?",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_853",
@@ -8609,7 +8614,7 @@
       "pinyin": "Yínháng zěnme zǒu?",
       "english": "How do I get to the bank?",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_854",
@@ -8617,7 +8622,7 @@
       "pinyin": "Guójiā Túshūguǎn zěnme zǒu?",
       "english": "How do I get to the National Library?",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_855",
@@ -8625,7 +8630,7 @@
       "pinyin": "Cóng zhèr wǎng nán zǒu.",
       "english": "Go south from here.",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_856",
@@ -8633,7 +8638,7 @@
       "pinyin": "Guójiā Túshūguǎn zài mǎlù xībian.",
       "english": "The National Library is on the west side of the street.",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_857",
@@ -8641,7 +8646,7 @@
       "pinyin": "Guójiā Túshūguǎn",
       "english": "National Library",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_858",
@@ -8649,7 +8654,7 @@
       "pinyin": "mǎlù",
       "english": "street / road",
       "type": "word",
-      "concept": "objects"
+      "concept": "directions"
     },
     {
       "id": "card_859",
@@ -8657,7 +8662,7 @@
       "pinyin": "xībian",
       "english": "west side",
       "type": "word",
-      "concept": "objects"
+      "concept": "directions"
     },
     {
       "id": "card_860",
@@ -8665,7 +8670,7 @@
       "pinyin": "dōngbian",
       "english": "east side",
       "type": "word",
-      "concept": "objects"
+      "concept": "directions"
     },
     {
       "id": "card_861",
@@ -8673,7 +8678,7 @@
       "pinyin": "nánbian",
       "english": "south side",
       "type": "word",
-      "concept": "objects"
+      "concept": "directions"
     },
     {
       "id": "card_862",
@@ -8681,7 +8686,7 @@
       "pinyin": "běibian",
       "english": "north side",
       "type": "word",
-      "concept": "objects"
+      "concept": "directions"
     },
     {
       "id": "card_863",
@@ -8689,7 +8694,7 @@
       "pinyin": "zuǒbian",
       "english": "left side",
       "type": "word",
-      "concept": "objects"
+      "concept": "directions"
     },
     {
       "id": "card_864",
@@ -8697,7 +8702,7 @@
       "pinyin": "yòubian",
       "english": "right side",
       "type": "word",
-      "concept": "objects"
+      "concept": "directions"
     },
     {
       "id": "card_865",
@@ -8705,7 +8710,7 @@
       "pinyin": "qiánbian",
       "english": "front / in front",
       "type": "word",
-      "concept": "objects"
+      "concept": "directions"
     },
     {
       "id": "card_866",
@@ -8713,7 +8718,7 @@
       "pinyin": "hòubian",
       "english": "back / behind",
       "type": "word",
-      "concept": "objects"
+      "concept": "directions"
     },
     {
       "id": "card_867",
@@ -8721,7 +8726,7 @@
       "pinyin": "dōng",
       "english": "east",
       "type": "word",
-      "concept": "objects"
+      "concept": "directions"
     },
     {
       "id": "card_868",
@@ -8729,7 +8734,7 @@
       "pinyin": "nán",
       "english": "south",
       "type": "word",
-      "concept": "objects"
+      "concept": "directions"
     },
     {
       "id": "card_869",
@@ -8737,7 +8742,7 @@
       "pinyin": "xī",
       "english": "west",
       "type": "word",
-      "concept": "objects"
+      "concept": "directions"
     },
     {
       "id": "card_870",
@@ -8745,7 +8750,7 @@
       "pinyin": "běi",
       "english": "north",
       "type": "word",
-      "concept": "objects"
+      "concept": "directions"
     },
     {
       "id": "card_871",
@@ -8753,7 +8758,7 @@
       "pinyin": "wǎng dōng zǒu",
       "english": "walk east",
       "type": "phrase",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_872",
@@ -8761,7 +8766,7 @@
       "pinyin": "wǎng nán zǒu",
       "english": "walk south",
       "type": "phrase",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_873",
@@ -8769,7 +8774,7 @@
       "pinyin": "wǎng xī zǒu",
       "english": "walk west",
       "type": "phrase",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_874",
@@ -8777,7 +8782,7 @@
       "pinyin": "wǎng běi zǒu",
       "english": "walk north",
       "type": "phrase",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_875",
@@ -8785,7 +8790,7 @@
       "pinyin": "Qǐngwèn, túshūguǎn zěnme zǒu?",
       "english": "Excuse me, how do I get to the library?",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_876",
@@ -8817,7 +8822,7 @@
       "pinyin": "zhèr",
       "english": "here",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_880",
@@ -8825,7 +8830,7 @@
       "pinyin": "Zài zhèr.",
       "english": "It's here.",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "places"
     },
     {
       "id": "card_881",
@@ -8865,7 +8870,7 @@
       "pinyin": "lùkǒu",
       "english": "intersection / crossing",
       "type": "word",
-      "concept": "objects"
+      "concept": "directions"
     },
     {
       "id": "card_886",
@@ -8873,7 +8878,7 @@
       "pinyin": "dì yí gè lùkǒu wǎng yòu guǎi",
       "english": "turn right at the first intersection",
       "type": "phrase",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_887",
@@ -8881,7 +8886,7 @@
       "pinyin": "dì èr gè lùkǒu wǎng zuǒ guǎi",
       "english": "turn left at the second intersection",
       "type": "phrase",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_888",
@@ -8889,7 +8894,7 @@
       "pinyin": "Dào dì èr gè lùkǒu, wǎng yòu guǎi.",
       "english": "At the second intersection, turn right.",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_889",
@@ -8897,7 +8902,7 @@
       "pinyin": "zǒu dào tóu",
       "english": "walk to the end",
       "type": "phrase",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_890",
@@ -8905,7 +8910,7 @@
       "pinyin": "Yìzhí zǒu dào tóu.",
       "english": "Walk straight to the end.",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_891",
@@ -8945,7 +8950,7 @@
       "pinyin": "Cóng nǐ jiā dào yínháng zěnme zǒu?",
       "english": "How do you get from your house to the bank?",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_896",
@@ -8953,7 +8958,7 @@
       "pinyin": "Zài zǒu èrshí mǐ.",
       "english": "Walk another 20 meters.",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_897",
@@ -8961,7 +8966,7 @@
       "pinyin": "Wǒ zài tā hòubian.",
       "english": "I am behind him.",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_898",
@@ -8969,7 +8974,7 @@
       "pinyin": "Yínháng zài xuéxiào nánbian.",
       "english": "The bank is south of the school.",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_899",
@@ -8977,7 +8982,7 @@
       "pinyin": "Bàba zài mèimei hòubian.",
       "english": "Dad is behind younger sister.",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_900",
@@ -8993,7 +8998,7 @@
       "pinyin": "Cóng zhèr wǎng nán zǒu, dì èr gè lùkǒu wǎng zuǒ guǎi.",
       "english": "Go south from here, and turn left at the second intersection.",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_902",
@@ -9001,7 +9006,7 @@
       "pinyin": "Ránhòu yìzhí zǒu dào tóu, wǎng yòu guǎi, zài wǎng qián zǒu wǔbǎi mǐ, Guójiā Túshūguǎn zài mǎlù xībian.",
       "english": "Then walk straight to the end, turn right, walk another 500 meters, and the National Library is on the west side of the street.",
       "type": "sentence",
-      "concept": "phrases"
+      "concept": "directions"
     },
     {
       "id": "card_903",
@@ -9017,7 +9022,7 @@
       "pinyin": "zhèbiān",
       "english": "this side / here",
       "type": "word",
-      "concept": "objects"
+      "concept": "directions"
     },
     {
       "id": "card_905",
@@ -9025,7 +9030,7 @@
       "pinyin": "túshūguǎn",
       "english": "library",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_906",
@@ -9033,7 +9038,7 @@
       "pinyin": "yìzhí",
       "english": "always / continuously / straight",
       "type": "word",
-      "concept": "verbs_adjectives"
+      "concept": "directions"
     },
     {
       "id": "card_907",
@@ -9065,7 +9070,7 @@
       "pinyin": "cāntīng",
       "english": "restaurant / cafeteria / dining hall",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_911",
@@ -9073,7 +9078,7 @@
       "pinyin": "gōngsī de cāntīng",
       "english": "company cafeteria / company dining hall",
       "type": "phrase",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_912",
@@ -9105,7 +9110,7 @@
       "pinyin": "dōng xī nán běi",
       "english": "east, west, south, and north / all directions",
       "type": "phrase",
-      "concept": "objects"
+      "concept": "directions"
     },
     {
       "id": "card_916",
@@ -9113,7 +9118,7 @@
       "pinyin": "Nánjīng",
       "english": "Nanjing (city in Jiangsu province)",
       "type": "word",
-      "concept": "countries"
+      "concept": "places"
     },
     {
       "id": "card_917",
@@ -9121,7 +9126,7 @@
       "pinyin": "Wǒ qiánbian shì diànnǎo.",
       "english": "There is a computer in front of me.",
       "type": "sentence",
-      "concept": "objects"
+      "concept": "directions"
     },
     {
       "id": "card_918",
@@ -9129,7 +9134,7 @@
       "pinyin": "nàr",
       "english": "there / that place",
       "type": "word",
-      "concept": "objects"
+      "concept": "places"
     },
     {
       "id": "card_919",
