@@ -1,7 +1,7 @@
 {
   "feed_version": "2.0.0",
   "version": "2.0.0",
-  "total_cards": 945,
+  "total_cards": 989,
   "last_updated": "2026-10-07",
   "concepts": [
     {
@@ -1834,6 +1834,54 @@
     "秀": {
       "pinyin": "xiù",
       "english": "show (loanword) / elegant / refined"
+    },
+    "季": {
+      "pinyin": "jì",
+      "english": "season / period"
+    },
+    "冬": {
+      "pinyin": "dōng",
+      "english": "winter"
+    },
+    "比": {
+      "pinyin": "bǐ",
+      "english": "to compare / than"
+    },
+    "春": {
+      "pinyin": "chūn",
+      "english": "spring / joyful"
+    },
+    "更": {
+      "pinyin": "gèng",
+      "english": "even more / further"
+    },
+    "舒": {
+      "pinyin": "shū",
+      "english": "comfortable / relaxed"
+    },
+    "阳": {
+      "pinyin": "yáng",
+      "english": "sun / sunshine / positive"
+    },
+    "度": {
+      "pinyin": "dù",
+      "english": "degree (temperature, angle) / to spend (time)"
+    },
+    "晴": {
+      "pinyin": "qíng",
+      "english": "clear / sunny"
+    },
+    "冷": {
+      "pinyin": "lěng",
+      "english": "cold / chilly"
+    },
+    "最": {
+      "pinyin": "zuì",
+      "english": "most / superlative marker (-est)"
+    },
+    "光": {
+      "pinyin": "guāng",
+      "english": "light / ray / brightness"
     }
   },
   "cards": [
@@ -10344,6 +10392,402 @@
       "type": "word",
       "concept": "introductions",
       "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_946",
+      "hanzi": "今天有点儿忙。",
+      "pinyin": "Jīntiān yǒudiǎnr máng.",
+      "english": "I’m a little busy today.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_947",
+      "hanzi": "看电视",
+      "pinyin": "kàn diànshì",
+      "english": "to watch TV",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_948",
+      "hanzi": "多少度？",
+      "pinyin": "Duōshao dù?",
+      "english": "How many degrees is it?",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_949",
+      "hanzi": "28度。",
+      "pinyin": "Èrshíbā dù.",
+      "english": "It’s 28 degrees.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_950",
+      "hanzi": "下个星期可能33度。",
+      "pinyin": "Xià gè xīngqī kěnéng sānshísān dù.",
+      "english": "It might be 33 degrees next week.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_951",
+      "hanzi": "这个星期下雨了，所以不热。",
+      "pinyin": "Zhège xīngqī xiàyǔ le, suǒyǐ bú rè.",
+      "english": "It rained this week, so it’s not hot.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_952",
+      "hanzi": "因为……所以……",
+      "pinyin": "yīnwèi ... suǒyǐ ...",
+      "english": "because ... so ...",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_953",
+      "hanzi": "为什么你喜欢夏天？",
+      "pinyin": "Wèishénme nǐ xǐhuan xiàtiān?",
+      "english": "Why do you like summer?",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_954",
+      "hanzi": "为什么",
+      "pinyin": "wèishénme",
+      "english": "why",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_955",
+      "hanzi": "我这里是晴天。",
+      "pinyin": "Wǒ zhèlǐ shì qíngtiān.",
+      "english": "It’s sunny where I am.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_956",
+      "hanzi": "阳光",
+      "pinyin": "yángguāng",
+      "english": "sunshine",
+      "type": "word",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_957",
+      "hanzi": "四季",
+      "pinyin": "sìjì",
+      "english": "the four seasons",
+      "type": "word",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_958",
+      "hanzi": "季节",
+      "pinyin": "jìjié",
+      "english": "season",
+      "type": "word",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_959",
+      "hanzi": "春天",
+      "pinyin": "chūntiān",
+      "english": "spring",
+      "type": "word",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_960",
+      "hanzi": "冬天",
+      "pinyin": "dōngtiān",
+      "english": "winter",
+      "type": "word",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_961",
+      "hanzi": "冷",
+      "pinyin": "lěng",
+      "english": "cold",
+      "type": "word",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_962",
+      "hanzi": "十四、五度。",
+      "pinyin": "Shísì, wǔ dù.",
+      "english": "14 or 15 degrees.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_963",
+      "hanzi": "冬天不冷不热。",
+      "pinyin": "Dōngtiān bù lěng bú rè.",
+      "english": "It’s neither cold nor hot in winter.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_964",
+      "hanzi": "舒服",
+      "pinyin": "shūfu",
+      "english": "comfortable / pleasant",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_965",
+      "hanzi": "你最喜欢哪个季节？",
+      "pinyin": "Nǐ zuì xǐhuan nǎge jìjié?",
+      "english": "Which season do you like the most?",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_966",
+      "hanzi": "最",
+      "pinyin": "zuì",
+      "english": "the most / -est",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_967",
+      "hanzi": "如果",
+      "pinyin": "rúguǒ",
+      "english": "if",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_968",
+      "hanzi": "如果你在我这里，你不会喜欢夏天。",
+      "pinyin": "Rúguǒ nǐ zài wǒ zhèlǐ, nǐ bú huì xǐhuan xiàtiān.",
+      "english": "If you were here, you wouldn’t like summer.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_969",
+      "hanzi": "因为我们这里夏天每天都35度到38度。",
+      "pinyin": "Yīnwèi wǒmen zhèlǐ xiàtiān měitiān dōu sānshíwǔ dù dào sānshíbā dù.",
+      "english": "Because it’s 35 to 38 degrees here every day in summer.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_970",
+      "hanzi": "天气",
+      "pinyin": "tiānqì",
+      "english": "weather",
+      "type": "word",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_971",
+      "hanzi": "你们那里今天的天气怎么样？",
+      "pinyin": "Nǐmen nàlǐ jīntiān de tiānqì zěnmeyàng?",
+      "english": "What’s the weather like where you are today?",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_972",
+      "hanzi": "明天会冷一点儿吗？",
+      "pinyin": "Míngtiān huì lěng yìdiǎnr ma?",
+      "english": "Will it be a little colder tomorrow?",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_973",
+      "hanzi": "明天会比今天冷一点。",
+      "pinyin": "Míngtiān huì bǐ jīntiān lěng yìdiǎn.",
+      "english": "Tomorrow will be a little colder than today.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_974",
+      "hanzi": "比",
+      "pinyin": "bǐ",
+      "english": "than / compared with",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_975",
+      "hanzi": "热很多",
+      "pinyin": "rè hěnduō",
+      "english": "much hotter",
+      "type": "word",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_976",
+      "hanzi": "冷很多",
+      "pinyin": "lěng hěnduō",
+      "english": "much colder",
+      "type": "word",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_977",
+      "hanzi": "这个电影比那个电影好看很多。",
+      "pinyin": "Zhège diànyǐng bǐ nàge diànyǐng hǎokàn hěnduō.",
+      "english": "This movie is much better than that movie.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_978",
+      "hanzi": "这个电影没有那个电影好看。",
+      "pinyin": "Zhège diànyǐng méiyǒu nàge diànyǐng hǎokàn.",
+      "english": "This movie isn’t as good as that movie.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_979",
+      "hanzi": "可能",
+      "pinyin": "kěnéng",
+      "english": "might / maybe / possible",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_980",
+      "hanzi": "更",
+      "pinyin": "gèng",
+      "english": "more / even more",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_981",
+      "hanzi": "明天会更热。",
+      "pinyin": "Míngtiān huì gèng rè.",
+      "english": "It will be even hotter tomorrow.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_982",
+      "hanzi": "明天可能更热。",
+      "pinyin": "Míngtiān kěnéng gèng rè.",
+      "english": "It might be even hotter tomorrow.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_983",
+      "hanzi": "晴天",
+      "pinyin": "qíngtiān",
+      "english": "sunny day",
+      "type": "word",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_984",
+      "hanzi": "今天比昨天热很多。",
+      "pinyin": "Jīntiān bǐ zuótiān rè hěnduō.",
+      "english": "Today is much hotter than yesterday.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_985",
+      "hanzi": "明天可能比今天冷很多。",
+      "pinyin": "Míngtiān kěnéng bǐ jīntiān lěng hěnduō.",
+      "english": "Tomorrow might be much colder than today.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_986",
+      "hanzi": "现在是秋天，但是我这里很热。",
+      "pinyin": "Xiànzài shì qiūtiān, dànshì wǒ zhèlǐ hěn rè.",
+      "english": "It’s autumn now, but it’s very hot where I am.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_987",
+      "hanzi": "我这里秋天比夏天热很多。",
+      "pinyin": "Wǒ zhèlǐ qiūtiān bǐ xiàtiān rè hěnduō.",
+      "english": "Autumn is much hotter than summer where I live.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_988",
+      "hanzi": "我最喜欢这里的秋天，因为秋天比夏天热很多。",
+      "pinyin": "Wǒ zuì xǐhuan zhèlǐ de qiūtiān, yīnwèi qiūtiān bǐ xiàtiān rè hěnduō.",
+      "english": "I like autumn here the most because it’s much hotter than summer.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_989",
+      "hanzi": "我最喜欢热的天气。",
+      "pinyin": "Wǒ zuì xǐhuan rè de tiānqì.",
+      "english": "I like hot weather the most.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-06"
     }
   ],
   "types": [
@@ -10365,6 +10809,12 @@
     }
   ],
   "dates": [
+    {
+      "id": "2026-10-06",
+      "label": "Oct 6, 2026",
+      "count": 44,
+      "description": "Weather, seasons, comparisons, temperature"
+    },
     {
       "id": "2026-10-04",
       "label": "Oct 4, 2026",
