@@ -1,8 +1,8 @@
 {
   "feed_version": "2.0.0",
   "version": "2.0.0",
-  "total_cards": 925,
-  "last_updated": "2026-10-05T17:46:01.626Z",
+  "total_cards": 945,
+  "last_updated": "2026-10-07",
   "concepts": [
     {
       "id": "all",
@@ -1786,6 +1786,54 @@
     "龙": {
       "pinyin": "lóng",
       "english": "dragon (Bruce Lee / Jackie Chan)"
+    },
+    "伯": {
+      "pinyin": "bó",
+      "english": "father's elder brother / uncle"
+    },
+    "脱": {
+      "pinyin": "tuō",
+      "english": "to take off / to shed / to escape"
+    },
+    "次": {
+      "pinyin": "cì",
+      "english": "order / sequence / time / occasion"
+    },
+    "婆": {
+      "pinyin": "pó",
+      "english": "grandmother / maternal grandmother / old woman"
+    },
+    "丈": {
+      "pinyin": "zhàng",
+      "english": "husband / gentleman / unit of length (10 feet)"
+    },
+    "姥": {
+      "pinyin": "lǎo",
+      "english": "maternal grandmother"
+    },
+    "舅": {
+      "pinyin": "jiù",
+      "english": "maternal uncle / mother's brother"
+    },
+    "妻": {
+      "pinyin": "qī",
+      "english": "wife"
+    },
+    "夫": {
+      "pinyin": "fū",
+      "english": "husband / man"
+    },
+    "姑": {
+      "pinyin": "gū",
+      "english": "paternal aunt / father's sister"
+    },
+    "爷": {
+      "pinyin": "yé",
+      "english": "paternal grandfather / old gentleman"
+    },
+    "秀": {
+      "pinyin": "xiù",
+      "english": "show (loanword) / elegant / refined"
     }
   },
   "cards": [
@@ -10116,6 +10164,186 @@
       "type": "word",
       "concept": "numbers",
       "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_926",
+      "hanzi": "脱口秀",
+      "pinyin": "tuōkǒuxiù",
+      "english": "talk show / stand-up comedy",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_927",
+      "hanzi": "我今天睡了很多。",
+      "pinyin": "Wǒ jīntiān shuì le hěnduō.",
+      "english": "I slept a lot today.",
+      "type": "sentence",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_928",
+      "hanzi": "加拿大",
+      "pinyin": "Jiānádà",
+      "english": "Canada",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_929",
+      "hanzi": "他们以前住在加拿大。",
+      "pinyin": "Tāmen yǐqián zhù zài Jiānádà.",
+      "english": "They used to live in Canada.",
+      "type": "sentence",
+      "concept": "places",
+      "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_930",
+      "hanzi": "两次",
+      "pinyin": "liǎng cì",
+      "english": "twice / two times",
+      "type": "word",
+      "concept": "numbers",
+      "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_931",
+      "hanzi": "中间",
+      "pinyin": "zhōngjiān",
+      "english": "middle / between",
+      "type": "word",
+      "concept": "directions",
+      "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_932",
+      "hanzi": "爷爷",
+      "pinyin": "yéye",
+      "english": "(paternal) grandpa / grandfather",
+      "type": "word",
+      "concept": "introductions",
+      "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_933",
+      "hanzi": "奶奶",
+      "pinyin": "nǎinai",
+      "english": "(paternal) grandma / grandmother",
+      "type": "word",
+      "concept": "introductions",
+      "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_934",
+      "hanzi": "姥爷",
+      "pinyin": "lǎoye",
+      "english": "(maternal) grandpa / grandfather (Northern)",
+      "type": "word",
+      "concept": "introductions",
+      "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_935",
+      "hanzi": "外公",
+      "pinyin": "wàigōng",
+      "english": "(maternal) grandpa / grandfather (Southern / formal)",
+      "type": "word",
+      "concept": "introductions",
+      "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_936",
+      "hanzi": "姥姥",
+      "pinyin": "lǎolao",
+      "english": "(maternal) grandma / grandmother (Northern)",
+      "type": "word",
+      "concept": "introductions",
+      "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_937",
+      "hanzi": "外婆",
+      "pinyin": "wàipó",
+      "english": "(maternal) grandma / grandmother (Southern / formal)",
+      "type": "word",
+      "concept": "introductions",
+      "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_938",
+      "hanzi": "伯伯",
+      "pinyin": "bóbo",
+      "english": "uncle (father's elder brother)",
+      "type": "word",
+      "concept": "introductions",
+      "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_939",
+      "hanzi": "姑姑",
+      "pinyin": "gūgu",
+      "english": "aunt (father's sister)",
+      "type": "word",
+      "concept": "introductions",
+      "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_940",
+      "hanzi": "舅舅",
+      "pinyin": "jiùjiu",
+      "english": "uncle (mother's brother)",
+      "type": "word",
+      "concept": "introductions",
+      "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_941",
+      "hanzi": "姨",
+      "pinyin": "yí",
+      "english": "aunt (mother's sister)",
+      "type": "word",
+      "concept": "introductions",
+      "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_942",
+      "hanzi": "丈夫",
+      "pinyin": "zhàngfu",
+      "english": "husband",
+      "type": "word",
+      "concept": "introductions",
+      "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_943",
+      "hanzi": "妻子",
+      "pinyin": "qīzi",
+      "english": "wife",
+      "type": "word",
+      "concept": "introductions",
+      "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_944",
+      "hanzi": "儿子",
+      "pinyin": "érzi",
+      "english": "son",
+      "type": "word",
+      "concept": "introductions",
+      "date_added": "2026-10-04"
+    },
+    {
+      "id": "card_945",
+      "hanzi": "女儿",
+      "pinyin": "nǚ'ér",
+      "english": "daughter",
+      "type": "word",
+      "concept": "introductions",
+      "date_added": "2026-10-04"
     }
   ],
   "types": [
@@ -10140,8 +10368,8 @@
     {
       "id": "2026-10-04",
       "label": "Oct 4, 2026",
-      "count": 204,
-      "description": "Shopping, drinks, directions"
+      "count": 224,
+      "description": "Shopping, drinks, relatives, directions"
     },
     {
       "id": "2026-09-22",
