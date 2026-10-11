@@ -1,8 +1,8 @@
 {
   "feed_version": "2.0.0",
   "version": "2.0.0",
-  "total_cards": 989,
-  "last_updated": "2026-10-07",
+  "total_cards": 1030,
+  "last_updated": "2026-10-11",
   "concepts": [
     {
       "id": "all",
@@ -556,8 +556,8 @@
       "english": "week / circumference"
     },
     "和": {
-      "pinyin": "hé",
-      "english": "and, with"
+      "pinyin": "hé / huo",
+      "english": "and / with (hé); warm / soft (huo in 暖和)"
     },
     "咖": {
       "pinyin": "kā",
@@ -1500,8 +1500,8 @@
       "english": "banana / plantain (as in 香蕉)"
     },
     "行": {
-      "pinyin": "háng",
-      "english": "bank, firm, row"
+      "pinyin": "xíng / háng",
+      "english": "to go / travel / OK (xíng); bank / row / profession (háng)"
     },
     "袋": {
       "pinyin": "dài",
@@ -1882,6 +1882,46 @@
     "光": {
       "pinyin": "guāng",
       "english": "light / ray / brightness"
+    },
+    "概": {
+      "pinyin": "gài",
+      "english": "general / approximate (as in 大概)"
+    },
+    "暖": {
+      "pinyin": "nuǎn",
+      "english": "warm / genial"
+    },
+    "回": {
+      "pinyin": "huí",
+      "english": "to return / to go back / to reply"
+    },
+    "茶": {
+      "pinyin": "chá",
+      "english": "tea"
+    },
+    "长": {
+      "pinyin": "zhǎng / cháng",
+      "english": "to grow / elder (zhǎng); long (cháng)"
+    },
+    "蛋": {
+      "pinyin": "dàn",
+      "english": "egg"
+    },
+    "糕": {
+      "pinyin": "gāo",
+      "english": "cake / pastry"
+    },
+    "愉": {
+      "pinyin": "yú",
+      "english": "pleased / happy / joyful"
+    },
+    "条": {
+      "pinyin": "tiáo",
+      "english": "strip / long thin item (measure word)"
+    },
+    "批": {
+      "pinyin": "pī",
+      "english": "batch / to criticize / (phonetic in 批萨)"
     }
   },
   "cards": [
@@ -10788,6 +10828,375 @@
       "type": "sentence",
       "concept": "weather",
       "date_added": "2026-10-06"
+    },
+    {
+      "id": "card_990",
+      "hanzi": "今天比昨天冷一点儿。",
+      "pinyin": "Jīntiān bǐ zuótiān lěng yìdiǎnr.",
+      "english": "Today is a little colder than yesterday.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_991",
+      "hanzi": "我去4天。",
+      "pinyin": "Wǒ qù sì tiān.",
+      "english": "I’m going for four days.",
+      "type": "sentence",
+      "concept": "time",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_992",
+      "hanzi": "我去看我妈妈。",
+      "pinyin": "Wǒ qù kàn wǒ māma.",
+      "english": "I’m going to visit my mom.",
+      "type": "sentence",
+      "concept": "introductions",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_993",
+      "hanzi": "一定",
+      "pinyin": "yídìng",
+      "english": "definitely / certainly / surely",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_994",
+      "hanzi": "她一定很高兴见到你。",
+      "pinyin": "Tā yídìng hěn gāoxìng jiàndào nǐ.",
+      "english": "She’ll definitely be happy to see you.",
+      "type": "sentence",
+      "concept": "greetings",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_995",
+      "hanzi": "老家",
+      "pinyin": "lǎojiā",
+      "english": "hometown / native place",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_996",
+      "hanzi": "回老家",
+      "pinyin": "huí lǎojiā",
+      "english": "to go back to one's hometown",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_997",
+      "hanzi": "我也很高兴回老家。",
+      "pinyin": "Wǒ yě hěn gāoxìng huí lǎojiā.",
+      "english": "I’m also happy to go back to my hometown.",
+      "type": "sentence",
+      "concept": "places",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_998",
+      "hanzi": "机场",
+      "pinyin": "jīchǎng",
+      "english": "airport",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_999",
+      "hanzi": "我早上五点去机场。",
+      "pinyin": "Wǒ zǎoshang wǔ diǎn qù jīchǎng.",
+      "english": "I’m going to the airport at five in the morning.",
+      "type": "sentence",
+      "concept": "time",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1000",
+      "hanzi": "怎么样？",
+      "pinyin": "Zěnmeyàng?",
+      "english": "How is it? / What do you think?",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1001",
+      "hanzi": "大概",
+      "pinyin": "dàgài",
+      "english": "about / roughly / probably",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1002",
+      "hanzi": "大概29度。",
+      "pinyin": "Dàgài èrshíjiǔ dù.",
+      "english": "It’s about 29 degrees.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1003",
+      "hanzi": "29度我也觉得舒服。",
+      "pinyin": "Èrshíjiǔ dù wǒ yě juéde shūfu.",
+      "english": "I also find 29 degrees comfortable.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1004",
+      "hanzi": "美",
+      "pinyin": "měi",
+      "english": "beautiful / pretty",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1005",
+      "hanzi": "加拿大冬天很美吗？",
+      "pinyin": "Jiānádà dōngtiān hěn měi ma?",
+      "english": "Is winter beautiful in Canada?",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1006",
+      "hanzi": "因为我觉得加拿大冬天太冷了，所以我来了美国。",
+      "pinyin": "Yīnwèi wǒ juéde Jiānádà dōngtiān tài lěng le, suǒyǐ wǒ lái le Měiguó.",
+      "english": "I moved to the United States because I thought Canadian winters were too cold.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1007",
+      "hanzi": "南方",
+      "pinyin": "nánfāng",
+      "english": "the South / southern part",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1008",
+      "hanzi": "北方",
+      "pinyin": "běifāng",
+      "english": "the North / northern part",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1009",
+      "hanzi": "暖和",
+      "pinyin": "nuǎnhuo",
+      "english": "warm / nice and warm",
+      "type": "word",
+      "concept": "weather",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1010",
+      "hanzi": "我来了南方，因为这里更暖和。",
+      "pinyin": "Wǒ lái le nánfāng, yīnwèi zhèlǐ gèng nuǎnhuo.",
+      "english": "I moved to the South because it’s warmer here.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1011",
+      "hanzi": "中国北方现在很冷，大概10度。",
+      "pinyin": "Zhōngguó běifāng xiànzài hěn lěng, dàgài shí dù.",
+      "english": "It’s very cold in northern China now, around 10 degrees.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1012",
+      "hanzi": "长大",
+      "pinyin": "zhǎngdà",
+      "english": "to grow up",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1013",
+      "hanzi": "我在加拿大长大的。",
+      "pinyin": "Wǒ zài Jiānádà zhǎngdà de.",
+      "english": "I grew up in Canada.",
+      "type": "sentence",
+      "concept": "introductions",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1014",
+      "hanzi": "出生",
+      "pinyin": "chūshēng",
+      "english": "to be born",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1015",
+      "hanzi": "我在加拿大出生的。",
+      "pinyin": "Wǒ zài Jiānádà chūshēng de.",
+      "english": "I was born in Canada.",
+      "type": "sentence",
+      "concept": "introductions",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1016",
+      "hanzi": "洗手间在哪里？",
+      "pinyin": "Xǐshǒujiān zài nǎlǐ?",
+      "english": "Where is the restroom?",
+      "type": "sentence",
+      "concept": "places",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1017",
+      "hanzi": "洗手间怎么走？",
+      "pinyin": "Xǐshǒujiān zěnme zǒu?",
+      "english": "How do I get to the restroom?",
+      "type": "sentence",
+      "concept": "directions",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1018",
+      "hanzi": "两个面包",
+      "pinyin": "liǎng gè miànbāo",
+      "english": "two loaves of bread",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1019",
+      "hanzi": "旅行",
+      "pinyin": "lǚxíng",
+      "english": "travel / trip / journey",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1020",
+      "hanzi": "愉快",
+      "pinyin": "yúkuài",
+      "english": "happy / pleasant / enjoyable",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1021",
+      "hanzi": "旅行愉快",
+      "pinyin": "Lǚxíng yúkuài!",
+      "english": "Have a nice trip!",
+      "type": "sentence",
+      "concept": "greetings",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1022",
+      "hanzi": "你想吃包子还是饺子？",
+      "pinyin": "Nǐ xiǎng chī bāozi háishi jiǎozi?",
+      "english": "Would you like to eat steamed stuffed buns or dumplings?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1023",
+      "hanzi": "面条儿",
+      "pinyin": "miàntiáor",
+      "english": "noodles",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1024",
+      "hanzi": "批萨",
+      "pinyin": "pīsà",
+      "english": "pizza (alternate writing of 披萨)",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1025",
+      "hanzi": "蛋糕",
+      "pinyin": "dàngāo",
+      "english": "cake",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1026",
+      "hanzi": "你吃什么？",
+      "pinyin": "Nǐ chī shénme?",
+      "english": "What are you eating? / What would you like to eat?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1027",
+      "hanzi": "我想吃饺子。",
+      "pinyin": "Wǒ xiǎng chī jiǎozi.",
+      "english": "I want to eat dumplings.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1028",
+      "hanzi": "我不想喝茶。",
+      "pinyin": "Wǒ bù xiǎng hē chá.",
+      "english": "I don’t want to drink tea.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1029",
+      "hanzi": "我想要……",
+      "pinyin": "Wǒ xiǎng yào ...",
+      "english": "I would like / I want ...",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1030",
+      "hanzi": "我想买……",
+      "pinyin": "Wǒ xiǎng mǎi ...",
+      "english": "I want to buy ...",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-09"
     }
   ],
   "types": [
@@ -10809,6 +11218,12 @@
     }
   ],
   "dates": [
+    {
+      "id": "2026-10-09",
+      "label": "Oct 9, 2026",
+      "count": 41,
+      "description": "Travel, hometown, weather, food choices"
+    },
     {
       "id": "2026-10-06",
       "label": "Oct 6, 2026",
