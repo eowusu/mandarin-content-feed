@@ -1,8 +1,8 @@
 {
   "feed_version": "2.0.0",
   "version": "2.0.0",
-  "total_cards": 1030,
-  "last_updated": "2026-10-11",
+  "total_cards": 1068,
+  "last_updated": "2026-10-13",
   "concepts": [
     {
       "id": "all",
@@ -1324,8 +1324,8 @@
       "english": "procedure, rule, engineering"
     },
     "空": {
-      "pinyin": "kòng",
-      "english": "free time / leisure / spare time"
+      "pinyin": "kōng / kòng",
+      "english": "empty / sky / air (kōng); free time / leisure (kòng)"
     },
     "站": {
       "pinyin": "zhàn",
@@ -1922,6 +1922,46 @@
     "批": {
       "pinyin": "pī",
       "english": "batch / to criticize / (phonetic in 批萨)"
+    },
+    "潮": {
+      "pinyin": "cháo",
+      "english": "tide / damp / moist / trendy"
+    },
+    "湿": {
+      "pinyin": "shī",
+      "english": "wet / damp / humid"
+    },
+    "红": {
+      "pinyin": "hóng",
+      "english": "red / popular"
+    },
+    "绿": {
+      "pinyin": "lǜ",
+      "english": "green"
+    },
+    "广": {
+      "pinyin": "guǎng",
+      "english": "wide / broad / vast (as in 广东)"
+    },
+    "刷": {
+      "pinyin": "shuā",
+      "english": "to brush / to swipe (a card)"
+    },
+    "卡": {
+      "pinyin": "kǎ",
+      "english": "card (credit card, ID card)"
+    },
+    "付": {
+      "pinyin": "fù",
+      "english": "to pay / to hand over"
+    },
+    "寿": {
+      "pinyin": "shòu",
+      "english": "longevity / lifespan (as in 寿司 sushi)"
+    },
+    "堡": {
+      "pinyin": "bǎo",
+      "english": "fort / castle / burger (as in 汉堡)"
     }
   },
   "cards": [
@@ -11197,6 +11237,348 @@
       "type": "word",
       "concept": "phrases",
       "date_added": "2026-10-09"
+    },
+    {
+      "id": "card_1031",
+      "hanzi": "冬天你的老家会下雪吗？",
+      "pinyin": "Dōngtiān nǐ de lǎojiā huì xiàxuě ma?",
+      "english": "Does it snow in your hometown in winter?",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1032",
+      "hanzi": "下雪",
+      "pinyin": "xiàxuě",
+      "english": "to snow",
+      "type": "word",
+      "concept": "weather",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1033",
+      "hanzi": "太……了",
+      "pinyin": "tài ... le",
+      "english": "too ... / extremely",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1034",
+      "hanzi": "不太……",
+      "pinyin": "bú tài ...",
+      "english": "not very ... / not too ...",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1035",
+      "hanzi": "你那里天气怎么样？",
+      "pinyin": "Nǐ nàlǐ tiānqì zěnmeyàng?",
+      "english": "What’s the weather like where you live?",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1036",
+      "hanzi": "秋天和冬天在广东是最舒服的。",
+      "pinyin": "Qiūtiān hé dōngtiān zài Guǎngdōng shì zuì shūfu de.",
+      "english": "Autumn and winter are the most comfortable seasons in Guangdong.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1037",
+      "hanzi": "广东",
+      "pinyin": "Guǎngdōng",
+      "english": "Guangdong (province in southern China)",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1038",
+      "hanzi": "春天很多雨，很潮湿。",
+      "pinyin": "Chūntiān hěn duō yǔ, hěn cháoshī.",
+      "english": "It rains a lot in spring, and it’s very humid.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1039",
+      "hanzi": "潮湿",
+      "pinyin": "cháoshī",
+      "english": "humid / damp / moist",
+      "type": "word",
+      "concept": "weather",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1040",
+      "hanzi": "夏天这里空气不好。",
+      "pinyin": "Xiàtiān zhèlǐ kōngqì bù hǎo.",
+      "english": "The air quality here is poor in summer.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1041",
+      "hanzi": "空气",
+      "pinyin": "kōngqì",
+      "english": "air / air quality / atmosphere",
+      "type": "word",
+      "concept": "weather",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1042",
+      "hanzi": "不太下雨。",
+      "pinyin": "Bú tài xiàyǔ.",
+      "english": "It doesn’t rain much.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1043",
+      "hanzi": "今早",
+      "pinyin": "jīnzǎo",
+      "english": "this morning",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1044",
+      "hanzi": "他在看电视。",
+      "pinyin": "Tā zài kàn diànshì.",
+      "english": "He is watching TV.",
+      "type": "sentence",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1045",
+      "hanzi": "金",
+      "pinyin": "jīn",
+      "english": "gold / metal",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1046",
+      "hanzi": "现金",
+      "pinyin": "xiànjīn",
+      "english": "cash",
+      "type": "word",
+      "concept": "numbers",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1047",
+      "hanzi": "红",
+      "pinyin": "hóng",
+      "english": "red",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1048",
+      "hanzi": "红茶",
+      "pinyin": "hóngchá",
+      "english": "black tea",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1049",
+      "hanzi": "绿",
+      "pinyin": "lǜ",
+      "english": "green",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1050",
+      "hanzi": "绿茶",
+      "pinyin": "lǜchá",
+      "english": "green tea",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1051",
+      "hanzi": "花茶",
+      "pinyin": "huāchá",
+      "english": "scented tea / flower tea",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1052",
+      "hanzi": "前边还是后边？",
+      "pinyin": "Qiánbian háishi hòubian?",
+      "english": "In front or behind?",
+      "type": "sentence",
+      "concept": "directions",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1053",
+      "hanzi": "这个好还是那个好？",
+      "pinyin": "Zhège hǎo háishi nàge hǎo?",
+      "english": "Which is better, this one or that one?",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1054",
+      "hanzi": "他很有钱。",
+      "pinyin": "Tā hěn yǒuqián.",
+      "english": "He is very rich.",
+      "type": "sentence",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1055",
+      "hanzi": "有钱",
+      "pinyin": "yǒuqián",
+      "english": "rich / wealthy",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1056",
+      "hanzi": "有名",
+      "pinyin": "yǒumíng",
+      "english": "famous / well-known",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1057",
+      "hanzi": "还是",
+      "pinyin": "háishi",
+      "english": "or (in alternative questions)",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1058",
+      "hanzi": "您刷卡还是付现金？",
+      "pinyin": "Nín shuākǎ háishi fù xiànjīn?",
+      "english": "Will you pay by card or cash?",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1059",
+      "hanzi": "刷卡",
+      "pinyin": "shuākǎ",
+      "english": "to pay by card / to swipe a card",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1060",
+      "hanzi": "卡",
+      "pinyin": "kǎ",
+      "english": "card (credit card / smart card)",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1061",
+      "hanzi": "付现金",
+      "pinyin": "fù xiànjīn",
+      "english": "to pay cash",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1062",
+      "hanzi": "付",
+      "pinyin": "fù",
+      "english": "to pay",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1063",
+      "hanzi": "你喝红茶、绿茶还是花茶？",
+      "pinyin": "Nǐ hē hóngchá, lǜchá háishi huāchá?",
+      "english": "Do you drink black tea, green tea, or flower tea?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1064",
+      "hanzi": "你想吃饺子还是批萨？",
+      "pinyin": "Nǐ xiǎng chī jiǎozi háishi pīsà?",
+      "english": "Would you like to eat dumplings or pizza?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1065",
+      "hanzi": "寿司",
+      "pinyin": "shòusī",
+      "english": "sushi",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1066",
+      "hanzi": "汉堡",
+      "pinyin": "hànbǎo",
+      "english": "hamburger / burger",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1067",
+      "hanzi": "他们都很有名。",
+      "pinyin": "Tāmen dōu hěn yǒumíng.",
+      "english": "They are all very famous.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1068",
+      "hanzi": "学校和医院都在马路南边。",
+      "pinyin": "Xuéxiào hé yīyuàn dōu zài mǎlù nánbian.",
+      "english": "The school and the hospital are both on the south side of the street.",
+      "type": "sentence",
+      "concept": "directions",
+      "date_added": "2026-10-11"
     }
   ],
   "types": [
@@ -11218,6 +11600,12 @@
     }
   ],
   "dates": [
+    {
+      "id": "2026-10-11",
+      "label": "Oct 11, 2026",
+      "count": 38,
+      "description": "Weather, tea, payment, choices, locations"
+    },
     {
       "id": "2026-10-09",
       "label": "Oct 9, 2026",
