@@ -361,7 +361,7 @@
     },
     "分": {
       "pinyin": "fēn",
-      "english": "minute"
+      "english": "minute / cent / to divide / to separate (as in 分开)"
     },
     "初": {
       "pinyin": "chū",
@@ -1617,7 +1617,7 @@
     },
     "过": {
       "pinyin": "guò",
-      "english": "pass / have experienced"
+      "english": "to pass / to spend (time) / to celebrate (a holiday) / experienced"
     },
     "迎": {
       "pinyin": "yíng",
@@ -1962,6 +1962,50 @@
     "堡": {
       "pinyin": "bǎo",
       "english": "fort / castle / burger (as in 汉堡)"
+    },
+    "感": {
+      "pinyin": "gǎn",
+      "english": "to feel / emotion / gratitude (as in 感恩节, 感冒)"
+    },
+    "恩": {
+      "pinyin": "ēn",
+      "english": "grace / favor / kindness (as in 感恩节 Thanksgiving)"
+    },
+    "忘": {
+      "pinyin": "wàng",
+      "english": "to forget / to overlook (as in 忘记)"
+    },
+    "另": {
+      "pinyin": "lìng",
+      "english": "other / another / separate (as in 另外)"
+    },
+    "近": {
+      "pinyin": "jìn",
+      "english": "near / close / recent (as in 最近)"
+    },
+    "园": {
+      "pinyin": "yuán",
+      "english": "garden / park / orchard (as in 公园 park)"
+    },
+    "健": {
+      "pinyin": "jiàn",
+      "english": "healthy / strong / to strengthen (as in 健身房 gym)"
+    },
+    "身": {
+      "pinyin": "shēn",
+      "english": "body / torso / oneself (as in 身体, 健身房)"
+    },
+    "咱": {
+      "pinyin": "zán",
+      "english": "we / us (inclusive, as in 咱们)"
+    },
+    "特": {
+      "pinyin": "tè",
+      "english": "special / particular / unusual (as in 特价, 特别)"
+    },
+    "价": {
+      "pinyin": "jià",
+      "english": "price / value (as in 特价, 价格)"
     }
   },
   "cards": [
@@ -11579,6 +11623,501 @@
       "type": "sentence",
       "concept": "directions",
       "date_added": "2026-10-11"
+    },
+    {
+      "id": "card_1069",
+      "hanzi": "你什么时候回来的？",
+      "pinyin": "Nǐ shénme shíhòu huílái de?",
+      "english": "When did you come back?",
+      "type": "sentence",
+      "concept": "time",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1070",
+      "hanzi": "回来",
+      "pinyin": "huílái",
+      "english": "to come back / to return",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1071",
+      "hanzi": "我星期一晚上回来的。",
+      "pinyin": "Wǒ xīngqīyī wǎnshang huílái de.",
+      "english": "I came back on Monday night.",
+      "type": "sentence",
+      "concept": "time",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1072",
+      "hanzi": "加拿大的感恩节是十月第二个星期一。",
+      "pinyin": "Jiānádà de Gǎn'ēnjié shì shíyuè dì-èr gè xīngqīyī.",
+      "english": "Canadian Thanksgiving is on the second Monday in October.",
+      "type": "sentence",
+      "concept": "time",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1073",
+      "hanzi": "感恩节",
+      "pinyin": "Gǎn'ēnjié",
+      "english": "Thanksgiving",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1074",
+      "hanzi": "美国的感恩节是下个月第四个星期四。",
+      "pinyin": "Měiguó de Gǎn'ēnjié shì xià gè yuè dì-sì gè xīngqīsì.",
+      "english": "American Thanksgiving is on the fourth Thursday of next month.",
+      "type": "sentence",
+      "concept": "time",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1075",
+      "hanzi": "第四个",
+      "pinyin": "dì-sì gè",
+      "english": "the fourth",
+      "type": "number",
+      "concept": "numbers",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1076",
+      "hanzi": "很多年以前",
+      "pinyin": "hěnduō nián yǐqián",
+      "english": "many years ago",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1077",
+      "hanzi": "以前",
+      "pinyin": "yǐqián",
+      "english": "before / in the past / ago",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1078",
+      "hanzi": "我知道美国和加拿大的感恩节是不同的时间。",
+      "pinyin": "Wǒ zhīdào Měiguó hé Jiānádà de Gǎn'ēnjié shì bùtóng de shíjiān.",
+      "english": "I knew that Thanksgiving is celebrated at different times in the US and Canada.",
+      "type": "sentence",
+      "concept": "time",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1079",
+      "hanzi": "不同",
+      "pinyin": "bùtóng",
+      "english": "different / not the same",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1080",
+      "hanzi": "但是我忘了。",
+      "pinyin": "Dànshì wǒ wàng le.",
+      "english": "But I forgot.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1081",
+      "hanzi": "忘",
+      "pinyin": "wàng",
+      "english": "to forget",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1082",
+      "hanzi": "忘记",
+      "pinyin": "wàngjì",
+      "english": "to forget",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1083",
+      "hanzi": "我记得",
+      "pinyin": "Wǒ jìde",
+      "english": "I remember",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1084",
+      "hanzi": "记得",
+      "pinyin": "jìde",
+      "english": "to remember",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1085",
+      "hanzi": "我另外的一个加拿大学生说她过感恩节。",
+      "pinyin": "Wǒ lìngwài de yí gè Jiānádà xuésheng shuō tā guò Gǎn'ēnjié.",
+      "english": "Another one of my Canadian students said she celebrates Thanksgiving.",
+      "type": "sentence",
+      "concept": "introductions",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1086",
+      "hanzi": "另外",
+      "pinyin": "lìngwài",
+      "english": "another / other / in addition",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1087",
+      "hanzi": "过感恩节",
+      "pinyin": "guò Gǎn'ēnjié",
+      "english": "to celebrate Thanksgiving",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1088",
+      "hanzi": "每年",
+      "pinyin": "měinián",
+      "english": "every year",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1089",
+      "hanzi": "每年我过两个感恩节。",
+      "pinyin": "Měinián wǒ guò liǎng gè Gǎn'ēnjié.",
+      "english": "I celebrate Thanksgiving twice a year.",
+      "type": "sentence",
+      "concept": "time",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1090",
+      "hanzi": "我爸爸妈妈分开了。",
+      "pinyin": "Wǒ bàba māma fēnkāi le.",
+      "english": "My parents separated.",
+      "type": "sentence",
+      "concept": "introductions",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1091",
+      "hanzi": "分开",
+      "pinyin": "fēnkāi",
+      "english": "to separate / to part",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1092",
+      "hanzi": "美国东部",
+      "pinyin": "Měiguó dōngbù",
+      "english": "the eastern United States",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1093",
+      "hanzi": "东部",
+      "pinyin": "dōngbù",
+      "english": "eastern part / the east",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1094",
+      "hanzi": "苹果和西瓜我都喜欢。",
+      "pinyin": "Píngguǒ hé xīguā wǒ dōu xǐhuan.",
+      "english": "I like both apples and watermelons.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1095",
+      "hanzi": "常常",
+      "pinyin": "chángcháng",
+      "english": "often / frequently",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1096",
+      "hanzi": "经常",
+      "pinyin": "jīngcháng",
+      "english": "often / regularly",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1097",
+      "hanzi": "因为",
+      "pinyin": "yīnwèi",
+      "english": "because",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1098",
+      "hanzi": "近",
+      "pinyin": "jìn",
+      "english": "near / close",
+      "type": "word",
+      "concept": "directions",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1099",
+      "hanzi": "那你想吃什么？",
+      "pinyin": "Nà nǐ xiǎng chī shénme?",
+      "english": "So, what would you like to eat?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1100",
+      "hanzi": "公园",
+      "pinyin": "gōngyuán",
+      "english": "park",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1101",
+      "hanzi": "健身房",
+      "pinyin": "jiànshēnfáng",
+      "english": "gym",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1102",
+      "hanzi": "我太……了，都想吃。",
+      "pinyin": "Wǒ tài ... le, dōu xiǎng chī.",
+      "english": "I'm so ..., I want to eat both / all of them.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1103",
+      "hanzi": "我现在不……，都不想吃。",
+      "pinyin": "Wǒ xiànzài bù ..., dōu bù xiǎng chī.",
+      "english": "I'm not ... right now, I don't want to eat either / any of them.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1104",
+      "hanzi": "咱们",
+      "pinyin": "zánmen",
+      "english": "we / us (inclusive)",
+      "type": "word",
+      "concept": "introductions",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1105",
+      "hanzi": "我都不想吃，咱们吃……吧。",
+      "pinyin": "Wǒ dōu bù xiǎng chī, zánmen chī ... ba.",
+      "english": "I don't want to eat either, let's eat ... instead.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1106",
+      "hanzi": "吃比萨，怎么样？",
+      "pinyin": "Chī bǐsà, zěnmeyàng?",
+      "english": "How about eating pizza? / How about pizza?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1107",
+      "hanzi": "比萨",
+      "pinyin": "bǐsà",
+      "english": "pizza",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1108",
+      "hanzi": "最近",
+      "pinyin": "zuìjìn",
+      "english": "recently / lately",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1109",
+      "hanzi": "每",
+      "pinyin": "měi",
+      "english": "every / each",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1110",
+      "hanzi": "每个人",
+      "pinyin": "měi gè rén",
+      "english": "everyone / every person",
+      "type": "word",
+      "concept": "introductions",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1111",
+      "hanzi": "每个星期",
+      "pinyin": "měi gè xīngqī",
+      "english": "every week",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1112",
+      "hanzi": "每个学生",
+      "pinyin": "měi gè xuésheng",
+      "english": "every student",
+      "type": "word",
+      "concept": "introductions",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1113",
+      "hanzi": "我最近每天都吃……",
+      "pinyin": "Wǒ zuìjìn měitiān dōu chī ...",
+      "english": "Recently I eat ... every day.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1114",
+      "hanzi": "你不想吃包子，也不想吃饺子，那你想吃什么？",
+      "pinyin": "Nǐ bù xiǎng chī bāozi, yě bù xiǎng chī jiǎozi, nà nǐ xiǎng chī shénme?",
+      "english": "You don't want to eat steamed buns, nor do you want to eat dumplings, so what do you want to eat?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1115",
+      "hanzi": "我最近每天都吃饺子。",
+      "pinyin": "Wǒ zuìjìn měitiān dōu chī jiǎozi.",
+      "english": "Recently I eat dumplings every day.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1116",
+      "hanzi": "咱们今天吃面条儿，怎么样？",
+      "pinyin": "Zánmen jīntiān chī miàntiáor, zěnmeyàng?",
+      "english": "Let's eat noodles today, how about it?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1117",
+      "hanzi": "主意",
+      "pinyin": "zhǔyi",
+      "english": "idea / plan",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1118",
+      "hanzi": "好主意",
+      "pinyin": "hǎo zhǔyi",
+      "english": "good idea",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1119",
+      "hanzi": "他的主意",
+      "pinyin": "tā de zhǔyi",
+      "english": "his idea",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1120",
+      "hanzi": "这个主意",
+      "pinyin": "zhège zhǔyi",
+      "english": "this idea",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1121",
+      "hanzi": "特价",
+      "pinyin": "tèjià",
+      "english": "special offer / special price / on sale",
+      "type": "word",
+      "concept": "numbers",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1122",
+      "hanzi": "今天……特价。",
+      "pinyin": "Jīntiān ... tèjià.",
+      "english": "Today ... is on special offer.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1123",
+      "hanzi": "那咱们买……吧。",
+      "pinyin": "Nà zánmen mǎi ... ba.",
+      "english": "Then let's buy ...",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-13"
     }
   ],
   "types": [
@@ -11600,6 +12139,12 @@
     }
   ],
   "dates": [
+    {
+      "id": "2026-10-13",
+      "label": "Oct 13, 2026",
+      "count": 55,
+      "description": "Thanksgiving, frequency, suggestions, places, special offers"
+    },
     {
       "id": "2026-10-11",
       "label": "Oct 11, 2026",
