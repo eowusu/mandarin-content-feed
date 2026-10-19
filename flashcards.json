@@ -373,7 +373,7 @@
     },
     "别": {
       "pinyin": "bié",
-      "english": "other / another / don't"
+      "english": "other / another / special / don't (as in 特别)"
     },
     "到": {
       "pinyin": "dào",
@@ -2006,6 +2006,30 @@
     "价": {
       "pinyin": "jià",
       "english": "price / value (as in 特价, 价格)"
+    },
+    "格": {
+      "pinyin": "gé",
+      "english": "standard / pattern / grid (as in 价格 price)"
+    },
+    "唐": {
+      "pinyin": "táng",
+      "english": "Tang dynasty / Chinese (as in 唐人街 Chinatown)"
+    },
+    "街": {
+      "pinyin": "jiē",
+      "english": "street / avenue (as in 唐人街 Chinatown)"
+    },
+    "或": {
+      "pinyin": "huò",
+      "english": "or / perhaps / maybe (as in 或者)"
+    },
+    "王": {
+      "pinyin": "wáng",
+      "english": "king / monarch / common surname Wang"
+    },
+    "正": {
+      "pinyin": "zhèng",
+      "english": "just / right now / straight / upright (as in 正在)"
     }
   },
   "cards": [
@@ -12118,6 +12142,276 @@
       "type": "sentence",
       "concept": "phrases",
       "date_added": "2026-10-13"
+    },
+    {
+      "id": "card_1124",
+      "hanzi": "我今天很忙。",
+      "pinyin": "Wǒ jīntiān hěn máng.",
+      "english": "I’m very busy today.",
+      "type": "sentence",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1125",
+      "hanzi": "我工作太忙了。",
+      "pinyin": "Wǒ gōngzuò tài máng le.",
+      "english": "I’m too busy with work.",
+      "type": "sentence",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1126",
+      "hanzi": "今天晴天。",
+      "pinyin": "Jīntiān qíngtiān.",
+      "english": "It’s sunny today.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1127",
+      "hanzi": "你那里今天天气怎么样？",
+      "pinyin": "Nǐ nàlǐ jīntiān tiānqì zěnmeyàng?",
+      "english": "What’s the weather like where you are today?",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1128",
+      "hanzi": "也是晴天。",
+      "pinyin": "Yě shì qíngtiān.",
+      "english": "It’s sunny here too.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1129",
+      "hanzi": "价格",
+      "pinyin": "jiàgé",
+      "english": "price",
+      "type": "word",
+      "concept": "numbers",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1130",
+      "hanzi": "价钱",
+      "pinyin": "jiàqian",
+      "english": "price",
+      "type": "word",
+      "concept": "numbers",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1131",
+      "hanzi": "我特别喜欢晴天。",
+      "pinyin": "Wǒ tèbié xǐhuan qíngtiān.",
+      "english": "I especially like sunny days.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1132",
+      "hanzi": "特别",
+      "pinyin": "tèbié",
+      "english": "especially / special / particular",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1133",
+      "hanzi": "今天天气特别好吗？",
+      "pinyin": "Jīntiān tiānqì tèbié hǎo ma?",
+      "english": "Is the weather especially nice today?",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1134",
+      "hanzi": "在唐人街中国人特别多。",
+      "pinyin": "Zài Tángrénjiē Zhōngguórén tèbié duō.",
+      "english": "There are a lot of Chinese people in Chinatown.",
+      "type": "sentence",
+      "concept": "places",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1135",
+      "hanzi": "唐人街",
+      "pinyin": "Tángrénjiē",
+      "english": "Chinatown",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1136",
+      "hanzi": "买点儿香蕉吧。",
+      "pinyin": "Mǎi diǎnr xiāngjiāo ba.",
+      "english": "Let’s buy some bananas.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1137",
+      "hanzi": "每天都",
+      "pinyin": "měitiān dōu",
+      "english": "every single day",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1138",
+      "hanzi": "每个人都",
+      "pinyin": "měi gè rén dōu",
+      "english": "every single person / everyone",
+      "type": "word",
+      "concept": "introductions",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1139",
+      "hanzi": "包子或者饺子",
+      "pinyin": "bāozi huòzhě jiǎozi",
+      "english": "steamed buns or dumplings",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1140",
+      "hanzi": "或者",
+      "pinyin": "huòzhě",
+      "english": "or (used in statements)",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1141",
+      "hanzi": "王小天问他女朋友想吃包子还是饺子？",
+      "pinyin": "Wáng Xiǎotiān wèn tā nǚpéngyou xiǎng chī bāozi háishi jiǎozi?",
+      "english": "Wang Xiaotian asked his girlfriend whether she wanted steamed buns or dumplings.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1142",
+      "hanzi": "我还没吃晚饭。",
+      "pinyin": "Wǒ hái méi chī wǎnfàn.",
+      "english": "I haven’t had dinner yet.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1143",
+      "hanzi": "还没",
+      "pinyin": "hái méi",
+      "english": "not yet",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1144",
+      "hanzi": "米饭和鸡肉",
+      "pinyin": "mǐfàn hé jīròu",
+      "english": "rice and chicken",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1145",
+      "hanzi": "米饭",
+      "pinyin": "mǐfàn",
+      "english": "cooked rice",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1146",
+      "hanzi": "鸡肉",
+      "pinyin": "jīròu",
+      "english": "chicken (meat)",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1147",
+      "hanzi": "这个菜今天没有特价。",
+      "pinyin": "Zhège cài jīntiān méiyǒu tèjià.",
+      "english": "This dish isn’t on special today.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1148",
+      "hanzi": "正在跑步",
+      "pinyin": "zhèngzài pǎobù",
+      "english": "is running right now",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1149",
+      "hanzi": "正在",
+      "pinyin": "zhèngzài",
+      "english": "in the process of / right now",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1150",
+      "hanzi": "正跑步呢",
+      "pinyin": "zhèng pǎobù ne",
+      "english": "is running right now",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1151",
+      "hanzi": "在跑步呢",
+      "pinyin": "zài pǎobù ne",
+      "english": "is running right now",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1152",
+      "hanzi": "跑步呢",
+      "pinyin": "pǎobù ne",
+      "english": "running (right now)",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1153",
+      "hanzi": "烤鸭",
+      "pinyin": "kǎoyā",
+      "english": "roast duck",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-15"
     }
   ],
   "types": [
@@ -12139,6 +12433,12 @@
     }
   ],
   "dates": [
+    {
+      "id": "2026-10-15",
+      "label": "Oct 15, 2026",
+      "count": 30,
+      "description": "Weather, prices, Chinatown, ongoing actions, food"
+    },
     {
       "id": "2026-10-13",
       "label": "Oct 13, 2026",
