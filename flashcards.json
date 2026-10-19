@@ -144,8 +144,8 @@
       "english": "possessive particle / him / her / it"
     },
     "乐": {
-      "pinyin": "lè",
-      "english": "happy / laugh"
+      "pinyin": "lè / yuè",
+      "english": "happy / joyful (lè); music (yuè, as in 音乐会)"
     },
     "乒": {
       "pinyin": "pīng",
@@ -272,8 +272,8 @@
       "english": "you"
     },
     "便": {
-      "pinyin": "biàn",
-      "english": "convenient / handy (as in 方便) / ordinary"
+      "pinyin": "biàn / pián",
+      "english": "convenient / handy (biàn, as in 方便); cheap (pián, as in 便宜)"
     },
     "俄": {
       "pinyin": "é",
@@ -2030,6 +2030,54 @@
     "正": {
       "pinyin": "zhèng",
       "english": "just / right now / straight / upright (as in 正在)"
+    },
+    "音": {
+      "pinyin": "yīn",
+      "english": "sound / tone / music (as in 音乐会 concert)"
+    },
+    "散": {
+      "pinyin": "sàn",
+      "english": "to stroll / to scatter / to disperse (as in 散步 take a walk)"
+    },
+    "油": {
+      "pinyin": "yóu",
+      "english": "oil / fat / butter (as in 牛油果 avocado)"
+    },
+    "临": {
+      "pinyin": "lín",
+      "english": "to arrive / to be present / to face (as in 欢迎光临)"
+    },
+    "真": {
+      "pinyin": "zhēn",
+      "english": "truly / really / genuine / real"
+    },
+    "宜": {
+      "pinyin": "yí",
+      "english": "suitable / appropriate / cheap (as in 便宜)"
+    },
+    "微": {
+      "pinyin": "wēi",
+      "english": "tiny / micro / subtle (as in 微信 WeChat)"
+    },
+    "信": {
+      "pinyin": "xìn",
+      "english": "letter / message / trust / believe (as in 微信 WeChat)"
+    },
+    "支": {
+      "pinyin": "zhī",
+      "english": "to pay / to support / branch (as in 支付宝 Alipay)"
+    },
+    "宝": {
+      "pinyin": "bǎo",
+      "english": "treasure / precious (as in 支付宝 Alipay)"
+    },
+    "维": {
+      "pinyin": "wéi",
+      "english": "dimension / to maintain / fiber (as in 二维码 QR code)"
+    },
+    "扫": {
+      "pinyin": "sǎo",
+      "english": "to scan / to sweep (as in 扫码 scan a code)"
     }
   },
   "cards": [
@@ -12412,6 +12460,600 @@
       "type": "word",
       "concept": "food",
       "date_added": "2026-10-15"
+    },
+    {
+      "id": "card_1154",
+      "hanzi": "音乐会",
+      "pinyin": "yīnyuèhuì",
+      "english": "concert",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1155",
+      "hanzi": "我们去了公园里的音乐会。",
+      "pinyin": "Wǒmen qù le gōngyuán lǐ de yīnyuèhuì.",
+      "english": "We went to a concert in the park.",
+      "type": "sentence",
+      "concept": "places",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1156",
+      "hanzi": "我出去散步了。",
+      "pinyin": "Wǒ chūqù sànbù le.",
+      "english": "I went out for a walk.",
+      "type": "sentence",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1157",
+      "hanzi": "出去",
+      "pinyin": "chūqù",
+      "english": "to go out",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1158",
+      "hanzi": "散步",
+      "pinyin": "sànbù",
+      "english": "to take a walk / go for a walk",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1159",
+      "hanzi": "今天晴天，天气特别好。",
+      "pinyin": "Jīntiān qíngtiān, tiānqì tèbié hǎo.",
+      "english": "It’s sunny today, and the weather is especially nice.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1160",
+      "hanzi": "今天天特别晴。",
+      "pinyin": "Jīntiān tiān tèbié qíng.",
+      "english": "The sky is especially clear today.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1161",
+      "hanzi": "烤肉",
+      "pinyin": "kǎoròu",
+      "english": "barbecue / grilled meat",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1162",
+      "hanzi": "烤鸡",
+      "pinyin": "kǎojī",
+      "english": "roast chicken",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1163",
+      "hanzi": "火",
+      "pinyin": "huǒ",
+      "english": "fire",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1164",
+      "hanzi": "巧克力蛋糕",
+      "pinyin": "qiǎokèlì dàngāo",
+      "english": "chocolate cake",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1165",
+      "hanzi": "杯子",
+      "pinyin": "bēizi",
+      "english": "cup / glass",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1166",
+      "hanzi": "这儿有几种茶？",
+      "pinyin": "Zhèr yǒu jǐ zhǒng chá?",
+      "english": "How many kinds of tea are there here?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1167",
+      "hanzi": "几种",
+      "pinyin": "jǐ zhǒng",
+      "english": "how many kinds / several kinds",
+      "type": "word",
+      "concept": "numbers",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1168",
+      "hanzi": "牛油果",
+      "pinyin": "niúyóuguǒ",
+      "english": "avocado",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1169",
+      "hanzi": "牛",
+      "pinyin": "niú",
+      "english": "cow / ox / cattle",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1170",
+      "hanzi": "刷牙",
+      "pinyin": "shuāyá",
+      "english": "to brush one's teeth",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1171",
+      "hanzi": "牙刷",
+      "pinyin": "yáshuā",
+      "english": "toothbrush",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1172",
+      "hanzi": "买东西",
+      "pinyin": "mǎi dōngxi",
+      "english": "to go shopping / to buy things",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1173",
+      "hanzi": "你喜欢付现金还是刷卡？",
+      "pinyin": "Nǐ xǐhuan fù xiànjīn háishi shuākǎ?",
+      "english": "Do you prefer to pay in cash or by card?",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1174",
+      "hanzi": "请问，您想喝点儿什么？",
+      "pinyin": "Qǐngwèn, nín xiǎng hē diǎnr shénme?",
+      "english": "What would you like to drink, please?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1175",
+      "hanzi": "光临",
+      "pinyin": "guānglín",
+      "english": "presence (of a guest) / to visit (honorific)",
+      "type": "word",
+      "concept": "greetings",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1176",
+      "hanzi": "欢迎光临！",
+      "pinyin": "Huānyíng guānglín!",
+      "english": "Welcome! (to a store or restaurant)",
+      "type": "sentence",
+      "concept": "greetings",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1177",
+      "hanzi": "欢迎光临！您吃什么？",
+      "pinyin": "Huānyíng guānglín! Nín chī shénme?",
+      "english": "Welcome! What would you like to eat?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1178",
+      "hanzi": "我要……",
+      "pinyin": "Wǒ yào ...",
+      "english": "I want ... / I'll have ...",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1179",
+      "hanzi": "一杯",
+      "pinyin": "yì bēi",
+      "english": "one cup / a cup of",
+      "type": "word",
+      "concept": "numbers",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1180",
+      "hanzi": "一杯绿茶",
+      "pinyin": "yì bēi lǜchá",
+      "english": "a cup of green tea",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1181",
+      "hanzi": "一杯红茶",
+      "pinyin": "yì bēi hóngchá",
+      "english": "a cup of black tea",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1182",
+      "hanzi": "喝",
+      "pinyin": "hē",
+      "english": "to drink",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1183",
+      "hanzi": "喝水",
+      "pinyin": "hē shuǐ",
+      "english": "to drink water",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1184",
+      "hanzi": "喝茶",
+      "pinyin": "hē chá",
+      "english": "to drink tea",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1185",
+      "hanzi": "你想喝……还是……？",
+      "pinyin": "Nǐ xiǎng hē ... háishi ...?",
+      "english": "Would you like to drink ... or ...?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1186",
+      "hanzi": "我想喝……",
+      "pinyin": "Wǒ xiǎng hē ...",
+      "english": "I would like to drink ...",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1187",
+      "hanzi": "点儿",
+      "pinyin": "diǎnr",
+      "english": "a little / a bit / some",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1188",
+      "hanzi": "喝点儿水",
+      "pinyin": "hē diǎnr shuǐ",
+      "english": "drink some water",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1189",
+      "hanzi": "吃点儿比萨",
+      "pinyin": "chī diǎnr bǐsà",
+      "english": "eat some pizza",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1190",
+      "hanzi": "买点儿面包",
+      "pinyin": "mǎi diǎnr miànbāo",
+      "english": "buy some bread",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1191",
+      "hanzi": "欢迎光临！您吃点儿什么？",
+      "pinyin": "Huānyíng guānglín! Nín chī diǎnr shénme?",
+      "english": "Welcome! What would you like to eat?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1192",
+      "hanzi": "您要大杯还是小杯？",
+      "pinyin": "Nín yào dà bēi háishi xiǎo bēi?",
+      "english": "Would you like a large cup or a small cup?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1193",
+      "hanzi": "大房间",
+      "pinyin": "dà fángjiān",
+      "english": "large room",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1194",
+      "hanzi": "小房间",
+      "pinyin": "xiǎo fángjiān",
+      "english": "small room",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1195",
+      "hanzi": "您要大房间还是小房间？",
+      "pinyin": "Nín yào dà fángjiān háishi xiǎo fángjiān?",
+      "english": "Would you like a large room or a small room?",
+      "type": "sentence",
+      "concept": "places",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1196",
+      "hanzi": "一种",
+      "pinyin": "yì zhǒng",
+      "english": "one kind / a type of",
+      "type": "word",
+      "concept": "numbers",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1197",
+      "hanzi": "两种",
+      "pinyin": "liǎng zhǒng",
+      "english": "two kinds",
+      "type": "word",
+      "concept": "numbers",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1198",
+      "hanzi": "这种",
+      "pinyin": "zhè zhǒng",
+      "english": "this kind / this type",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1199",
+      "hanzi": "哪种",
+      "pinyin": "nǎ zhǒng",
+      "english": "which kind / what type",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1200",
+      "hanzi": "你喝哪种茶？",
+      "pinyin": "Nǐ hē nǎ zhǒng chá?",
+      "english": "What kind of tea do you drink?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1201",
+      "hanzi": "我喝这种茶。",
+      "pinyin": "Wǒ hē zhè zhǒng chá.",
+      "english": "I drink this kind of tea.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1202",
+      "hanzi": "真",
+      "pinyin": "zhēn",
+      "english": "truly / really / indeed",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1203",
+      "hanzi": "这个蛋糕真好吃！",
+      "pinyin": "Zhège dàngāo zhēn hǎochī!",
+      "english": "This cake is really delicious!",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1204",
+      "hanzi": "真对不起！",
+      "pinyin": "Zhēn duìbuqǐ!",
+      "english": "I'm truly sorry!",
+      "type": "sentence",
+      "concept": "greetings",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1205",
+      "hanzi": "你男朋友真……！",
+      "pinyin": "Nǐ nánpéngyou zhēn ...!",
+      "english": "Your boyfriend is really ...!",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1206",
+      "hanzi": "你的汉语真……！",
+      "pinyin": "Nǐ de Hànyǔ zhēn ...!",
+      "english": "Your Chinese is really ...!",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1207",
+      "hanzi": "这种……真……！",
+      "pinyin": "Zhè zhǒng ... zhēn ...!",
+      "english": "This kind of ... is really ...!",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1208",
+      "hanzi": "便宜",
+      "pinyin": "piányi",
+      "english": "cheap / inexpensive",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1209",
+      "hanzi": "很便宜",
+      "pinyin": "hěn piányi",
+      "english": "very cheap",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1210",
+      "hanzi": "不便宜",
+      "pinyin": "bù piányi",
+      "english": "not cheap",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1211",
+      "hanzi": "真便宜",
+      "pinyin": "zhēn piányi",
+      "english": "really cheap",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1212",
+      "hanzi": "便宜点儿吧。",
+      "pinyin": "Piányi diǎnr ba.",
+      "english": "Please make it a little cheaper.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1213",
+      "hanzi": "付钱",
+      "pinyin": "fù qián",
+      "english": "to pay money",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1214",
+      "hanzi": "谁付钱？",
+      "pinyin": "Shéi fù qián?",
+      "english": "Who is paying?",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1215",
+      "hanzi": "微信",
+      "pinyin": "Wēixìn",
+      "english": "WeChat",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1216",
+      "hanzi": "支付宝",
+      "pinyin": "Zhīfùbǎo",
+      "english": "Alipay",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1217",
+      "hanzi": "二维码",
+      "pinyin": "èrwéimǎ",
+      "english": "QR code",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1218",
+      "hanzi": "扫码",
+      "pinyin": "sǎomǎ",
+      "english": "to scan a code (QR code)",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1219",
+      "hanzi": "您付……还是……？",
+      "pinyin": "Nín fù ... háishi ...?",
+      "english": "Are you paying with ... or ...?",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-18"
     }
   ],
   "types": [
@@ -12433,6 +13075,12 @@
     }
   ],
   "dates": [
+    {
+      "id": "2026-10-18",
+      "label": "Oct 18, 2026",
+      "count": 66,
+      "description": "Concerts, ordering drinks, types, bargaining, mobile pay"
+    },
     {
       "id": "2026-10-15",
       "label": "Oct 15, 2026",
