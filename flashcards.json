@@ -2078,6 +2078,58 @@
     "扫": {
       "pinyin": "sǎo",
       "english": "to scan / to sweep (as in 扫码 scan a code)"
+    },
+    "贵": {
+      "pinyin": "guì",
+      "english": "expensive / noble / precious"
+    },
+    "酒": {
+      "pinyin": "jiǔ",
+      "english": "wine / alcohol / liquor (as in 红酒, 啤酒)"
+    },
+    "麦": {
+      "pinyin": "mài",
+      "english": "wheat / oats (as in 麦当劳 McDonald's)"
+    },
+    "劳": {
+      "pinyin": "láo",
+      "english": "labor / toil / work (as in 麦当劳 McDonald's)"
+    },
+    "肯": {
+      "pinyin": "kěn",
+      "english": "willing / to consent (as in 肯德基 KFC)"
+    },
+    "德": {
+      "pinyin": "dé",
+      "english": "virtue / morality / Germany (as in 肯德基, 德国)"
+    },
+    "基": {
+      "pinyin": "jī",
+      "english": "base / foundation (as in 肯德基 KFC)"
+    },
+    "薯": {
+      "pinyin": "shǔ",
+      "english": "potato / yam (as in 薯条 French fries)"
+    },
+    "碗": {
+      "pinyin": "wǎn",
+      "english": "bowl / measure word for bowls of food"
+    },
+    "炒": {
+      "pinyin": "chǎo",
+      "english": "to stir-fry / sauté (as in 炒饭 fried rice)"
+    },
+    "始": {
+      "pinyin": "shǐ",
+      "english": "to begin / start (as in 开始)"
+    },
+    "新": {
+      "pinyin": "xīn",
+      "english": "new / fresh (as in 新课)"
+    },
+    "练": {
+      "pinyin": "liàn",
+      "english": "to practice / train / drill (as in 练习)"
     }
   },
   "cards": [
@@ -13054,6 +13106,411 @@
       "type": "sentence",
       "concept": "phrases",
       "date_added": "2026-10-18"
+    },
+    {
+      "id": "card_1220",
+      "hanzi": "这个星期没有上个星期忙。",
+      "pinyin": "Zhège xīngqī méiyǒu shàng gè xīngqī máng.",
+      "english": "This week is not as busy as last week.",
+      "type": "sentence",
+      "concept": "time",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1221",
+      "hanzi": "你想喝点儿什么？",
+      "pinyin": "Nǐ xiǎng hē diǎnr shénme?",
+      "english": "What would you like to drink?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1222",
+      "hanzi": "苹果真便宜。",
+      "pinyin": "Píngguǒ zhēn piányi.",
+      "english": "Apples are really cheap.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1223",
+      "hanzi": "贵",
+      "pinyin": "guì",
+      "english": "expensive",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1224",
+      "hanzi": "你喜欢喝红酒吗？",
+      "pinyin": "Nǐ xǐhuan hē hóngjiǔ ma?",
+      "english": "Do you like drinking red wine?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1225",
+      "hanzi": "红酒",
+      "pinyin": "hóngjiǔ",
+      "english": "red wine",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1226",
+      "hanzi": "有时候喜欢喝红酒。",
+      "pinyin": "Yǒushíhou xǐhuan hē hóngjiǔ.",
+      "english": "Sometimes I like drinking red wine.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1227",
+      "hanzi": "有时候",
+      "pinyin": "yǒushíhou",
+      "english": "sometimes",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1228",
+      "hanzi": "鸡蛋",
+      "pinyin": "jīdàn",
+      "english": "egg",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1229",
+      "hanzi": "你想喝咖啡还是可乐？",
+      "pinyin": "Nǐ xiǎng hē kāfēi háishi kělè?",
+      "english": "Would you like coffee or cola?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1230",
+      "hanzi": "你喜欢喝咖啡还是可乐？",
+      "pinyin": "Nǐ xǐhuan hē kāfēi háishi kělè?",
+      "english": "Do you like drinking coffee or cola?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1231",
+      "hanzi": "麦当劳",
+      "pinyin": "Màidāngláo",
+      "english": "McDonald’s",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1232",
+      "hanzi": "肯德基",
+      "pinyin": "Kěndéjī",
+      "english": "KFC",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1233",
+      "hanzi": "我更喜欢肯德基。",
+      "pinyin": "Wǒ gèng xǐhuan Kěndéjī.",
+      "english": "I prefer KFC.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1234",
+      "hanzi": "汉堡包",
+      "pinyin": "hànbǎobāo",
+      "english": "hamburger",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1235",
+      "hanzi": "鸡肉汉堡",
+      "pinyin": "jīròu hànbǎo",
+      "english": "chicken burger",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1236",
+      "hanzi": "薯条",
+      "pinyin": "shǔtiáo",
+      "english": "French fries",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1237",
+      "hanzi": "我要一份薯条。",
+      "pinyin": "Wǒ yào yí fèn shǔtiáo.",
+      "english": "I’d like an order of French fries.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1238",
+      "hanzi": "一碗面条",
+      "pinyin": "yì wǎn miàntiáo",
+      "english": "a bowl of noodles",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1239",
+      "hanzi": "一碗",
+      "pinyin": "yì wǎn",
+      "english": "a bowl of / one bowl",
+      "type": "word",
+      "concept": "numbers",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1240",
+      "hanzi": "碗",
+      "pinyin": "wǎn",
+      "english": "bowl",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1241",
+      "hanzi": "一份炒饭",
+      "pinyin": "yí fèn chǎofàn",
+      "english": "a serving of fried rice",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1242",
+      "hanzi": "炒饭",
+      "pinyin": "chǎofàn",
+      "english": "fried rice",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1243",
+      "hanzi": "你想要大杯可乐还是小杯可乐？",
+      "pinyin": "Nǐ xiǎng yào dà bēi kělè háishi xiǎo bēi kělè?",
+      "english": "Would you like a large or small cola?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1244",
+      "hanzi": "你可乐要加冰吗？",
+      "pinyin": "Nǐ kělè yào jiā bīng ma?",
+      "english": "Would you like ice in your cola?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1245",
+      "hanzi": "加冰",
+      "pinyin": "jiā bīng",
+      "english": "add ice / with ice",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1246",
+      "hanzi": "冰",
+      "pinyin": "bīng",
+      "english": "ice",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1247",
+      "hanzi": "一共35块。",
+      "pinyin": "Yígòng sānshíwǔ kuài.",
+      "english": "That comes to 35 yuan.",
+      "type": "sentence",
+      "concept": "numbers",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1248",
+      "hanzi": "我用支付宝。",
+      "pinyin": "Wǒ yòng Zhīfùbǎo.",
+      "english": "I’ll pay with Alipay.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1249",
+      "hanzi": "下次你可以自己点餐了。",
+      "pinyin": "Xiàcì nǐ kěyǐ zìjǐ diǎncān le.",
+      "english": "Next time, you can order by yourself.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1250",
+      "hanzi": "下次",
+      "pinyin": "xiàcì",
+      "english": "next time",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1251",
+      "hanzi": "自己",
+      "pinyin": "zìjǐ",
+      "english": "oneself / by oneself",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1252",
+      "hanzi": "点餐",
+      "pinyin": "diǎncān",
+      "english": "to order food",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1253",
+      "hanzi": "下次我们开始一个新课。",
+      "pinyin": "Xiàcì wǒmen kāishǐ yí gè xīn kè.",
+      "english": "Next time, we’ll start a new lesson.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1254",
+      "hanzi": "开始",
+      "pinyin": "kāishǐ",
+      "english": "to start / to begin",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1255",
+      "hanzi": "新课",
+      "pinyin": "xīn kè",
+      "english": "new lesson",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1256",
+      "hanzi": "新",
+      "pinyin": "xīn",
+      "english": "new",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1257",
+      "hanzi": "会话",
+      "pinyin": "huìhuà",
+      "english": "conversation / dialogue",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1258",
+      "hanzi": "欢迎光临！请问，您想喝点儿什么？",
+      "pinyin": "Huānyíng guānglín! Qǐngwèn, nín xiǎng hē diǎnr shénme?",
+      "english": "Welcome! What would you like to drink, please?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1259",
+      "hanzi": "您好！我要一杯红茶。",
+      "pinyin": "Nín hǎo! Wǒ yào yì bēi hóngchá.",
+      "english": "Hello! I’d like a cup of black tea.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1260",
+      "hanzi": "好的。您要大杯还是小杯？",
+      "pinyin": "Hǎo de. Nín yào dà bēi háishi xiǎo bēi?",
+      "english": "Okay. Would you like a large cup or a small cup?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1261",
+      "hanzi": "今天这种蛋糕特价，您要一块儿吗？",
+      "pinyin": "Jīntiān zhè zhǒng dàngāo tèjià, nín yào yí kuàir ma?",
+      "english": "This kind of cake is on special offer today, would you like a piece?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1262",
+      "hanzi": "真便宜，要一块儿。",
+      "pinyin": "Zhēn piányi, yào yí kuàir.",
+      "english": "Really cheap, I’ll take a piece.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1263",
+      "hanzi": "一块儿",
+      "pinyin": "yí kuàir",
+      "english": "one piece / together",
+      "type": "word",
+      "concept": "numbers",
+      "date_added": "2026-10-19"
+    },
+    {
+      "id": "card_1264",
+      "hanzi": "练习",
+      "pinyin": "liànxí",
+      "english": "practice / exercise",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-19"
     }
   ],
   "types": [
@@ -13075,6 +13532,12 @@
     }
   ],
   "dates": [
+    {
+      "id": "2026-10-19",
+      "label": "Oct 19, 2026",
+      "count": 45,
+      "description": "Fast food, wine, portions, self-ordering, lessons"
+    },
     {
       "id": "2026-10-18",
       "label": "Oct 18, 2026",
