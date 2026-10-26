@@ -2,7 +2,7 @@
   "feed_version": "2.0.0",
   "version": "2.0.0",
   "total_cards": 1264,
-  "last_updated": "2026-10-19",
+  "last_updated": "2026-10-21",
   "concepts": [
     {
       "id": "all",
@@ -13114,7 +13114,7 @@
       "english": "This week is not as busy as last week.",
       "type": "sentence",
       "concept": "time",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1221",
@@ -13123,7 +13123,7 @@
       "english": "What would you like to drink?",
       "type": "sentence",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1222",
@@ -13132,7 +13132,7 @@
       "english": "Apples are really cheap.",
       "type": "sentence",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1223",
@@ -13141,7 +13141,7 @@
       "english": "expensive",
       "type": "word",
       "concept": "verbs_adjectives",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1224",
@@ -13150,7 +13150,7 @@
       "english": "Do you like drinking red wine?",
       "type": "sentence",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1225",
@@ -13159,7 +13159,7 @@
       "english": "red wine",
       "type": "word",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1226",
@@ -13168,7 +13168,7 @@
       "english": "Sometimes I like drinking red wine.",
       "type": "sentence",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1227",
@@ -13177,7 +13177,7 @@
       "english": "sometimes",
       "type": "word",
       "concept": "time",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1228",
@@ -13186,7 +13186,7 @@
       "english": "egg",
       "type": "word",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1229",
@@ -13195,7 +13195,7 @@
       "english": "Would you like coffee or cola?",
       "type": "sentence",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1230",
@@ -13204,7 +13204,7 @@
       "english": "Do you like drinking coffee or cola?",
       "type": "sentence",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1231",
@@ -13213,7 +13213,7 @@
       "english": "McDonald’s",
       "type": "word",
       "concept": "places",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1232",
@@ -13222,7 +13222,7 @@
       "english": "KFC",
       "type": "word",
       "concept": "places",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1233",
@@ -13231,7 +13231,7 @@
       "english": "I prefer KFC.",
       "type": "sentence",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1234",
@@ -13240,7 +13240,7 @@
       "english": "hamburger",
       "type": "word",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1235",
@@ -13249,7 +13249,7 @@
       "english": "chicken burger",
       "type": "word",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1236",
@@ -13258,7 +13258,7 @@
       "english": "French fries",
       "type": "word",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1237",
@@ -13267,7 +13267,7 @@
       "english": "I’d like an order of French fries.",
       "type": "sentence",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1238",
@@ -13276,7 +13276,7 @@
       "english": "a bowl of noodles",
       "type": "word",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1239",
@@ -13285,7 +13285,7 @@
       "english": "a bowl of / one bowl",
       "type": "word",
       "concept": "numbers",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1240",
@@ -13294,7 +13294,7 @@
       "english": "bowl",
       "type": "word",
       "concept": "objects",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1241",
@@ -13303,7 +13303,7 @@
       "english": "a serving of fried rice",
       "type": "word",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1242",
@@ -13312,7 +13312,7 @@
       "english": "fried rice",
       "type": "word",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1243",
@@ -13321,7 +13321,7 @@
       "english": "Would you like a large or small cola?",
       "type": "sentence",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1244",
@@ -13330,7 +13330,7 @@
       "english": "Would you like ice in your cola?",
       "type": "sentence",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1245",
@@ -13339,7 +13339,7 @@
       "english": "add ice / with ice",
       "type": "word",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1246",
@@ -13348,7 +13348,7 @@
       "english": "ice",
       "type": "word",
       "concept": "objects",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1247",
@@ -13357,7 +13357,7 @@
       "english": "That comes to 35 yuan.",
       "type": "sentence",
       "concept": "numbers",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1248",
@@ -13366,7 +13366,7 @@
       "english": "I’ll pay with Alipay.",
       "type": "sentence",
       "concept": "phrases",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1249",
@@ -13375,7 +13375,7 @@
       "english": "Next time, you can order by yourself.",
       "type": "sentence",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1250",
@@ -13384,7 +13384,7 @@
       "english": "next time",
       "type": "word",
       "concept": "time",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1251",
@@ -13393,7 +13393,7 @@
       "english": "oneself / by oneself",
       "type": "word",
       "concept": "phrases",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1252",
@@ -13402,7 +13402,7 @@
       "english": "to order food",
       "type": "word",
       "concept": "verbs_adjectives",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1253",
@@ -13411,7 +13411,7 @@
       "english": "Next time, we’ll start a new lesson.",
       "type": "sentence",
       "concept": "phrases",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1254",
@@ -13420,7 +13420,7 @@
       "english": "to start / to begin",
       "type": "word",
       "concept": "verbs_adjectives",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1255",
@@ -13429,7 +13429,7 @@
       "english": "new lesson",
       "type": "word",
       "concept": "objects",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1256",
@@ -13438,7 +13438,7 @@
       "english": "new",
       "type": "word",
       "concept": "verbs_adjectives",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1257",
@@ -13447,7 +13447,7 @@
       "english": "conversation / dialogue",
       "type": "word",
       "concept": "objects",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1258",
@@ -13456,7 +13456,7 @@
       "english": "Welcome! What would you like to drink, please?",
       "type": "sentence",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1259",
@@ -13465,7 +13465,7 @@
       "english": "Hello! I’d like a cup of black tea.",
       "type": "sentence",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1260",
@@ -13474,7 +13474,7 @@
       "english": "Okay. Would you like a large cup or a small cup?",
       "type": "sentence",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1261",
@@ -13483,7 +13483,7 @@
       "english": "This kind of cake is on special offer today, would you like a piece?",
       "type": "sentence",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1262",
@@ -13492,7 +13492,7 @@
       "english": "Really cheap, I’ll take a piece.",
       "type": "sentence",
       "concept": "food",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1263",
@@ -13501,7 +13501,7 @@
       "english": "one piece / together",
       "type": "word",
       "concept": "numbers",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     },
     {
       "id": "card_1264",
@@ -13510,7 +13510,7 @@
       "english": "practice / exercise",
       "type": "word",
       "concept": "verbs_adjectives",
-      "date_added": "2026-10-19"
+      "date_added": "2026-10-21"
     }
   ],
   "types": [
@@ -13533,8 +13533,8 @@
   ],
   "dates": [
     {
-      "id": "2026-10-19",
-      "label": "Oct 19, 2026",
+      "id": "2026-10-21",
+      "label": "Oct 21, 2026",
       "count": 45,
       "description": "Fast food, wine, portions, self-ordering, lessons"
     },
