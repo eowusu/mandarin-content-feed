@@ -25,14 +25,29 @@
       "emoji": "🤝"
     },
     {
+      "id": "family",
+      "name": "Family & Relationships",
+      "emoji": "👨‍👩‍👧‍👦"
+    },
+    {
+      "id": "work_school",
+      "name": "Work & School",
+      "emoji": "💼"
+    },
+    {
       "id": "time",
       "name": "Time & Dates",
       "emoji": "⏰"
     },
     {
       "id": "numbers",
-      "name": "Numbers",
+      "name": "Numbers & Quantities",
       "emoji": "🔢"
+    },
+    {
+      "id": "shopping",
+      "name": "Shopping & Money",
+      "emoji": "🛍️"
     },
     {
       "id": "places",
@@ -53,6 +68,21 @@
       "id": "weather",
       "name": "Weather",
       "emoji": "☀️"
+    },
+    {
+      "id": "sports_hobbies",
+      "name": "Sports & Entertainment",
+      "emoji": "⚽"
+    },
+    {
+      "id": "body_appearance",
+      "name": "Body & Appearance",
+      "emoji": "👀"
+    },
+    {
+      "id": "animals",
+      "name": "Animals & Pets",
+      "emoji": "🐾"
     },
     {
       "id": "verbs_adjectives",
@@ -2473,7 +2503,7 @@
       "pinyin": "lǎoshī",
       "english": "teacher",
       "type": "word",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-08"
     },
     {
@@ -2482,7 +2512,7 @@
       "pinyin": "xuésheng",
       "english": "student",
       "type": "word",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-08"
     },
     {
@@ -2491,7 +2521,7 @@
       "pinyin": "gēge",
       "english": "older brother",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-08"
     },
     {
@@ -2572,7 +2602,7 @@
       "pinyin": "Nǐ de Zhōngwén lǎoshī jiào shénme míngzì?",
       "english": "What's your Chinese teacher's name?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-08"
     },
     {
@@ -3754,7 +3784,7 @@
       "pinyin": "zuò yùndòng",
       "english": "exercise / work out",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "sports_hobbies",
       "date_added": "2026-09-08"
     },
     {
@@ -3808,7 +3838,7 @@
       "pinyin": "piàoliang",
       "english": "pretty",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "body_appearance",
       "date_added": "2026-09-08"
     },
     {
@@ -3817,7 +3847,7 @@
       "pinyin": "shuài",
       "english": "handsome",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "body_appearance",
       "date_added": "2026-09-08"
     },
     {
@@ -3826,7 +3856,7 @@
       "pinyin": "gāo",
       "english": "tall / high",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "body_appearance",
       "date_added": "2026-09-08"
     },
     {
@@ -3835,7 +3865,7 @@
       "pinyin": "hǎokàn",
       "english": "pretty / good-looking",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "body_appearance",
       "date_added": "2026-09-08"
     },
     {
@@ -3934,7 +3964,7 @@
       "pinyin": "niǎo",
       "english": "bird",
       "type": "word",
-      "concept": "objects",
+      "concept": "animals",
       "date_added": "2026-09-08"
     },
     {
@@ -3943,7 +3973,7 @@
       "pinyin": "jiànzi",
       "english": "shuttlecock",
       "type": "word",
-      "concept": "objects",
+      "concept": "sports_hobbies",
       "date_added": "2026-09-08"
     },
     {
@@ -4294,7 +4324,7 @@
       "pinyin": "Zhège bù hǎokàn.",
       "english": "This is not pretty.",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "body_appearance",
       "date_added": "2026-09-08"
     },
     {
@@ -4321,7 +4351,7 @@
       "pinyin": "Nǐ jīntiān zuò yùndòng le ma?",
       "english": "Did you exercise today?",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "sports_hobbies",
       "date_added": "2026-09-08"
     },
     {
@@ -4330,7 +4360,7 @@
       "pinyin": "Wǒ jīntiān méi zuò yùndòng.",
       "english": "I didn't exercise today.",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "sports_hobbies",
       "date_added": "2026-09-08"
     },
     {
@@ -4393,7 +4423,7 @@
       "pinyin": "diànyǐng",
       "english": "movie / film",
       "type": "word",
-      "concept": "objects",
+      "concept": "sports_hobbies",
       "date_added": "2026-09-09"
     },
     {
@@ -4411,7 +4441,7 @@
       "pinyin": "diànshì",
       "english": "TV / television",
       "type": "word",
-      "concept": "objects",
+      "concept": "sports_hobbies",
       "date_added": "2026-09-09"
     },
     {
@@ -4474,7 +4504,7 @@
       "pinyin": "dǎoyóu",
       "english": "tour guide",
       "type": "word",
-      "concept": "phrases",
+      "concept": "work_school",
       "date_added": "2026-09-09"
     },
     {
@@ -4483,7 +4513,7 @@
       "pinyin": "yóukè",
       "english": "tourist",
       "type": "word",
-      "concept": "phrases",
+      "concept": "work_school",
       "date_added": "2026-09-09"
     },
     {
@@ -4492,7 +4522,7 @@
       "pinyin": "shàngbān",
       "english": "to go to work / start work",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "work_school",
       "date_added": "2026-09-09"
     },
     {
@@ -4501,7 +4531,7 @@
       "pinyin": "xiàbān",
       "english": "to get off work",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "work_school",
       "date_added": "2026-09-09"
     },
     {
@@ -4510,7 +4540,7 @@
       "pinyin": "shàngkè",
       "english": "to attend class / go to class",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "work_school",
       "date_added": "2026-09-09"
     },
     {
@@ -4519,7 +4549,7 @@
       "pinyin": "xiàkè",
       "english": "to finish class",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "work_school",
       "date_added": "2026-09-09"
     },
     {
@@ -4528,7 +4558,7 @@
       "pinyin": "jiābān",
       "english": "to work overtime",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "work_school",
       "date_added": "2026-09-09"
     },
     {
@@ -4699,7 +4729,7 @@
       "pinyin": "kàn shū",
       "english": "to read a book",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "sports_hobbies",
       "date_added": "2026-09-09"
     },
     {
@@ -4708,7 +4738,7 @@
       "pinyin": "yùndòng",
       "english": "sports / exercise",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "sports_hobbies",
       "date_added": "2026-09-09"
     },
     {
@@ -4726,7 +4756,7 @@
       "pinyin": "zhōngwén",
       "english": "Chinese language",
       "type": "word",
-      "concept": "phrases",
+      "concept": "work_school",
       "date_added": "2026-09-09"
     },
     {
@@ -4735,7 +4765,7 @@
       "pinyin": "zhōngwén kè",
       "english": "Chinese class",
       "type": "word",
-      "concept": "phrases",
+      "concept": "work_school",
       "date_added": "2026-09-09"
     },
     {
@@ -4861,7 +4891,7 @@
       "pinyin": "Wǒ yǒu hěn duō péngyou.",
       "english": "I have many friends.",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "family",
       "date_added": "2026-09-09"
     },
     {
@@ -5158,7 +5188,7 @@
       "pinyin": "Tāmen yìqǐ kàn diànyǐng.",
       "english": "They watch a movie together.",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "sports_hobbies",
       "date_added": "2026-09-09"
     },
     {
@@ -5203,7 +5233,7 @@
       "pinyin": "Tāmen yìqǐ shàngkè.",
       "english": "They attend class together.",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "work_school",
       "date_added": "2026-09-09"
     },
     {
@@ -5239,7 +5269,7 @@
       "pinyin": "Zhège hǎokàn ma?",
       "english": "Is this good-looking?",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "body_appearance",
       "date_added": "2026-09-09"
     },
     {
@@ -5248,7 +5278,7 @@
       "pinyin": "Zhège hěn hǎokàn.",
       "english": "This is very good-looking.",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "body_appearance",
       "date_added": "2026-09-09"
     },
     {
@@ -5284,7 +5314,7 @@
       "pinyin": "Nǐ de lǎoshī shì Zhōngguó rén ma?",
       "english": "Is your teacher Chinese?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-09"
     },
     {
@@ -5419,7 +5449,7 @@
       "pinyin": "bàba",
       "english": "dad / father",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-10"
     },
     {
@@ -5428,7 +5458,7 @@
       "pinyin": "māma",
       "english": "mom / mother",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-10"
     },
     {
@@ -5437,7 +5467,7 @@
       "pinyin": "dìdi",
       "english": "younger brother",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-10"
     },
     {
@@ -5446,7 +5476,7 @@
       "pinyin": "jiějie",
       "english": "older sister",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-10"
     },
     {
@@ -5455,7 +5485,7 @@
       "pinyin": "mèimei",
       "english": "younger sister",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-10"
     },
     {
@@ -5464,7 +5494,7 @@
       "pinyin": "shūshu",
       "english": "uncle",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-10"
     },
     {
@@ -5473,7 +5503,7 @@
       "pinyin": "āyí",
       "english": "aunt / older woman",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-10"
     },
     {
@@ -5482,7 +5512,7 @@
       "pinyin": "tóngshì",
       "english": "coworker / colleague",
       "type": "word",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-10"
     },
     {
@@ -5491,7 +5521,7 @@
       "pinyin": "nánpéngyou",
       "english": "boyfriend",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-10"
     },
     {
@@ -5500,7 +5530,7 @@
       "pinyin": "nǚpéngyou",
       "english": "girlfriend",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-10"
     },
     {
@@ -5509,7 +5539,7 @@
       "pinyin": "Wǒ méiyǒu gēge.",
       "english": "I don’t have an older brother.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-10"
     },
     {
@@ -5518,7 +5548,7 @@
       "pinyin": "sān gè dìdi",
       "english": "three younger brothers",
       "type": "phrase",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-10"
     },
     {
@@ -5536,7 +5566,7 @@
       "pinyin": "Zhè shì wǒ māma.",
       "english": "This is my mother.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-10"
     },
     {
@@ -5545,7 +5575,7 @@
       "pinyin": "Zhè shì wǒ bàba.",
       "english": "This is my father.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-10"
     },
     {
@@ -5554,7 +5584,7 @@
       "pinyin": "Zhè shì wǒ nánpéngyou.",
       "english": "This is my boyfriend.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-10"
     },
     {
@@ -5563,7 +5593,7 @@
       "pinyin": "Zhè shì wǒ nǚpéngyou.",
       "english": "This is my girlfriend.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-10"
     },
     {
@@ -5599,7 +5629,7 @@
       "pinyin": "Hànyǔ",
       "english": "Chinese language",
       "type": "word",
-      "concept": "phrases",
+      "concept": "work_school",
       "date_added": "2026-09-10"
     },
     {
@@ -5608,7 +5638,7 @@
       "pinyin": "Wǒ de Hànyǔ bú tài hǎo.",
       "english": "My Chinese isn’t very good.",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "work_school",
       "date_added": "2026-09-10"
     },
     {
@@ -5617,7 +5647,7 @@
       "pinyin": "Nǐ de Hànyǔ hǎo ma?",
       "english": "Is your Chinese good?",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "work_school",
       "date_added": "2026-09-10"
     },
     {
@@ -5941,7 +5971,7 @@
       "pinyin": "yì zhī māo",
       "english": "One cat",
       "type": "phrase",
-      "concept": "objects",
+      "concept": "animals",
       "date_added": "2026-09-14"
     },
     {
@@ -5950,7 +5980,7 @@
       "pinyin": "zhī",
       "english": "measure word for certain animals (cats, birds, etc.)",
       "type": "word",
-      "concept": "objects",
+      "concept": "animals",
       "date_added": "2026-09-14"
     },
     {
@@ -5959,7 +5989,7 @@
       "pinyin": "māo",
       "english": "cat",
       "type": "word",
-      "concept": "objects",
+      "concept": "animals",
       "date_added": "2026-09-14"
     },
     {
@@ -6022,7 +6052,7 @@
       "pinyin": "Nǐ jiā yǒu jǐ kǒu rén?",
       "english": "How many people are there in your family?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-14"
     },
     {
@@ -6049,7 +6079,7 @@
       "pinyin": "wǒ jiějie",
       "english": "my older sister",
       "type": "phrase",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-14"
     },
     {
@@ -6058,7 +6088,7 @@
       "pinyin": "kǒu",
       "english": "measure word for family members / mouth",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-14"
     },
     {
@@ -6067,7 +6097,7 @@
       "pinyin": "sì kǒu rén",
       "english": "four family members",
       "type": "phrase",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-14"
     },
     {
@@ -6076,7 +6106,7 @@
       "pinyin": "wǔ kǒu rén",
       "english": "five family members",
       "type": "phrase",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-14"
     },
     {
@@ -6085,7 +6115,7 @@
       "pinyin": "Wǒ jiā yǒu sì kǒu rén.",
       "english": "There are four people in my family.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-14"
     },
     {
@@ -6103,7 +6133,7 @@
       "pinyin": "bàba hé māma",
       "english": "dad and mom",
       "type": "phrase",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-14"
     },
     {
@@ -6112,7 +6142,7 @@
       "pinyin": "wǒ hé mèimei",
       "english": "me and younger sister",
       "type": "phrase",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-14"
     },
     {
@@ -6130,7 +6160,7 @@
       "pinyin": "Wǒ jiā yǒu sì kǒu rén, bàba, māma, jiějie hé wǒ.",
       "english": "There are four people in my family: dad, mom, older sister, and me.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-14"
     },
     {
@@ -6139,7 +6169,7 @@
       "pinyin": "gōngzuò",
       "english": "work, job / to work",
       "type": "word",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6148,7 +6178,7 @@
       "pinyin": "Nǐ bàba, māma zuò shénme gōngzuò?",
       "english": "What do your parents do?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6166,7 +6196,7 @@
       "pinyin": "Nǐ zuò shénme gōngzuò?",
       "english": "What work do you do? / What do you do?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6175,7 +6205,7 @@
       "pinyin": "Wǒ shì lǎoshī.",
       "english": "I am a teacher.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6184,7 +6214,7 @@
       "pinyin": "Wǒ bàba shì lǎoshī, māma shì yīshēng.",
       "english": "My dad is a teacher, and my mom is a doctor.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6193,7 +6223,7 @@
       "pinyin": "Nǐ de gōngzuò máng ma?",
       "english": "Is your work busy?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6202,7 +6232,7 @@
       "pinyin": "Wǒ de gōngzuò tài máng le!",
       "english": "My work is too busy!",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6211,7 +6241,7 @@
       "pinyin": "yīshēng",
       "english": "doctor",
       "type": "word",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6220,7 +6250,7 @@
       "pinyin": "hùshi",
       "english": "nurse",
       "type": "word",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6229,7 +6259,7 @@
       "pinyin": "ruǎnjiàn gōngchéngshī",
       "english": "software engineer",
       "type": "word",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6247,7 +6277,7 @@
       "pinyin": "gōngchéngshī",
       "english": "engineer",
       "type": "word",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6328,7 +6358,7 @@
       "pinyin": "gōngzuò tài duō le",
       "english": "too much work",
       "type": "phrase",
-      "concept": "phrases",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6346,7 +6376,7 @@
       "pinyin": "Mā, zhè shì wǒ nánpéngyou Dàwèi, tā de hànyǔ hěn hǎo.",
       "english": "Mom, this is my boyfriend David, his Chinese is very good.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-14"
     },
     {
@@ -6391,7 +6421,7 @@
       "pinyin": "lǎobǎn",
       "english": "boss",
       "type": "word",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6400,7 +6430,7 @@
       "pinyin": "mìshū",
       "english": "secretary",
       "type": "word",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6409,7 +6439,7 @@
       "pinyin": "zhíyuán",
       "english": "clerk / office worker / employee",
       "type": "word",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6427,7 +6457,7 @@
       "pinyin": "jìzhě",
       "english": "journalist / reporter",
       "type": "word",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6454,7 +6484,7 @@
       "pinyin": "shòuhuòyuán",
       "english": "salesperson / shop assistant",
       "type": "word",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6472,7 +6502,7 @@
       "pinyin": "shōuyínyuán",
       "english": "cashier",
       "type": "word",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6490,7 +6520,7 @@
       "pinyin": "fúwùyuán",
       "english": "waiter / waitress / server",
       "type": "word",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6526,7 +6556,7 @@
       "pinyin": "Xiàwǔ wǒ zuò le yùndòng, zài wàimiàn pǎobù.",
       "english": "I worked out in the afternoon and went running outside.",
       "type": "sentence",
-      "concept": "verbs_adjectives",
+      "concept": "sports_hobbies",
       "date_added": "2026-09-14"
     },
     {
@@ -6544,7 +6574,7 @@
       "pinyin": "pǎobù",
       "english": "to run / running / jogging",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "sports_hobbies",
       "date_added": "2026-09-14"
     },
     {
@@ -6553,7 +6583,7 @@
       "pinyin": "kàn wán diànyǐng",
       "english": "finish watching the movie",
       "type": "phrase",
-      "concept": "verbs_adjectives",
+      "concept": "sports_hobbies",
       "date_added": "2026-09-14"
     },
     {
@@ -6580,7 +6610,7 @@
       "pinyin": "yùndòngyuán",
       "english": "athlete / sports player",
       "type": "word",
-      "concept": "introductions",
+      "concept": "sports_hobbies",
       "date_added": "2026-09-14"
     },
     {
@@ -6589,7 +6619,7 @@
       "pinyin": "Nǐ huì dǎ pīngpāngqiú ma?",
       "english": "Can you play table tennis?",
       "type": "sentence",
-      "concept": "verbs_adjectives",
+      "concept": "sports_hobbies",
       "date_added": "2026-09-14"
     },
     {
@@ -6598,7 +6628,7 @@
       "pinyin": "pīngpāngqiú",
       "english": "table tennis / ping-pong",
       "type": "word",
-      "concept": "objects",
+      "concept": "sports_hobbies",
       "date_added": "2026-09-14"
     },
     {
@@ -6607,7 +6637,7 @@
       "pinyin": "dǎ pīngpāngqiú",
       "english": "to play table tennis / to play ping-pong",
       "type": "phrase",
-      "concept": "verbs_adjectives",
+      "concept": "sports_hobbies",
       "date_added": "2026-09-14"
     },
     {
@@ -6616,7 +6646,7 @@
       "pinyin": "Nǐ de gōngzuò shì shénme?",
       "english": "What do you do for work?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6625,7 +6655,7 @@
       "pinyin": "Wǒ shì ruǎnjiàn gōngchéngshī.",
       "english": "I am a software engineer.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6634,7 +6664,7 @@
       "pinyin": "jǐ kǒu rén",
       "english": "how many people in a family",
       "type": "phrase",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-14"
     },
     {
@@ -6643,7 +6673,7 @@
       "pinyin": "xīnlǐyīshēng",
       "english": "psychologist / therapist / psychiatrist",
       "type": "word",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6652,7 +6682,7 @@
       "pinyin": "xīnlǐ",
       "english": "psychology / mental / psychological",
       "type": "word",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6715,7 +6745,7 @@
       "pinyin": "Nǐ xiànzài zài dàxué ma?",
       "english": "Are you in college now?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6724,7 +6754,7 @@
       "pinyin": "Wǒ xiànzài bú zài dàxué.",
       "english": "I am not in college now.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6796,7 +6826,7 @@
       "pinyin": "Tā shì xuéshēng ma?",
       "english": "Is he a student?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6805,7 +6835,7 @@
       "pinyin": "Tā shì xuéshēng ma?",
       "english": "Is she a student?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6823,7 +6853,7 @@
       "pinyin": "Tā zài nǎr xuéxí?",
       "english": "Where does she study?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6832,7 +6862,7 @@
       "pinyin": "xuéxí",
       "english": "to study / to learn",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6841,7 +6871,7 @@
       "pinyin": "xuéxí hànyǔ",
       "english": "to study Chinese",
       "type": "phrase",
-      "concept": "verbs_adjectives",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6850,7 +6880,7 @@
       "pinyin": "Nǐ xuéxí shénme?",
       "english": "What do you study?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-14"
     },
     {
@@ -6859,7 +6889,7 @@
       "pinyin": "Nǐ gōngzuò zuò wán le ma?",
       "english": "Have you finished your work?",
       "type": "sentence",
-      "concept": "verbs_adjectives",
+      "concept": "work_school",
       "date_added": "2026-09-20"
     },
     {
@@ -6868,7 +6898,7 @@
       "pinyin": "Hái méi zuò wán.",
       "english": "I haven't finished it yet.",
       "type": "sentence",
-      "concept": "verbs_adjectives",
+      "concept": "work_school",
       "date_added": "2026-09-20"
     },
     {
@@ -6904,7 +6934,7 @@
       "pinyin": "dà dìdi",
       "english": "eldest younger brother",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-20"
     },
     {
@@ -6913,7 +6943,7 @@
       "pinyin": "èr dìdi",
       "english": "second younger brother",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-20"
     },
     {
@@ -6922,7 +6952,7 @@
       "pinyin": "sān dìdi",
       "english": "third younger brother",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-20"
     },
     {
@@ -6958,7 +6988,7 @@
       "pinyin": "qiánbāo",
       "english": "wallet / purse",
       "type": "word",
-      "concept": "objects",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -6985,7 +7015,7 @@
       "pinyin": "Nín mǎi shénme?",
       "english": "What do you want to buy? (polite)",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -6994,7 +7024,7 @@
       "pinyin": "mǎi",
       "english": "to buy / to purchase",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7066,7 +7096,7 @@
       "pinyin": "Duōshao qián?",
       "english": "How much is it? / How much money?",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7075,7 +7105,7 @@
       "pinyin": "qián",
       "english": "money / coin",
       "type": "word",
-      "concept": "objects",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7084,7 +7114,7 @@
       "pinyin": "kuài",
       "english": "kuai (spoken unit of currency, yuan)",
       "type": "word",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7093,7 +7123,7 @@
       "pinyin": "yuán",
       "english": "yuan (formal unit of currency)",
       "type": "word",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7102,7 +7132,7 @@
       "pinyin": "máo",
       "english": "mao (spoken unit of 10 cents, jiao)",
       "type": "word",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7111,7 +7141,7 @@
       "pinyin": "jiǎo",
       "english": "jiao (formal unit of 10 cents)",
       "type": "word",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7120,7 +7150,7 @@
       "pinyin": "yí kuài",
       "english": "one kuai / 1 RMB",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7129,7 +7159,7 @@
       "pinyin": "yì yuán",
       "english": "one yuan / 1 RMB",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7138,7 +7168,7 @@
       "pinyin": "wǔ kuài",
       "english": "five kuai / 5 RMB",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7147,7 +7177,7 @@
       "pinyin": "wǔ yuán",
       "english": "five yuan / 5 RMB",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7156,7 +7186,7 @@
       "pinyin": "shí kuài",
       "english": "ten kuai / 10 RMB",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7165,7 +7195,7 @@
       "pinyin": "shí yuán",
       "english": "ten yuan / 10 RMB",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7174,7 +7204,7 @@
       "pinyin": "èrshí kuài",
       "english": "twenty kuai / 20 RMB",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7183,7 +7213,7 @@
       "pinyin": "èrshí yuán",
       "english": "twenty yuan / 20 RMB",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7192,7 +7222,7 @@
       "pinyin": "wǔshí kuài",
       "english": "fifty kuai / 50 RMB",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7201,7 +7231,7 @@
       "pinyin": "wǔshí yuán",
       "english": "fifty yuan / 50 RMB",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7210,7 +7240,7 @@
       "pinyin": "yìbǎi kuài",
       "english": "one hundred kuai / 100 RMB",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7219,7 +7249,7 @@
       "pinyin": "yìbǎi yuán",
       "english": "one hundred yuan / 100 RMB",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7228,7 +7258,7 @@
       "pinyin": "yì máo",
       "english": "one mao (10 cents)",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7237,7 +7267,7 @@
       "pinyin": "yì jiǎo",
       "english": "one jiao (10 cents)",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7246,7 +7276,7 @@
       "pinyin": "wǔ máo",
       "english": "five mao (50 cents)",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7255,7 +7285,7 @@
       "pinyin": "wǔ jiǎo",
       "english": "five jiao (50 cents)",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7264,7 +7294,7 @@
       "pinyin": "yì fēn",
       "english": "one cent / 1 fen",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7273,7 +7303,7 @@
       "pinyin": "liǎng kuài wǔ",
       "english": "two kuai fifty (¥2.50)",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7282,7 +7312,7 @@
       "pinyin": "yìbǎi sān",
       "english": "one hundred and thirty (¥130)",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7291,7 +7321,7 @@
       "pinyin": "sān kuài",
       "english": "three kuai (¥3.00)",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7300,7 +7330,7 @@
       "pinyin": "liù máo",
       "english": "sixty cents (¥0.60)",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7309,7 +7339,7 @@
       "pinyin": "qī fēn",
       "english": "seven cents (¥0.07)",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7318,7 +7348,7 @@
       "pinyin": "qī máo jiǔ",
       "english": "seventy-nine cents (¥0.79)",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7327,7 +7357,7 @@
       "pinyin": "yí kuài bā",
       "english": "one kuai eighty (¥1.80)",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7336,7 +7366,7 @@
       "pinyin": "liǎng kuài",
       "english": "two kuai (¥2.00)",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7345,7 +7375,7 @@
       "pinyin": "liǎng bǎi kuài",
       "english": "two hundred kuai (¥200)",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7354,7 +7384,7 @@
       "pinyin": "liǎng máo",
       "english": "twenty cents (¥0.20)",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7363,7 +7393,7 @@
       "pinyin": "liǎng fēn",
       "english": "two cents (¥0.02)",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7372,7 +7402,7 @@
       "pinyin": "èr fēn",
       "english": "two cents (¥0.02)",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7381,7 +7411,7 @@
       "pinyin": "diànzǐ qiánbāo",
       "english": "e-wallet / digital wallet",
       "type": "word",
-      "concept": "objects",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7444,7 +7474,7 @@
       "pinyin": "Duōshao qián yì jīn?",
       "english": "How much is it per jin (500g)?",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "shopping",
       "date_added": "2026-09-20"
     },
     {
@@ -7552,7 +7582,7 @@
       "pinyin": "Nǐ yǒu xiōngdì jiěmèi ma?",
       "english": "Do you have any brothers or sisters?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-20"
     },
     {
@@ -7561,7 +7591,7 @@
       "pinyin": "xiōngdì jiěmèi",
       "english": "brothers and sisters / siblings",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-20"
     },
     {
@@ -7570,7 +7600,7 @@
       "pinyin": "xiōngdì",
       "english": "brothers / brothers in arms",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-20"
     },
     {
@@ -7579,7 +7609,7 @@
       "pinyin": "Xuělì zài xuéxiào shàngkè.",
       "english": "Shirley has class at school.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-20"
     },
     {
@@ -7588,7 +7618,7 @@
       "pinyin": "Tā zài yīyuàn gōngzuò.",
       "english": "He works at the hospital.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-20"
     },
     {
@@ -7606,7 +7636,7 @@
       "pinyin": "Tā zài dàxué gōngzuò.",
       "english": "She works at the university.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-20"
     },
     {
@@ -7624,7 +7654,7 @@
       "pinyin": "Nǐ zài nǎr xuéxí?",
       "english": "Where do you study?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-20"
     },
     {
@@ -7642,7 +7672,7 @@
       "pinyin": "Wǒ méiyǒu dìdi.",
       "english": "I don't have a younger brother.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-20"
     },
     {
@@ -7669,7 +7699,7 @@
       "pinyin": "Nǐ yǒu gēge ma?",
       "english": "Do you have an older brother?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-20"
     },
     {
@@ -7678,7 +7708,7 @@
       "pinyin": "Nǐ yǒu jiějie ma?",
       "english": "Do you have an older sister?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-20"
     },
     {
@@ -7687,7 +7717,7 @@
       "pinyin": "Nǐ yǒu dìdi ma?",
       "english": "Do you have a younger brother?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-20"
     },
     {
@@ -7696,7 +7726,7 @@
       "pinyin": "Nǐ yǒu mèimei ma?",
       "english": "Do you have a younger sister?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-20"
     },
     {
@@ -7705,7 +7735,7 @@
       "pinyin": "Nǐ yǒu nánpéngyou ma?",
       "english": "Do you have a boyfriend?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-20"
     },
     {
@@ -7732,7 +7762,7 @@
       "pinyin": "Tā zài nǎr gōngzuò?",
       "english": "Where does she work?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-20"
     },
     {
@@ -7741,7 +7771,7 @@
       "pinyin": "Tā zài yínháng gōngzuò.",
       "english": "She works at a bank.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-20"
     },
     {
@@ -7750,7 +7780,7 @@
       "pinyin": "Tā zài Zhōngguó Yínháng gōngzuò.",
       "english": "She works at the Bank of China.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-20"
     },
     {
@@ -7768,7 +7798,7 @@
       "pinyin": "Zhè shì wǒ mèimei.",
       "english": "This is my younger sister.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-20"
     },
     {
@@ -7777,7 +7807,7 @@
       "pinyin": "Zhè shì nǐ dìdi ma?",
       "english": "Is this your younger brother?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-20"
     },
     {
@@ -7786,7 +7816,7 @@
       "pinyin": "Wǒ méiyǒu dìdi, zhè shì wǒ gēge.",
       "english": "I don't have a younger brother, this is my older brother.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-09-20"
     },
     {
@@ -7795,7 +7825,7 @@
       "pinyin": "Tā yě shì xuéshēng ma?",
       "english": "Is he also a student?",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-20"
     },
     {
@@ -7804,7 +7834,7 @@
       "pinyin": "Bú shì, tā zài yínháng gōngzuò.",
       "english": "No, he works at a bank.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-20"
     },
     {
@@ -7822,7 +7852,7 @@
       "pinyin": "Tā zài Běijīng Dàxué xuéxí.",
       "english": "She studies at Peking University.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-09-20"
     },
     {
@@ -8776,7 +8806,7 @@
       "pinyin": "mài",
       "english": "To sell",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "shopping",
       "date_added": "2026-10-04"
     },
     {
@@ -8785,7 +8815,7 @@
       "pinyin": "mǎimài",
       "english": "Buying and selling / business",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "shopping",
       "date_added": "2026-10-04"
     },
     {
@@ -8794,7 +8824,7 @@
       "pinyin": "tóu",
       "english": "Head",
       "type": "word",
-      "concept": "objects",
+      "concept": "body_appearance",
       "date_added": "2026-10-04"
     },
     {
@@ -8803,7 +8833,7 @@
       "pinyin": "yí kuài qián",
       "english": "One yuan / one kuai",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-10-04"
     },
     {
@@ -8812,7 +8842,7 @@
       "pinyin": "liǎng kuài qián",
       "english": "Two yuan / two kuai",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-10-04"
     },
     {
@@ -8830,7 +8860,7 @@
       "pinyin": "huā qián",
       "english": "To spend money",
       "type": "phrase",
-      "concept": "phrases",
+      "concept": "shopping",
       "date_added": "2026-10-04"
     },
     {
@@ -8857,7 +8887,7 @@
       "pinyin": "Xuělì yígòng huā le èrshíyī kuài èr.",
       "english": "Shirley spent 21.2 in total.",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "shopping",
       "date_added": "2026-10-04"
     },
     {
@@ -8902,7 +8932,7 @@
       "pinyin": "Zěnme mài?",
       "english": "How much is it? / How do you sell it?",
       "type": "phrase",
-      "concept": "phrases",
+      "concept": "shopping",
       "date_added": "2026-10-04"
     },
     {
@@ -8929,7 +8959,7 @@
       "pinyin": "yígòng",
       "english": "Altogether / in total",
       "type": "word",
-      "concept": "phrases",
+      "concept": "shopping",
       "date_added": "2026-10-04"
     },
     {
@@ -8965,7 +8995,7 @@
       "pinyin": "Shíyī kuài èr.",
       "english": "Eleven yuan twenty (11.20 yuan).",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-10-04"
     },
     {
@@ -8974,7 +9004,7 @@
       "pinyin": "èrshíyī kuài èr",
       "english": "Twenty-one yuan twenty (21.20 yuan)",
       "type": "phrase",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-10-04"
     },
     {
@@ -9010,7 +9040,7 @@
       "pinyin": "Yígòng èrshíyī kuài èr, èrshí ba.",
       "english": "Altogether 21.20 yuan, call it 20.",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "shopping",
       "date_added": "2026-10-04"
     },
     {
@@ -9055,7 +9085,7 @@
       "pinyin": "jiārén tuányuán",
       "english": "family reunion",
       "type": "phrase",
-      "concept": "phrases",
+      "concept": "family",
       "date_added": "2026-10-04"
     },
     {
@@ -9064,7 +9094,7 @@
       "pinyin": "tuányuán",
       "english": "reunion / to reunite (as a family)",
       "type": "word",
-      "concept": "phrases",
+      "concept": "family",
       "date_added": "2026-10-04"
     },
     {
@@ -10414,7 +10444,7 @@
       "pinyin": "Hái méi xiàbān ma?",
       "english": "Haven't you finished work yet?",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "work_school",
       "date_added": "2026-10-04"
     },
     {
@@ -10504,7 +10534,7 @@
       "pinyin": "mǎ",
       "english": "horse",
       "type": "word",
-      "concept": "objects",
+      "concept": "animals",
       "date_added": "2026-10-04"
     },
     {
@@ -10540,7 +10570,7 @@
       "pinyin": "zài dú yí biàn",
       "english": "Read it again.",
       "type": "phrase",
-      "concept": "phrases",
+      "concept": "work_school",
       "date_added": "2026-10-04"
     },
     {
@@ -10549,7 +10579,7 @@
       "pinyin": "dú",
       "english": "to read / to study",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "work_school",
       "date_added": "2026-10-04"
     },
     {
@@ -10567,7 +10597,7 @@
       "pinyin": "tuōkǒuxiù",
       "english": "talk show / stand-up comedy",
       "type": "word",
-      "concept": "phrases",
+      "concept": "sports_hobbies",
       "date_added": "2026-10-04"
     },
     {
@@ -10621,7 +10651,7 @@
       "pinyin": "yéye",
       "english": "(paternal) grandpa / grandfather",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-10-04"
     },
     {
@@ -10630,7 +10660,7 @@
       "pinyin": "nǎinai",
       "english": "(paternal) grandma / grandmother",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-10-04"
     },
     {
@@ -10639,7 +10669,7 @@
       "pinyin": "lǎoye",
       "english": "(maternal) grandpa / grandfather (Northern)",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-10-04"
     },
     {
@@ -10648,7 +10678,7 @@
       "pinyin": "wàigōng",
       "english": "(maternal) grandpa / grandfather (Southern / formal)",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-10-04"
     },
     {
@@ -10657,7 +10687,7 @@
       "pinyin": "lǎolao",
       "english": "(maternal) grandma / grandmother (Northern)",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-10-04"
     },
     {
@@ -10666,7 +10696,7 @@
       "pinyin": "wàipó",
       "english": "(maternal) grandma / grandmother (Southern / formal)",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-10-04"
     },
     {
@@ -10675,7 +10705,7 @@
       "pinyin": "bóbo",
       "english": "uncle (father's elder brother)",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-10-04"
     },
     {
@@ -10684,7 +10714,7 @@
       "pinyin": "gūgu",
       "english": "aunt (father's sister)",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-10-04"
     },
     {
@@ -10693,7 +10723,7 @@
       "pinyin": "jiùjiu",
       "english": "uncle (mother's brother)",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-10-04"
     },
     {
@@ -10702,7 +10732,7 @@
       "pinyin": "yí",
       "english": "aunt (mother's sister)",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-10-04"
     },
     {
@@ -10711,7 +10741,7 @@
       "pinyin": "zhàngfu",
       "english": "husband",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-10-04"
     },
     {
@@ -10720,7 +10750,7 @@
       "pinyin": "qīzi",
       "english": "wife",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-10-04"
     },
     {
@@ -10729,7 +10759,7 @@
       "pinyin": "érzi",
       "english": "son",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-10-04"
     },
     {
@@ -10738,7 +10768,7 @@
       "pinyin": "nǚ'ér",
       "english": "daughter",
       "type": "word",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-10-04"
     },
     {
@@ -10756,7 +10786,7 @@
       "pinyin": "kàn diànshì",
       "english": "to watch TV",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "sports_hobbies",
       "date_added": "2026-10-06"
     },
     {
@@ -11026,7 +11056,7 @@
       "pinyin": "Zhège diànyǐng bǐ nàge diànyǐng hǎokàn hěnduō.",
       "english": "This movie is much better than that movie.",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "sports_hobbies",
       "date_added": "2026-10-06"
     },
     {
@@ -11035,7 +11065,7 @@
       "pinyin": "Zhège diànyǐng méiyǒu nàge diànyǐng hǎokàn.",
       "english": "This movie isn’t as good as that movie.",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "sports_hobbies",
       "date_added": "2026-10-06"
     },
     {
@@ -11161,7 +11191,7 @@
       "pinyin": "Wǒ qù kàn wǒ māma.",
       "english": "I’m going to visit my mom.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-10-09"
     },
     {
@@ -11269,7 +11299,7 @@
       "pinyin": "měi",
       "english": "beautiful / pretty",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "body_appearance",
       "date_added": "2026-10-09"
     },
     {
@@ -11404,7 +11434,7 @@
       "pinyin": "lǚxíng",
       "english": "travel / trip / journey",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "sports_hobbies",
       "date_added": "2026-10-09"
     },
     {
@@ -11503,7 +11533,7 @@
       "pinyin": "Wǒ xiǎng mǎi ...",
       "english": "I want to buy ...",
       "type": "word",
-      "concept": "phrases",
+      "concept": "shopping",
       "date_added": "2026-10-09"
     },
     {
@@ -11629,7 +11659,7 @@
       "pinyin": "Tā zài kàn diànshì.",
       "english": "He is watching TV.",
       "type": "sentence",
-      "concept": "verbs_adjectives",
+      "concept": "sports_hobbies",
       "date_added": "2026-10-11"
     },
     {
@@ -11647,7 +11677,7 @@
       "pinyin": "xiànjīn",
       "english": "cash",
       "type": "word",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-10-11"
     },
     {
@@ -11719,7 +11749,7 @@
       "pinyin": "Tā hěn yǒuqián.",
       "english": "He is very rich.",
       "type": "sentence",
-      "concept": "verbs_adjectives",
+      "concept": "shopping",
       "date_added": "2026-10-11"
     },
     {
@@ -11728,7 +11758,7 @@
       "pinyin": "yǒuqián",
       "english": "rich / wealthy",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "shopping",
       "date_added": "2026-10-11"
     },
     {
@@ -11755,7 +11785,7 @@
       "pinyin": "Nín shuākǎ háishi fù xiànjīn?",
       "english": "Will you pay by card or cash?",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "shopping",
       "date_added": "2026-10-11"
     },
     {
@@ -11764,7 +11794,7 @@
       "pinyin": "shuākǎ",
       "english": "to pay by card / to swipe a card",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "shopping",
       "date_added": "2026-10-11"
     },
     {
@@ -11773,7 +11803,7 @@
       "pinyin": "kǎ",
       "english": "card (credit card / smart card)",
       "type": "word",
-      "concept": "objects",
+      "concept": "shopping",
       "date_added": "2026-10-11"
     },
     {
@@ -11782,7 +11812,7 @@
       "pinyin": "fù xiànjīn",
       "english": "to pay cash",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "shopping",
       "date_added": "2026-10-11"
     },
     {
@@ -11791,7 +11821,7 @@
       "pinyin": "fù",
       "english": "to pay",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "shopping",
       "date_added": "2026-10-11"
     },
     {
@@ -12043,7 +12073,7 @@
       "pinyin": "Wǒ bàba māma fēnkāi le.",
       "english": "My parents separated.",
       "type": "sentence",
-      "concept": "introductions",
+      "concept": "family",
       "date_added": "2026-10-13"
     },
     {
@@ -12052,7 +12082,7 @@
       "pinyin": "fēnkāi",
       "english": "to separate / to part",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "family",
       "date_added": "2026-10-13"
     },
     {
@@ -12241,7 +12271,7 @@
       "pinyin": "měi gè xuésheng",
       "english": "every student",
       "type": "word",
-      "concept": "introductions",
+      "concept": "work_school",
       "date_added": "2026-10-13"
     },
     {
@@ -12322,7 +12352,7 @@
       "pinyin": "tèjià",
       "english": "special offer / special price / on sale",
       "type": "word",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-10-13"
     },
     {
@@ -12331,7 +12361,7 @@
       "pinyin": "Jīntiān ... tèjià.",
       "english": "Today ... is on special offer.",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "shopping",
       "date_added": "2026-10-13"
     },
     {
@@ -12340,7 +12370,7 @@
       "pinyin": "Nà zánmen mǎi ... ba.",
       "english": "Then let's buy ...",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "shopping",
       "date_added": "2026-10-13"
     },
     {
@@ -12358,7 +12388,7 @@
       "pinyin": "Wǒ gōngzuò tài máng le.",
       "english": "I’m too busy with work.",
       "type": "sentence",
-      "concept": "verbs_adjectives",
+      "concept": "work_school",
       "date_added": "2026-10-15"
     },
     {
@@ -12394,7 +12424,7 @@
       "pinyin": "jiàgé",
       "english": "price",
       "type": "word",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-10-15"
     },
     {
@@ -12403,7 +12433,7 @@
       "pinyin": "jiàqian",
       "english": "price",
       "type": "word",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-10-15"
     },
     {
@@ -12565,7 +12595,7 @@
       "pinyin": "zhèngzài pǎobù",
       "english": "is running right now",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "sports_hobbies",
       "date_added": "2026-10-15"
     },
     {
@@ -12583,7 +12613,7 @@
       "pinyin": "zhèng pǎobù ne",
       "english": "is running right now",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "sports_hobbies",
       "date_added": "2026-10-15"
     },
     {
@@ -12592,7 +12622,7 @@
       "pinyin": "zài pǎobù ne",
       "english": "is running right now",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "sports_hobbies",
       "date_added": "2026-10-15"
     },
     {
@@ -12601,7 +12631,7 @@
       "pinyin": "pǎobù ne",
       "english": "running (right now)",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "sports_hobbies",
       "date_added": "2026-10-15"
     },
     {
@@ -12637,7 +12667,7 @@
       "pinyin": "Wǒ chūqù sànbù le.",
       "english": "I went out for a walk.",
       "type": "sentence",
-      "concept": "verbs_adjectives",
+      "concept": "sports_hobbies",
       "date_added": "2026-10-18"
     },
     {
@@ -12655,7 +12685,7 @@
       "pinyin": "sànbù",
       "english": "to take a walk / go for a walk",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "sports_hobbies",
       "date_added": "2026-10-18"
     },
     {
@@ -12754,7 +12784,7 @@
       "pinyin": "niú",
       "english": "cow / ox / cattle",
       "type": "word",
-      "concept": "objects",
+      "concept": "animals",
       "date_added": "2026-10-18"
     },
     {
@@ -12763,7 +12793,7 @@
       "pinyin": "shuāyá",
       "english": "to brush one's teeth",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "body_appearance",
       "date_added": "2026-10-18"
     },
     {
@@ -12772,7 +12802,7 @@
       "pinyin": "yáshuā",
       "english": "toothbrush",
       "type": "word",
-      "concept": "objects",
+      "concept": "body_appearance",
       "date_added": "2026-10-18"
     },
     {
@@ -12781,7 +12811,7 @@
       "pinyin": "mǎi dōngxi",
       "english": "to go shopping / to buy things",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "shopping",
       "date_added": "2026-10-18"
     },
     {
@@ -12790,7 +12820,7 @@
       "pinyin": "Nǐ xǐhuan fù xiànjīn háishi shuākǎ?",
       "english": "Do you prefer to pay in cash or by card?",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "shopping",
       "date_added": "2026-10-18"
     },
     {
@@ -13078,7 +13108,7 @@
       "pinyin": "Nǐ nánpéngyou zhēn ...!",
       "english": "Your boyfriend is really ...!",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "family",
       "date_added": "2026-10-18"
     },
     {
@@ -13087,7 +13117,7 @@
       "pinyin": "Nǐ de Hànyǔ zhēn ...!",
       "english": "Your Chinese is really ...!",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "work_school",
       "date_added": "2026-10-18"
     },
     {
@@ -13105,7 +13135,7 @@
       "pinyin": "piányi",
       "english": "cheap / inexpensive",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "shopping",
       "date_added": "2026-10-18"
     },
     {
@@ -13114,7 +13144,7 @@
       "pinyin": "hěn piányi",
       "english": "very cheap",
       "type": "word",
-      "concept": "phrases",
+      "concept": "shopping",
       "date_added": "2026-10-18"
     },
     {
@@ -13123,7 +13153,7 @@
       "pinyin": "bù piányi",
       "english": "not cheap",
       "type": "word",
-      "concept": "phrases",
+      "concept": "shopping",
       "date_added": "2026-10-18"
     },
     {
@@ -13132,7 +13162,7 @@
       "pinyin": "zhēn piányi",
       "english": "really cheap",
       "type": "word",
-      "concept": "phrases",
+      "concept": "shopping",
       "date_added": "2026-10-18"
     },
     {
@@ -13141,7 +13171,7 @@
       "pinyin": "Piányi diǎnr ba.",
       "english": "Please make it a little cheaper.",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "shopping",
       "date_added": "2026-10-18"
     },
     {
@@ -13150,7 +13180,7 @@
       "pinyin": "fù qián",
       "english": "to pay money",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "shopping",
       "date_added": "2026-10-18"
     },
     {
@@ -13159,7 +13189,7 @@
       "pinyin": "Shéi fù qián?",
       "english": "Who is paying?",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "shopping",
       "date_added": "2026-10-18"
     },
     {
@@ -13168,7 +13198,7 @@
       "pinyin": "Wēixìn",
       "english": "WeChat",
       "type": "word",
-      "concept": "objects",
+      "concept": "shopping",
       "date_added": "2026-10-18"
     },
     {
@@ -13177,7 +13207,7 @@
       "pinyin": "Zhīfùbǎo",
       "english": "Alipay",
       "type": "word",
-      "concept": "objects",
+      "concept": "shopping",
       "date_added": "2026-10-18"
     },
     {
@@ -13186,7 +13216,7 @@
       "pinyin": "èrwéimǎ",
       "english": "QR code",
       "type": "word",
-      "concept": "objects",
+      "concept": "shopping",
       "date_added": "2026-10-18"
     },
     {
@@ -13195,7 +13225,7 @@
       "pinyin": "sǎomǎ",
       "english": "to scan a code (QR code)",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "shopping",
       "date_added": "2026-10-18"
     },
     {
@@ -13204,7 +13234,7 @@
       "pinyin": "Nín fù ... háishi ...?",
       "english": "Are you paying with ... or ...?",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "shopping",
       "date_added": "2026-10-18"
     },
     {
@@ -13240,7 +13270,7 @@
       "pinyin": "guì",
       "english": "expensive",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "shopping",
       "date_added": "2026-10-21"
     },
     {
@@ -13456,7 +13486,7 @@
       "pinyin": "Yígòng sānshíwǔ kuài.",
       "english": "That comes to 35 yuan.",
       "type": "sentence",
-      "concept": "numbers",
+      "concept": "shopping",
       "date_added": "2026-10-21"
     },
     {
@@ -13465,7 +13495,7 @@
       "pinyin": "Wǒ yòng Zhīfùbǎo.",
       "english": "I’ll pay with Alipay.",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "shopping",
       "date_added": "2026-10-21"
     },
     {
@@ -13510,7 +13540,7 @@
       "pinyin": "Xiàcì wǒmen kāishǐ yí gè xīn kè.",
       "english": "Next time, we’ll start a new lesson.",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "work_school",
       "date_added": "2026-10-21"
     },
     {
@@ -13528,7 +13558,7 @@
       "pinyin": "xīn kè",
       "english": "new lesson",
       "type": "word",
-      "concept": "objects",
+      "concept": "work_school",
       "date_added": "2026-10-21"
     },
     {
@@ -13546,7 +13576,7 @@
       "pinyin": "huìhuà",
       "english": "conversation / dialogue",
       "type": "word",
-      "concept": "objects",
+      "concept": "work_school",
       "date_added": "2026-10-21"
     },
     {
@@ -13609,7 +13639,7 @@
       "pinyin": "liànxí",
       "english": "practice / exercise",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "work_school",
       "date_added": "2026-10-21"
     },
     {
@@ -13717,7 +13747,7 @@
       "pinyin": "hěn gāo",
       "english": "very tall / very high",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -13771,7 +13801,7 @@
       "pinyin": "shēngbìng",
       "english": "to be sick / to fall ill",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -13780,7 +13810,7 @@
       "pinyin": "wǎngqiú yùndòngyuán",
       "english": "tennis player",
       "type": "word",
-      "concept": "objects",
+      "concept": "sports_hobbies",
       "date_added": "2026-10-23"
     },
     {
@@ -13789,7 +13819,7 @@
       "pinyin": "lánqiú",
       "english": "basketball",
       "type": "word",
-      "concept": "objects",
+      "concept": "sports_hobbies",
       "date_added": "2026-10-23"
     },
     {
@@ -13798,7 +13828,7 @@
       "pinyin": "dǎ lánqiú",
       "english": "to play basketball",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "sports_hobbies",
       "date_added": "2026-10-23"
     },
     {
@@ -13807,7 +13837,7 @@
       "pinyin": "zúqiú",
       "english": "soccer / football",
       "type": "word",
-      "concept": "objects",
+      "concept": "sports_hobbies",
       "date_added": "2026-10-23"
     },
     {
@@ -13816,7 +13846,7 @@
       "pinyin": "tī",
       "english": "to kick / to play (with feet)",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "sports_hobbies",
       "date_added": "2026-10-23"
     },
     {
@@ -13825,7 +13855,7 @@
       "pinyin": "tī zúqiú",
       "english": "to play soccer",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "sports_hobbies",
       "date_added": "2026-10-23"
     },
     {
@@ -13834,7 +13864,7 @@
       "pinyin": "Nǐ zhīdào zhè shì shuí de māo ma?",
       "english": "Do you know whose cat this is?",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "animals",
       "date_added": "2026-10-23"
     },
     {
@@ -13843,7 +13873,7 @@
       "pinyin": "Wǒ bù zhīdào zhè shì shuí de māo.",
       "english": "I don’t know whose cat this is.",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "animals",
       "date_added": "2026-10-23"
     },
     {
@@ -13852,7 +13882,7 @@
       "pinyin": "pàng",
       "english": "fat / chubby",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -13861,7 +13891,7 @@
       "pinyin": "yǒudiǎnr pàng",
       "english": "a little fat / a bit chubby",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -13870,7 +13900,7 @@
       "pinyin": "yǎnjīng",
       "english": "eyes",
       "type": "word",
-      "concept": "objects",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -13879,7 +13909,7 @@
       "pinyin": "mù",
       "english": "eye / eyes (radical)",
       "type": "word",
-      "concept": "objects",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -13888,7 +13918,7 @@
       "pinyin": "shēngāo",
       "english": "height",
       "type": "word",
-      "concept": "objects",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -13897,7 +13927,7 @@
       "pinyin": "shēntǐ",
       "english": "body / health",
       "type": "word",
-      "concept": "objects",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -13969,7 +13999,7 @@
       "pinyin": "gǒu",
       "english": "dog",
       "type": "word",
-      "concept": "objects",
+      "concept": "animals",
       "date_added": "2026-10-23"
     },
     {
@@ -13978,7 +14008,7 @@
       "pinyin": "xiǎogǒu",
       "english": "puppy / little dog",
       "type": "word",
-      "concept": "objects",
+      "concept": "animals",
       "date_added": "2026-10-23"
     },
     {
@@ -13987,7 +14017,7 @@
       "pinyin": "Zhè shì shuí de xiǎogǒu?",
       "english": "Whose puppy is this?",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "animals",
       "date_added": "2026-10-23"
     },
     {
@@ -13996,7 +14026,7 @@
       "pinyin": "Zhè shì wǒ nánpéngyou de xiǎogǒu.",
       "english": "This is my boyfriend’s puppy.",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "animals",
       "date_added": "2026-10-23"
     },
     {
@@ -14005,7 +14035,7 @@
       "pinyin": "Tā pàng ma?",
       "english": "Is he fat?",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -14014,7 +14044,7 @@
       "pinyin": "Tā yǎnjing zhēn dà!",
       "english": "Its eyes are so big!",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -14023,7 +14053,7 @@
       "pinyin": "gèzi",
       "english": "height / stature / build",
       "type": "word",
-      "concept": "objects",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -14032,7 +14062,7 @@
       "pinyin": "Tā gèzi hěn gāo.",
       "english": "He is very tall.",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -14041,7 +14071,7 @@
       "pinyin": "Tā shēntǐ bù hǎo.",
       "english": "Her health is not good / She is in poor health.",
       "type": "sentence",
-      "concept": "phrases",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -14050,7 +14080,7 @@
       "pinyin": "ěrduo",
       "english": "ears",
       "type": "word",
-      "concept": "objects",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -14059,7 +14089,7 @@
       "pinyin": "liǎn",
       "english": "face",
       "type": "word",
-      "concept": "objects",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -14068,7 +14098,7 @@
       "pinyin": "tóufa",
       "english": "hair",
       "type": "word",
-      "concept": "objects",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -14077,7 +14107,7 @@
       "pinyin": "bízi",
       "english": "nose",
       "type": "word",
-      "concept": "objects",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -14086,7 +14116,7 @@
       "pinyin": "zuǐ",
       "english": "mouth",
       "type": "word",
-      "concept": "objects",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -14095,7 +14125,7 @@
       "pinyin": "shēncái",
       "english": "figure / build / physique",
       "type": "word",
-      "concept": "objects",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -14104,7 +14134,7 @@
       "pinyin": "ǎi",
       "english": "short (in height / stature)",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -14113,7 +14143,7 @@
       "pinyin": "shòu",
       "english": "thin / slim / lean",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -14122,7 +14152,7 @@
       "pinyin": "cháng",
       "english": "long",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     },
     {
@@ -14131,7 +14161,7 @@
       "pinyin": "duǎn",
       "english": "short (in length)",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "body_appearance",
       "date_added": "2026-10-23"
     }
   ],
