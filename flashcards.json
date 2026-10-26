@@ -1,8 +1,8 @@
 {
   "feed_version": "2.0.0",
   "version": "2.0.0",
-  "total_cards": 1322,
-  "last_updated": "2026-10-23",
+  "total_cards": 1367,
+  "last_updated": "2026-10-25",
   "concepts": [
     {
       "id": "all",
@@ -2260,6 +2260,26 @@
     "短": {
       "pinyin": "duǎn",
       "english": "short (in length) / brief"
+    },
+    "爱": {
+      "pinyin": "ài",
+      "english": "to love / affection"
+    },
+    "戏": {
+      "pinyin": "xì",
+      "english": "play / game / drama"
+    },
+    "担": {
+      "pinyin": "dān",
+      "english": "to carry / to undertake / to worry"
+    },
+    "邻": {
+      "pinyin": "lín",
+      "english": "neighbor / adjacent"
+    },
+    "居": {
+      "pinyin": "jū",
+      "english": "to reside / residence"
     }
   },
   "cards": [
@@ -14163,6 +14183,411 @@
       "type": "word",
       "concept": "body_appearance",
       "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1323",
+      "hanzi": "日本街",
+      "pinyin": "Rìběnjiē",
+      "english": "Japantown",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1324",
+      "hanzi": "我们去日本街吃了烤肉。",
+      "pinyin": "Wǒmen qù Rìběnjiē chī le kǎoròu.",
+      "english": "We went to Japantown to eat barbecue.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1325",
+      "hanzi": "今天日本街人多吗？",
+      "pinyin": "Jīntiān Rìběnjiē rén duō ma?",
+      "english": "Are there a lot of people in Japantown today?",
+      "type": "sentence",
+      "concept": "places",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1326",
+      "hanzi": "度",
+      "pinyin": "dù",
+      "english": "degree (temperature / angle)",
+      "type": "word",
+      "concept": "weather",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1327",
+      "hanzi": "圆",
+      "pinyin": "yuán",
+      "english": "round / circle",
+      "type": "word",
+      "concept": "body_appearance",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1328",
+      "hanzi": "圆圆的",
+      "pinyin": "yuányuán de",
+      "english": "round / nice and round",
+      "type": "word",
+      "concept": "body_appearance",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1329",
+      "hanzi": "大大的",
+      "pinyin": "dàdà de",
+      "english": "big / nice and big",
+      "type": "word",
+      "concept": "body_appearance",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1330",
+      "hanzi": "它眼睛大大的，圆圆的。",
+      "pinyin": "Tā yǎnjing dàdà de, yuányuán de.",
+      "english": "It has big, round eyes.",
+      "type": "sentence",
+      "concept": "body_appearance",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1331",
+      "hanzi": "可爱",
+      "pinyin": "kě'ài",
+      "english": "cute / adorable",
+      "type": "word",
+      "concept": "body_appearance",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1332",
+      "hanzi": "可爱的小狗",
+      "pinyin": "kě'ài de xiǎogǒu",
+      "english": "cute little dog / cute puppy",
+      "type": "word",
+      "concept": "animals",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1333",
+      "hanzi": "这是一只可爱小狗。",
+      "pinyin": "Zhè shì yì zhī kě'ài xiǎogǒu.",
+      "english": "This is a cute little dog.",
+      "type": "sentence",
+      "concept": "animals",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1334",
+      "hanzi": "这只小狗真可爱。",
+      "pinyin": "Zhè zhī xiǎogǒu zhēn kě'ài.",
+      "english": "This little dog is so cute.",
+      "type": "sentence",
+      "concept": "animals",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1335",
+      "hanzi": "别往右拐。",
+      "pinyin": "Bié wǎng yòu guǎi.",
+      "english": "Don’t turn right.",
+      "type": "sentence",
+      "concept": "directions",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1336",
+      "hanzi": "别往前走。",
+      "pinyin": "Bié wǎng qián zǒu.",
+      "english": "Don’t walk straight ahead.",
+      "type": "sentence",
+      "concept": "directions",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1337",
+      "hanzi": "游戏",
+      "pinyin": "yóuxì",
+      "english": "game",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1338",
+      "hanzi": "玩儿游戏",
+      "pinyin": "wánr yóuxì",
+      "english": "to play games",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1339",
+      "hanzi": "打游戏",
+      "pinyin": "dǎ yóuxì",
+      "english": "to play video games",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1340",
+      "hanzi": "下雨了，别出去。",
+      "pinyin": "Xiàyǔ le, bié chūqù.",
+      "english": "It’s raining. Don’t go outside.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1341",
+      "hanzi": "医生在医院工作。",
+      "pinyin": "Yīshēng zài yīyuàn gōngzuò.",
+      "english": "Doctors work in hospitals.",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1342",
+      "hanzi": "我妈妈身体怎么样？",
+      "pinyin": "Wǒ māma shēntǐ zěnmeyàng?",
+      "english": "How is my mom’s health?",
+      "type": "sentence",
+      "concept": "body_appearance",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1343",
+      "hanzi": "她的小狗叫什么名字？",
+      "pinyin": "Tā de xiǎogǒu jiào shénme míngzi?",
+      "english": "What’s her little dog’s name?",
+      "type": "sentence",
+      "concept": "animals",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1344",
+      "hanzi": "担心",
+      "pinyin": "dānxīn",
+      "english": "to worry / worried",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1345",
+      "hanzi": "别担心！",
+      "pinyin": "Bié dānxīn!",
+      "english": "Don’t worry!",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1346",
+      "hanzi": "它眼睛大吗？",
+      "pinyin": "Tā yǎnjing dà ma?",
+      "english": "Are its eyes big?",
+      "type": "sentence",
+      "concept": "body_appearance",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1347",
+      "hanzi": "别买",
+      "pinyin": "bié mǎi",
+      "english": "don’t buy",
+      "type": "word",
+      "concept": "shopping",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1348",
+      "hanzi": "别吃",
+      "pinyin": "bié chī",
+      "english": "don’t eat",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1349",
+      "hanzi": "别喝",
+      "pinyin": "bié hē",
+      "english": "don’t drink",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1350",
+      "hanzi": "别给他",
+      "pinyin": "bié gěi tā",
+      "english": "don’t give (it to) him",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1351",
+      "hanzi": "这个不……，别买。",
+      "pinyin": "Zhège bù ..., bié mǎi.",
+      "english": "This is not ..., don’t buy it.",
+      "type": "sentence",
+      "concept": "shopping",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1352",
+      "hanzi": "小猫",
+      "pinyin": "xiǎomāo",
+      "english": "kitten / little cat",
+      "type": "word",
+      "concept": "animals",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1353",
+      "hanzi": "你喜欢小猫、小狗吗？",
+      "pinyin": "Nǐ xǐhuan xiǎomāo, xiǎogǒu ma?",
+      "english": "Do you like kittens and puppies?",
+      "type": "sentence",
+      "concept": "animals",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1354",
+      "hanzi": "你喜欢吃什么？",
+      "pinyin": "Nǐ xǐhuan chī shénme?",
+      "english": "What do you like to eat?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1355",
+      "hanzi": "爱华",
+      "pinyin": "Àihuá",
+      "english": "Aihua (given name)",
+      "type": "word",
+      "concept": "introductions",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1356",
+      "hanzi": "爱华住哪儿？",
+      "pinyin": "Àihuá zhù nǎr?",
+      "english": "Where does Aihua live?",
+      "type": "sentence",
+      "concept": "places",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1357",
+      "hanzi": "小狗怎么样？",
+      "pinyin": "Xiǎogǒu zěnmeyàng?",
+      "english": "How is the puppy? / What is the puppy like?",
+      "type": "sentence",
+      "concept": "animals",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1358",
+      "hanzi": "爱华喜欢小狗吗？",
+      "pinyin": "Àihuá xǐhuan xiǎogǒu ma?",
+      "english": "Does Aihua like puppies?",
+      "type": "sentence",
+      "concept": "animals",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1359",
+      "hanzi": "邻居",
+      "pinyin": "línjū",
+      "english": "neighbor",
+      "type": "word",
+      "concept": "introductions",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1360",
+      "hanzi": "你好，我叫爱华，我住11层，1107。",
+      "pinyin": "Nǐ hǎo, wǒ jiào Àihuá, wǒ zhù shíyī céng, yāo yāo líng qī.",
+      "english": "Hello, my name is Aihua, I live on the 11th floor, room 1107.",
+      "type": "sentence",
+      "concept": "introductions",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1361",
+      "hanzi": "我住1106，很高兴认识你！",
+      "pinyin": "Wǒ zhù yāo yāo líng liù, hěn gāoxìng rènshi nǐ!",
+      "english": "I live in 1106, nice to meet you!",
+      "type": "sentence",
+      "concept": "introductions",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1362",
+      "hanzi": "这是你的小狗吗？",
+      "pinyin": "Zhè shì nǐ de xiǎogǒu ma?",
+      "english": "Is this your puppy?",
+      "type": "sentence",
+      "concept": "animals",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1363",
+      "hanzi": "小胖",
+      "pinyin": "Xiǎopàng",
+      "english": "Xiaopang (\"Little Chubby\", pet name)",
+      "type": "word",
+      "concept": "animals",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1364",
+      "hanzi": "是啊。它叫“小胖”。",
+      "pinyin": "Shì a. Tā jiào \"Xiǎopàng\".",
+      "english": "Yes. Its name is \"Xiaopang\".",
+      "type": "sentence",
+      "concept": "animals",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1365",
+      "hanzi": "太可爱了。",
+      "pinyin": "Tài kě'ài le.",
+      "english": "So cute! / Too cute!",
+      "type": "sentence",
+      "concept": "body_appearance",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1366",
+      "hanzi": "它眼睛真大！太可爱了。",
+      "pinyin": "Tā yǎnjing zhēn dà! Tài kě'ài le.",
+      "english": "Its eyes are so big! So cute.",
+      "type": "sentence",
+      "concept": "animals",
+      "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1367",
+      "hanzi": "没关系，我很喜欢小猫、小狗。",
+      "pinyin": "Méi guānxi, wǒ hěn xǐhuan xiǎomāo, xiǎogǒu.",
+      "english": "It’s okay, I really like kittens and puppies.",
+      "type": "sentence",
+      "concept": "animals",
+      "date_added": "2026-10-25"
     }
   ],
   "types": [
@@ -14184,6 +14609,12 @@
     }
   ],
   "dates": [
+    {
+      "id": "2026-10-25",
+      "label": "Oct 25, 2026",
+      "count": 45,
+      "description": "Japantown, cute pets, imperatives (别), video games, worrying, neighbor dialogue"
+    },
     {
       "id": "2026-10-23",
       "label": "Oct 23, 2026",
