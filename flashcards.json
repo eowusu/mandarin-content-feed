@@ -1,8 +1,8 @@
 {
   "feed_version": "2.0.0",
   "version": "2.0.0",
-  "total_cards": 1264,
-  "last_updated": "2026-10-21",
+  "total_cards": 1322,
+  "last_updated": "2026-10-23",
   "concepts": [
     {
       "id": "all",
@@ -2130,6 +2130,106 @@
     "练": {
       "pinyin": "liàn",
       "english": "to practice / train / drill (as in 练习)"
+    },
+    "算": {
+      "pinyin": "suàn",
+      "english": "to calculate / to plan / to count"
+    },
+    "错": {
+      "pinyin": "cuò",
+      "english": "wrong / mistake / bad"
+    },
+    "寓": {
+      "pinyin": "yù",
+      "english": "residence / apartment"
+    },
+    "层": {
+      "pinyin": "céng",
+      "english": "floor / story / layer"
+    },
+    "区": {
+      "pinyin": "qū",
+      "english": "district / area / zone"
+    },
+    "病": {
+      "pinyin": "bìng",
+      "english": "illness / sick / disease"
+    },
+    "网": {
+      "pinyin": "wǎng",
+      "english": "net / network / web"
+    },
+    "篮": {
+      "pinyin": "lán",
+      "english": "basket"
+    },
+    "足": {
+      "pinyin": "zú",
+      "english": "foot / sufficient"
+    },
+    "踢": {
+      "pinyin": "tī",
+      "english": "to kick"
+    },
+    "胖": {
+      "pinyin": "pàng",
+      "english": "fat / chubby / plump"
+    },
+    "眼": {
+      "pinyin": "yǎn",
+      "english": "eye"
+    },
+    "睛": {
+      "pinyin": "jīng",
+      "english": "eyeball / pupil"
+    },
+    "目": {
+      "pinyin": "mù",
+      "english": "eye / item / radical for eye"
+    },
+    "体": {
+      "pinyin": "tǐ",
+      "english": "body / form / health"
+    },
+    "狗": {
+      "pinyin": "gǒu",
+      "english": "dog"
+    },
+    "它": {
+      "pinyin": "tā",
+      "english": "it (non-human)"
+    },
+    "朵": {
+      "pinyin": "duǒ",
+      "english": "earlobe / flower / measure word"
+    },
+    "脸": {
+      "pinyin": "liǎn",
+      "english": "face"
+    },
+    "鼻": {
+      "pinyin": "bí",
+      "english": "nose"
+    },
+    "嘴": {
+      "pinyin": "zuǐ",
+      "english": "mouth"
+    },
+    "材": {
+      "pinyin": "cái",
+      "english": "material / build / timber"
+    },
+    "矮": {
+      "pinyin": "ǎi",
+      "english": "short (in stature) / low"
+    },
+    "瘦": {
+      "pinyin": "shòu",
+      "english": "thin / slim / lean"
+    },
+    "短": {
+      "pinyin": "duǎn",
+      "english": "short (in length) / brief"
     }
   },
   "cards": [
@@ -13511,6 +13611,528 @@
       "type": "word",
       "concept": "verbs_adjectives",
       "date_added": "2026-10-21"
+    },
+    {
+      "id": "card_1265",
+      "hanzi": "打算",
+      "pinyin": "dǎsuan",
+      "english": "to plan / plan",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1266",
+      "hanzi": "你打算做什么？",
+      "pinyin": "Nǐ dǎsuan zuò shénme?",
+      "english": "What are you planning to do?",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1267",
+      "hanzi": "蛋炒饭",
+      "pinyin": "dànchǎofàn",
+      "english": "egg fried rice",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1268",
+      "hanzi": "听起来",
+      "pinyin": "tīng qǐlái",
+      "english": "to sound / sounds like",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1269",
+      "hanzi": "听起来不错。",
+      "pinyin": "Tīng qǐlái búcuò.",
+      "english": "That sounds good.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1270",
+      "hanzi": "我还想要一个面包。",
+      "pinyin": "Wǒ hái xiǎng yào yí gè miànbāo.",
+      "english": "I’d also like a bread roll.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1271",
+      "hanzi": "一个大杯热咖啡",
+      "pinyin": "yí gè dàbēi rè kāfēi",
+      "english": "a large hot coffee",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1272",
+      "hanzi": "公寓",
+      "pinyin": "gōngyù",
+      "english": "apartment",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1273",
+      "hanzi": "层",
+      "pinyin": "céng",
+      "english": "floor / story",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1274",
+      "hanzi": "你们的公寓一共多少层？",
+      "pinyin": "Nǐmen de gōngyù yígòng duōshao céng?",
+      "english": "How many floors does your apartment building have in total?",
+      "type": "sentence",
+      "concept": "places",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1275",
+      "hanzi": "32层",
+      "pinyin": "sānshí'èr céng",
+      "english": "32nd floor / 32 floors",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1276",
+      "hanzi": "很高",
+      "pinyin": "hěn gāo",
+      "english": "very tall / very high",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1277",
+      "hanzi": "你住几层？",
+      "pinyin": "Nǐ zhù jǐ céng?",
+      "english": "Which floor do you live on?",
+      "type": "sentence",
+      "concept": "places",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1278",
+      "hanzi": "我住29层。",
+      "pinyin": "Wǒ zhù èrshíjiǔ céng.",
+      "english": "I live on the 29th floor.",
+      "type": "sentence",
+      "concept": "places",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1279",
+      "hanzi": "小区",
+      "pinyin": "xiǎoqū",
+      "english": "residential community / neighborhood",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1280",
+      "hanzi": "我的小区",
+      "pinyin": "wǒ de xiǎoqū",
+      "english": "my residential community",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1281",
+      "hanzi": "开心",
+      "pinyin": "kāixīn",
+      "english": "happy",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1282",
+      "hanzi": "生病",
+      "pinyin": "shēngbìng",
+      "english": "to be sick / to fall ill",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1283",
+      "hanzi": "网球运动员",
+      "pinyin": "wǎngqiú yùndòngyuán",
+      "english": "tennis player",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1284",
+      "hanzi": "篮球",
+      "pinyin": "lánqiú",
+      "english": "basketball",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1285",
+      "hanzi": "打篮球",
+      "pinyin": "dǎ lánqiú",
+      "english": "to play basketball",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1286",
+      "hanzi": "足球",
+      "pinyin": "zúqiú",
+      "english": "soccer / football",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1287",
+      "hanzi": "踢",
+      "pinyin": "tī",
+      "english": "to kick / to play (with feet)",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1288",
+      "hanzi": "踢足球",
+      "pinyin": "tī zúqiú",
+      "english": "to play soccer",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1289",
+      "hanzi": "你知道这是谁的猫吗？",
+      "pinyin": "Nǐ zhīdào zhè shì shuí de māo ma?",
+      "english": "Do you know whose cat this is?",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1290",
+      "hanzi": "我不知道这是谁的猫。",
+      "pinyin": "Wǒ bù zhīdào zhè shì shuí de māo.",
+      "english": "I don’t know whose cat this is.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1291",
+      "hanzi": "胖",
+      "pinyin": "pàng",
+      "english": "fat / chubby",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1292",
+      "hanzi": "有点儿胖",
+      "pinyin": "yǒudiǎnr pàng",
+      "english": "a little fat / a bit chubby",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1293",
+      "hanzi": "眼睛",
+      "pinyin": "yǎnjīng",
+      "english": "eyes",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1294",
+      "hanzi": "目",
+      "pinyin": "mù",
+      "english": "eye / eyes (radical)",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1295",
+      "hanzi": "身高",
+      "pinyin": "shēngāo",
+      "english": "height",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1296",
+      "hanzi": "身体",
+      "pinyin": "shēntǐ",
+      "english": "body / health",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1297",
+      "hanzi": "你住哪儿？",
+      "pinyin": "Nǐ zhù nǎr?",
+      "english": "Where do you live?",
+      "type": "sentence",
+      "concept": "places",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1298",
+      "hanzi": "我住105房间。",
+      "pinyin": "Wǒ zhù yāo líng wǔ fángjiān.",
+      "english": "I live in room 105.",
+      "type": "sentence",
+      "concept": "places",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1299",
+      "hanzi": "我住1层，105房间。",
+      "pinyin": "Wǒ zhù yī céng, yāo líng wǔ fángjiān.",
+      "english": "I live on the 1st floor, room 105.",
+      "type": "sentence",
+      "concept": "places",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1300",
+      "hanzi": "高兴",
+      "pinyin": "gāoxìng",
+      "english": "happy / glad",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1301",
+      "hanzi": "你认识他吗？",
+      "pinyin": "Nǐ rènshi tā ma?",
+      "english": "Do you know him?",
+      "type": "sentence",
+      "concept": "introductions",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1302",
+      "hanzi": "你认识她吗？",
+      "pinyin": "Nǐ rènshi tā ma?",
+      "english": "Do you know her?",
+      "type": "sentence",
+      "concept": "introductions",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1303",
+      "hanzi": "认识你我也很高兴！",
+      "pinyin": "Rènshi nǐ wǒ yě hěn gāoxìng!",
+      "english": "Nice to meet you too!",
+      "type": "sentence",
+      "concept": "greetings",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1304",
+      "hanzi": "狗",
+      "pinyin": "gǒu",
+      "english": "dog",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1305",
+      "hanzi": "小狗",
+      "pinyin": "xiǎogǒu",
+      "english": "puppy / little dog",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1306",
+      "hanzi": "这是谁的小狗？",
+      "pinyin": "Zhè shì shuí de xiǎogǒu?",
+      "english": "Whose puppy is this?",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1307",
+      "hanzi": "这是我男朋友的小狗。",
+      "pinyin": "Zhè shì wǒ nánpéngyou de xiǎogǒu.",
+      "english": "This is my boyfriend’s puppy.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1308",
+      "hanzi": "他胖吗？",
+      "pinyin": "Tā pàng ma?",
+      "english": "Is he fat?",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1309",
+      "hanzi": "它眼睛真大！",
+      "pinyin": "Tā yǎnjing zhēn dà!",
+      "english": "Its eyes are so big!",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1310",
+      "hanzi": "个子",
+      "pinyin": "gèzi",
+      "english": "height / stature / build",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1311",
+      "hanzi": "他个子很高。",
+      "pinyin": "Tā gèzi hěn gāo.",
+      "english": "He is very tall.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1312",
+      "hanzi": "她身体不好。",
+      "pinyin": "Tā shēntǐ bù hǎo.",
+      "english": "Her health is not good / She is in poor health.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1313",
+      "hanzi": "耳朵",
+      "pinyin": "ěrduo",
+      "english": "ears",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1314",
+      "hanzi": "脸",
+      "pinyin": "liǎn",
+      "english": "face",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1315",
+      "hanzi": "头发",
+      "pinyin": "tóufa",
+      "english": "hair",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1316",
+      "hanzi": "鼻子",
+      "pinyin": "bízi",
+      "english": "nose",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1317",
+      "hanzi": "嘴",
+      "pinyin": "zuǐ",
+      "english": "mouth",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1318",
+      "hanzi": "身材",
+      "pinyin": "shēncái",
+      "english": "figure / build / physique",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1319",
+      "hanzi": "矮",
+      "pinyin": "ǎi",
+      "english": "short (in height / stature)",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1320",
+      "hanzi": "瘦",
+      "pinyin": "shòu",
+      "english": "thin / slim / lean",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1321",
+      "hanzi": "长",
+      "pinyin": "cháng",
+      "english": "long",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-23"
+    },
+    {
+      "id": "card_1322",
+      "hanzi": "短",
+      "pinyin": "duǎn",
+      "english": "short (in length)",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-23"
     }
   ],
   "types": [
@@ -13532,6 +14154,12 @@
     }
   ],
   "dates": [
+    {
+      "id": "2026-10-23",
+      "label": "Oct 23, 2026",
+      "count": 58,
+      "description": "Apartments, floors, sports, pets, body parts, adjectives"
+    },
     {
       "id": "2026-10-21",
       "label": "Oct 21, 2026",
