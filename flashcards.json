@@ -1,8 +1,8 @@
 {
   "feed_version": "2.0.0",
   "version": "2.0.0",
-  "total_cards": 1367,
-  "last_updated": "2026-10-25",
+  "total_cards": 1403,
+  "last_updated": "2026-10-30",
   "concepts": [
     {
       "id": "all",
@@ -2280,6 +2280,38 @@
     "居": {
       "pinyin": "jū",
       "english": "to reside / residence"
+    },
+    "澡": {
+      "pinyin": "zǎo",
+      "english": "bath / to bathe"
+    },
+    "效": {
+      "pinyin": "xiào",
+      "english": "effect / efficiency"
+    },
+    "远": {
+      "pinyin": "yuǎn",
+      "english": "far / distant"
+    },
+    "钟": {
+      "pinyin": "zhōng",
+      "english": "clock / minute / bell"
+    },
+    "车": {
+      "pinyin": "chē",
+      "english": "car / vehicle"
+    },
+    "楼": {
+      "pinyin": "lóu",
+      "english": "building / floor / story"
+    },
+    "熟": {
+      "pinyin": "shú",
+      "english": "familiar / ripe / cooked"
+    },
+    "悉": {
+      "pinyin": "xī",
+      "english": "to know / familiar"
     }
   },
   "cards": [
@@ -14588,6 +14620,330 @@
       "type": "sentence",
       "concept": "animals",
       "date_added": "2026-10-25"
+    },
+    {
+      "id": "card_1368",
+      "hanzi": "回家",
+      "pinyin": "huíjiā",
+      "english": "to go home",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1369",
+      "hanzi": "洗澡",
+      "pinyin": "xǐzǎo",
+      "english": "to take a shower / to bathe",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1370",
+      "hanzi": "高效",
+      "pinyin": "gāoxiào",
+      "english": "efficient / high-efficiency",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1371",
+      "hanzi": "高效的一天",
+      "pinyin": "gāoxiào de yìtiān",
+      "english": "an efficient day",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1372",
+      "hanzi": "13到18度",
+      "pinyin": "shísān dào shíbā dù",
+      "english": "13 to 18 degrees",
+      "type": "word",
+      "concept": "weather",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1373",
+      "hanzi": "远",
+      "pinyin": "yuǎn",
+      "english": "far / distant",
+      "type": "word",
+      "concept": "directions",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1374",
+      "hanzi": "我家到公司不远。",
+      "pinyin": "Wǒ jiā dào gōngsī bù yuǎn.",
+      "english": "My home is not far from my office.",
+      "type": "sentence",
+      "concept": "directions",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1375",
+      "hanzi": "公里",
+      "pinyin": "gōnglǐ",
+      "english": "kilometer",
+      "type": "word",
+      "concept": "numbers",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1376",
+      "hanzi": "一公里",
+      "pinyin": "yì gōnglǐ",
+      "english": "one kilometer",
+      "type": "word",
+      "concept": "numbers",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1377",
+      "hanzi": "真近",
+      "pinyin": "zhēn jìn",
+      "english": "really close",
+      "type": "word",
+      "concept": "directions",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1378",
+      "hanzi": "你怎么去上班？",
+      "pinyin": "Nǐ zěnme qù shàngbān?",
+      "english": "How do you get to work?",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1379",
+      "hanzi": "走路",
+      "pinyin": "zǒulù",
+      "english": "to walk / on foot",
+      "type": "word",
+      "concept": "directions",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1380",
+      "hanzi": "我走路去。",
+      "pinyin": "Wǒ zǒulù qù.",
+      "english": "I walk to work / I go on foot.",
+      "type": "sentence",
+      "concept": "directions",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1381",
+      "hanzi": "多长时间",
+      "pinyin": "duō cháng shíjiān",
+      "english": "how long (duration)",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1382",
+      "hanzi": "你走路多长时间到公司？",
+      "pinyin": "Nǐ zǒulù duō cháng shíjiān dào gōngsī?",
+      "english": "How long does it take you to walk to your office?",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1383",
+      "hanzi": "我走路20到25分钟。",
+      "pinyin": "Wǒ zǒulù èrshí dào èrshíwǔ fēnzhōng.",
+      "english": "It takes me 20 to 25 minutes to walk.",
+      "type": "sentence",
+      "concept": "time",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1384",
+      "hanzi": "开车",
+      "pinyin": "kāichē",
+      "english": "to drive / go by car",
+      "type": "word",
+      "concept": "directions",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1385",
+      "hanzi": "因为我的学生下午都睡觉了，所以我下午不忙。",
+      "pinyin": "Yīnwèi wǒ de xuéshēng xiàwǔ dōu shuìjiào le, suǒyǐ wǒ xiàwǔ bù máng.",
+      "english": "Because my students are all sleeping in the afternoon, I’m not busy then.",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1386",
+      "hanzi": "我上午很忙，因为我的学生喜欢晚上学中文。",
+      "pinyin": "Wǒ shàngwǔ hěn máng, yīnwèi wǒ de xuéshēng xǐhuan wǎnshang xué Zhōngwén.",
+      "english": "I’m very busy in the morning because my students like studying Chinese in the evening.",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1387",
+      "hanzi": "我晚上也会有点儿忙，因为我的学生起床了。",
+      "pinyin": "Wǒ wǎnshang yě huì yǒudiǎnr máng, yīnwèi wǒ de xuéshēng qǐchuáng le.",
+      "english": "I may also be a little busy in the evening because my students have woken up.",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1388",
+      "hanzi": "一些",
+      "pinyin": "yìxiē",
+      "english": "some / a few",
+      "type": "word",
+      "concept": "numbers",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1389",
+      "hanzi": "你的一些学生",
+      "pinyin": "nǐ de yìxiē xuéshēng",
+      "english": "some of your students",
+      "type": "word",
+      "concept": "work_school",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1390",
+      "hanzi": "楼",
+      "pinyin": "lóu",
+      "english": "building / floor / story",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1391",
+      "hanzi": "你的楼一共有几层？",
+      "pinyin": "Nǐ de lóu yígòng yǒu jǐ céng?",
+      "english": "How many floors does your building have in total?",
+      "type": "sentence",
+      "concept": "places",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1392",
+      "hanzi": "熟悉",
+      "pinyin": "shúxī",
+      "english": "familiar / to know well",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1393",
+      "hanzi": "熟",
+      "pinyin": "shú",
+      "english": "familiar / ripe / cooked",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1394",
+      "hanzi": "我和邻居不太熟悉。",
+      "pinyin": "Wǒ hé línjū bú tài shúxī.",
+      "english": "I’m not very familiar with my neighbors.",
+      "type": "sentence",
+      "concept": "introductions",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1395",
+      "hanzi": "我对旧金山很熟悉。",
+      "pinyin": "Wǒ duì Jiùjīnshān hěn shúxī.",
+      "english": "I’m very familiar with San Francisco.",
+      "type": "sentence",
+      "concept": "places",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1396",
+      "hanzi": "地方",
+      "pinyin": "dìfang",
+      "english": "place / area",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1397",
+      "hanzi": "这个地方我很熟。",
+      "pinyin": "Zhège dìfang wǒ hěn shú.",
+      "english": "I’m very familiar with this place.",
+      "type": "sentence",
+      "concept": "places",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1398",
+      "hanzi": "别去那儿。",
+      "pinyin": "Bié qù nàr.",
+      "english": "Don’t go there.",
+      "type": "sentence",
+      "concept": "directions",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1399",
+      "hanzi": "别去那里。",
+      "pinyin": "Bié qù nàli.",
+      "english": "Don’t go there.",
+      "type": "sentence",
+      "concept": "directions",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1400",
+      "hanzi": "爱",
+      "pinyin": "ài",
+      "english": "love / to love",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1401",
+      "hanzi": "小狗真可爱。",
+      "pinyin": "Xiǎogǒu zhēn kě'ài.",
+      "english": "The puppy is so cute.",
+      "type": "sentence",
+      "concept": "animals",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1402",
+      "hanzi": "别吃……。最近……。",
+      "pinyin": "Bié chī .... Zuìjìn ....",
+      "english": "Don’t eat .... Recently ....",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1403",
+      "hanzi": "医生，我妈妈身体怎么样？",
+      "pinyin": "Yīshēng, wǒ māma shēntǐ zěnmeyàng?",
+      "english": "Doctor, how is my mom’s health?",
+      "type": "sentence",
+      "concept": "body_appearance",
+      "date_added": "2026-10-30"
     }
   ],
   "types": [
@@ -14609,6 +14965,12 @@
     }
   ],
   "dates": [
+    {
+      "id": "2026-10-30",
+      "label": "Oct 30, 2026",
+      "count": 36,
+      "description": "Commuting, distance, because/so (因为…所以…), familiarity (熟悉), daily routine"
+    },
     {
       "id": "2026-10-25",
       "label": "Oct 25, 2026",
