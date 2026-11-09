@@ -1,8 +1,8 @@
 {
   "feed_version": "2.0.0",
   "version": "2.0.0",
-  "total_cards": 1485,
-  "last_updated": "2026-11-03",
+  "total_cards": 1543,
+  "last_updated": "2026-11-05",
   "concepts": [
     {
       "id": "all",
@@ -2465,6 +2465,50 @@
     "镜": {
       "pinyin": "jìng",
       "english": "mirror / lens / glasses"
+    },
+    "顺": {
+      "pinyin": "shùn",
+      "english": "smooth / along / favorable"
+    },
+    "解": {
+      "pinyin": "jiě",
+      "english": "to solve / to explain / to untie"
+    },
+    "决": {
+      "pinyin": "jué",
+      "english": "to decide / to resolve"
+    },
+    "瑜": {
+      "pinyin": "yú",
+      "english": "fine jade / yoga (phonetic)"
+    },
+    "伽": {
+      "pinyin": "jiā",
+      "english": "yoga (phonetic)"
+    },
+    "照": {
+      "pinyin": "zhào",
+      "english": "photo / to shine / to reflect"
+    },
+    "逛": {
+      "pinyin": "guàng",
+      "english": "to stroll / to window-shop"
+    },
+    "非": {
+      "pinyin": "fēi",
+      "english": "not / non- / extremely (in 非常)"
+    },
+    "休": {
+      "pinyin": "xiū",
+      "english": "to rest / to stop"
+    },
+    "息": {
+      "pinyin": "xī",
+      "english": "breath / to rest"
+    },
+    "拍": {
+      "pinyin": "pāi",
+      "english": "to take (a photo) / to clap / to pat"
     }
   },
   "cards": [
@@ -15835,6 +15879,528 @@
       "type": "sentence",
       "concept": "sports_hobbies",
       "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1486",
+      "hanzi": "你今天过得怎么样？",
+      "pinyin": "Nǐ jīntiān guò de zěnmeyàng?",
+      "english": "How was your day today?",
+      "type": "sentence",
+      "concept": "greetings",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1487",
+      "hanzi": "过节",
+      "pinyin": "guòjié",
+      "english": "to celebrate a festival / celebrate a holiday",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1488",
+      "hanzi": "过生日",
+      "pinyin": "guò shēngrì",
+      "english": "to celebrate a birthday",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1489",
+      "hanzi": "下个月18号我过生日。",
+      "pinyin": "Xià gè yuè shíbā hào wǒ guò shēngrì.",
+      "english": "My birthday is on the 18th of next month.",
+      "type": "sentence",
+      "concept": "time",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1490",
+      "hanzi": "顺利",
+      "pinyin": "shùnlì",
+      "english": "smooth / going well / successful",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1491",
+      "hanzi": "工作很顺利。",
+      "pinyin": "Gōngzuò hěn shùnlì.",
+      "english": "Work is going smoothly.",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1492",
+      "hanzi": "解决",
+      "pinyin": "jiějué",
+      "english": "to solve / to resolve",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1493",
+      "hanzi": "我解决了一些问题。",
+      "pinyin": "Wǒ jiějué le yìxiē wèntí.",
+      "english": "I solved some problems.",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1494",
+      "hanzi": "瑜伽",
+      "pinyin": "yújiā",
+      "english": "yoga",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1495",
+      "hanzi": "我做了瑜伽。",
+      "pinyin": "Wǒ zuò le yújiā.",
+      "english": "I did yoga.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1496",
+      "hanzi": "听起来很不错。",
+      "pinyin": "Tīng qǐlái hěn búcuò.",
+      "english": "That sounds really good.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1497",
+      "hanzi": "看起来",
+      "pinyin": "kàn qǐlái",
+      "english": "to look / looks like",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1498",
+      "hanzi": "看起来很好。",
+      "pinyin": "Kàn qǐlái hěn hǎo.",
+      "english": "It looks good.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1499",
+      "hanzi": "吃起来",
+      "pinyin": "chī qǐlái",
+      "english": "to taste / tastes like (when eaten)",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1500",
+      "hanzi": "吃起来很好吃。",
+      "pinyin": "Chī qǐlái hěn hǎochī.",
+      "english": "It tastes delicious.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1501",
+      "hanzi": "她个子有点儿矮。",
+      "pinyin": "Tā gèzi yǒudiǎnr ǎi.",
+      "english": "She is a little short.",
+      "type": "sentence",
+      "concept": "body_appearance",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1502",
+      "hanzi": "放心",
+      "pinyin": "fàngxīn",
+      "english": "to feel at ease / don’t worry",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1503",
+      "hanzi": "我老婆一个人旅行，我可能不放心。",
+      "pinyin": "Wǒ lǎopó yí gè rén lǚxíng, wǒ kěnéng bú fàngxīn.",
+      "english": "If my wife travels alone, I might worry.",
+      "type": "sentence",
+      "concept": "family",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1504",
+      "hanzi": "同学",
+      "pinyin": "tóngxué",
+      "english": "classmate",
+      "type": "word",
+      "concept": "work_school",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1505",
+      "hanzi": "新衣服",
+      "pinyin": "xīn yīfu",
+      "english": "new clothes",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1506",
+      "hanzi": "照片",
+      "pinyin": "zhàopiàn",
+      "english": "photo / picture",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1507",
+      "hanzi": "你手机里有家人的照片吗？",
+      "pinyin": "Nǐ shǒujī lǐ yǒu jiārén de zhàopiàn ma?",
+      "english": "Do you have photos of your family on your phone?",
+      "type": "sentence",
+      "concept": "family",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1508",
+      "hanzi": "健身",
+      "pinyin": "jiànshēn",
+      "english": "to work out / fitness",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1509",
+      "hanzi": "你一个星期健身几次？",
+      "pinyin": "Nǐ yí gè xīngqī jiànshēn jǐ cì?",
+      "english": "How many times a week do you work out?",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1510",
+      "hanzi": "次",
+      "pinyin": "cì",
+      "english": "time (measure word for frequency)",
+      "type": "word",
+      "concept": "numbers",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1511",
+      "hanzi": "不贵",
+      "pinyin": "bú guì",
+      "english": "not expensive",
+      "type": "word",
+      "concept": "shopping",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1512",
+      "hanzi": "西瓜不贵。",
+      "pinyin": "Xīguā bú guì.",
+      "english": "Watermelons aren’t expensive.",
+      "type": "sentence",
+      "concept": "shopping",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1513",
+      "hanzi": "不太贵",
+      "pinyin": "bú tài guì",
+      "english": "not very expensive",
+      "type": "word",
+      "concept": "shopping",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1514",
+      "hanzi": "没有了？",
+      "pinyin": "Méiyǒu le?",
+      "english": "Is that all? / Is there anything else?",
+      "type": "sentence",
+      "concept": "shopping",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1515",
+      "hanzi": "逛街",
+      "pinyin": "guàngjiē",
+      "english": "to go shopping / window-shopping",
+      "type": "word",
+      "concept": "shopping",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1516",
+      "hanzi": "我喜欢看看电影、吃吃饭、逛逛街、健健身。",
+      "pinyin": "Wǒ xǐhuan kànkan diànyǐng, chīchi fàn, guàngguang jiē, jiànjian shēn.",
+      "english": "I like watching movies, going out to eat, shopping, and working out.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1517",
+      "hanzi": "非常",
+      "pinyin": "fēicháng",
+      "english": "very / extremely",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1518",
+      "hanzi": "休息",
+      "pinyin": "xiūxi",
+      "english": "to rest / take a break",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1519",
+      "hanzi": "如果我非常累，我可能在家休息。如果我不累，我就出去玩，不休息。",
+      "pinyin": "Rúguǒ wǒ fēicháng lèi, wǒ kěnéng zài jiā xiūxi. Rúguǒ wǒ bú lèi, wǒ jiù chūqù wán, bù xiūxi.",
+      "english": "If I’m really tired, I might stay home and rest. If I’m not tired, I’ll go out and have fun instead of resting.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1520",
+      "hanzi": "爸妈身体怎么样？",
+      "pinyin": "Bà-mā shēntǐ zěnmeyàng?",
+      "english": "How have Mom and Dad been? / How is their health?",
+      "type": "sentence",
+      "concept": "body_appearance",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1521",
+      "hanzi": "你妈妈身体怎么样？",
+      "pinyin": "Nǐ māma shēntǐ zěnmeyàng?",
+      "english": "How is your mom’s health?",
+      "type": "sentence",
+      "concept": "body_appearance",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1522",
+      "hanzi": "我不放心。",
+      "pinyin": "Wǒ bú fàngxīn.",
+      "english": "I don’t feel at ease / I’m worried.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1523",
+      "hanzi": "我很放心。",
+      "pinyin": "Wǒ hěn fàngxīn.",
+      "english": "I feel very much at ease / I’m not worried.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1524",
+      "hanzi": "新学生",
+      "pinyin": "xīn xuéshēng",
+      "english": "new student",
+      "type": "word",
+      "concept": "work_school",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1525",
+      "hanzi": "新老师",
+      "pinyin": "xīn lǎoshī",
+      "english": "new teacher",
+      "type": "word",
+      "concept": "work_school",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1526",
+      "hanzi": "新工作",
+      "pinyin": "xīn gōngzuò",
+      "english": "new job",
+      "type": "word",
+      "concept": "work_school",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1527",
+      "hanzi": "妹妹的照片",
+      "pinyin": "mèimei de zhàopiàn",
+      "english": "younger sister’s photo",
+      "type": "word",
+      "concept": "family",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1528",
+      "hanzi": "看照片",
+      "pinyin": "kàn zhàopiàn",
+      "english": "to look at photos",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1529",
+      "hanzi": "拍",
+      "pinyin": "pāi",
+      "english": "to take (a photo) / to clap",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1530",
+      "hanzi": "拍照片",
+      "pinyin": "pāi zhàopiàn",
+      "english": "to take photos",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1531",
+      "hanzi": "我有我的小猫的照片，它眼睛很大，真可爱。",
+      "pinyin": "Wǒ yǒu wǒ de xiǎomāo de zhàopiàn, tā yǎnjing hěn dà, zhēn kě'ài.",
+      "english": "I have a photo of my kitten; its eyes are very big, so cute.",
+      "type": "sentence",
+      "concept": "animals",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1532",
+      "hanzi": "个子真高",
+      "pinyin": "gèzi zhēn gāo",
+      "english": "really tall (in stature)",
+      "type": "word",
+      "concept": "body_appearance",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1533",
+      "hanzi": "你哥哥个子高不高？",
+      "pinyin": "Nǐ gēge gèzi gāo bu gāo?",
+      "english": "Is your older brother tall?",
+      "type": "sentence",
+      "concept": "body_appearance",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1534",
+      "hanzi": "他工作忙不忙？",
+      "pinyin": "Tā gōngzuò máng bu máng?",
+      "english": "Is he busy with work?",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1535",
+      "hanzi": "你喜欢健身吗？",
+      "pinyin": "Nǐ xǐhuan jiànshēn ma?",
+      "english": "Do you like working out?",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1536",
+      "hanzi": "你每天都健身吗？",
+      "pinyin": "Nǐ měitiān dōu jiànshēn ma?",
+      "english": "Do you work out every day?",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1537",
+      "hanzi": "健身教练",
+      "pinyin": "jiànshēn jiàoliàn",
+      "english": "fitness coach / personal trainer",
+      "type": "word",
+      "concept": "work_school",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1538",
+      "hanzi": "我是健身教练。",
+      "pinyin": "Wǒ shì jiànshēn jiàoliàn.",
+      "english": "I am a fitness coach.",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1539",
+      "hanzi": "他工作非常忙。",
+      "pinyin": "Tā gōngzuò fēicháng máng.",
+      "english": "He is very busy with work.",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1540",
+      "hanzi": "周末你忙不忙？",
+      "pinyin": "Zhōumò nǐ máng bu máng?",
+      "english": "Are you busy on the weekend?",
+      "type": "sentence",
+      "concept": "time",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1541",
+      "hanzi": "周末你喜欢做什么？",
+      "pinyin": "Zhōumò nǐ xǐhuan zuò shénme?",
+      "english": "What do you like to do on the weekend?",
+      "type": "sentence",
+      "concept": "time",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1542",
+      "hanzi": "星期五晚上你休息不休息？",
+      "pinyin": "Xīngqīwǔ wǎnshang nǐ xiūxi bu xiūxi?",
+      "english": "Are you resting on Friday evening?",
+      "type": "sentence",
+      "concept": "time",
+      "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1543",
+      "hanzi": "这个月你休息几天？",
+      "pinyin": "Zhège yuè nǐ xiūxi jǐ tiān?",
+      "english": "How many days off do you have this month?",
+      "type": "sentence",
+      "concept": "time",
+      "date_added": "2026-11-05"
     }
   ],
   "types": [
@@ -15856,6 +16422,12 @@
     }
   ],
   "dates": [
+    {
+      "id": "2026-11-05",
+      "label": "Nov 5, 2026",
+      "count": 58,
+      "description": "Sensory verbs (-起来), feeling at ease (放心), photos, fitness & yoga, verb reduplication, resting (休息)"
+    },
     {
       "id": "2026-11-03",
       "label": "Nov 3, 2026",
