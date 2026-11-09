@@ -1,8 +1,8 @@
 {
   "feed_version": "2.0.0",
   "version": "2.0.0",
-  "total_cards": 1403,
-  "last_updated": "2026-10-30",
+  "total_cards": 1440,
+  "last_updated": "2026-11-01",
   "concepts": [
     {
       "id": "all",
@@ -2312,6 +2312,74 @@
     "悉": {
       "pinyin": "xī",
       "english": "to know / familiar"
+    },
+    "圣": {
+      "pinyin": "shèng",
+      "english": "holy / saint / sacred"
+    },
+    "穿": {
+      "pinyin": "chuān",
+      "english": "to wear / to put on / to pierce"
+    },
+    "衣": {
+      "pinyin": "yī",
+      "english": "clothes / clothing"
+    },
+    "装": {
+      "pinyin": "zhuāng",
+      "english": "costume / to dress up / to pack"
+    },
+    "扮": {
+      "pinyin": "bàn",
+      "english": "to dress up / to play the role of"
+    },
+    "画": {
+      "pinyin": "huà",
+      "english": "picture / drawing / to paint"
+    },
+    "片": {
+      "pinyin": "piàn",
+      "english": "slice / film / piece"
+    },
+    "放": {
+      "pinyin": "fàng",
+      "english": "to put / to release / to let go"
+    },
+    "松": {
+      "pinyin": "sōng",
+      "english": "loose / relaxed / pine"
+    },
+    "强": {
+      "pinyin": "qiáng",
+      "english": "strong / powerful"
+    },
+    "壮": {
+      "pinyin": "zhuàng",
+      "english": "strong / robust / sturdy"
+    },
+    "搞": {
+      "pinyin": "gǎo",
+      "english": "to do / to make"
+    },
+    "笑": {
+      "pinyin": "xiào",
+      "english": "to laugh / to smile"
+    },
+    "哭": {
+      "pinyin": "kū",
+      "english": "to cry / to weep"
+    },
+    "性": {
+      "pinyin": "xìng",
+      "english": "nature / character / sex"
+    },
+    "唇": {
+      "pinyin": "chún",
+      "english": "lip"
+    },
+    "教": {
+      "pinyin": "jiāo",
+      "english": "to teach / religion"
     }
   },
   "cards": [
@@ -14944,6 +15012,339 @@
       "type": "sentence",
       "concept": "body_appearance",
       "date_added": "2026-10-30"
+    },
+    {
+      "id": "card_1404",
+      "hanzi": "老婆",
+      "pinyin": "lǎopó",
+      "english": "wife (colloquial)",
+      "type": "word",
+      "concept": "family",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1405",
+      "hanzi": "万圣节",
+      "pinyin": "Wànshèngjié",
+      "english": "Halloween",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1406",
+      "hanzi": "穿",
+      "pinyin": "chuān",
+      "english": "to wear / to put on",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1407",
+      "hanzi": "衣服",
+      "pinyin": "yīfu",
+      "english": "clothes / clothing",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1408",
+      "hanzi": "我们穿万圣节的衣服去散步。",
+      "pinyin": "Wǒmen chuān Wànshèngjié de yīfu qù sànbù.",
+      "english": "We went for a walk in our Halloween costumes.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1409",
+      "hanzi": "装扮",
+      "pinyin": "zhuāngbàn",
+      "english": "costume / to dress up",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1410",
+      "hanzi": "我们看到很多好玩儿的万圣节装扮。",
+      "pinyin": "Wǒmen kàndào hěn duō hǎowánr de Wànshèngjié zhuāngbàn.",
+      "english": "We saw lots of fun Halloween costumes.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1411",
+      "hanzi": "动画片",
+      "pinyin": "dònghuàpiàn",
+      "english": "cartoon / animated film",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1412",
+      "hanzi": "人物",
+      "pinyin": "rénwù",
+      "english": "character / figure",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1413",
+      "hanzi": "我们装扮成动画片里的人物。",
+      "pinyin": "Wǒmen zhuāngbàn chéng dònghuàpiàn lǐ de rénwù.",
+      "english": "We dressed up as cartoon characters.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1414",
+      "hanzi": "午睡",
+      "pinyin": "wǔshuì",
+      "english": "nap / to take a nap",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1415",
+      "hanzi": "一会儿",
+      "pinyin": "yíhuìr",
+      "english": "a little while / a moment",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1416",
+      "hanzi": "睡了一会儿",
+      "pinyin": "shuì le yíhuìr",
+      "english": "slept for a little while",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1417",
+      "hanzi": "放松",
+      "pinyin": "fàngsōng",
+      "english": "to relax / relaxing",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1418",
+      "hanzi": "很开心和放松的周末",
+      "pinyin": "hěn kāixīn hé fàngsōng de zhōumò",
+      "english": "a happy and relaxing weekend",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1419",
+      "hanzi": "强壮",
+      "pinyin": "qiángzhuàng",
+      "english": "strong / sturdy / muscular",
+      "type": "word",
+      "concept": "body_appearance",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1420",
+      "hanzi": "他很强壮。",
+      "pinyin": "Tā hěn qiángzhuàng.",
+      "english": "He’s very strong.",
+      "type": "sentence",
+      "concept": "body_appearance",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1421",
+      "hanzi": "有意思",
+      "pinyin": "yǒu yìsi",
+      "english": "interesting / fun",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1422",
+      "hanzi": "他很有意思。",
+      "pinyin": "Tā hěn yǒu yìsi.",
+      "english": "He’s interesting.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1423",
+      "hanzi": "搞笑",
+      "pinyin": "gǎoxiào",
+      "english": "funny / hilarious",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1424",
+      "hanzi": "他很搞笑。",
+      "pinyin": "Tā hěn gǎoxiào.",
+      "english": "He’s funny.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1425",
+      "hanzi": "哭",
+      "pinyin": "kū",
+      "english": "to cry",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1426",
+      "hanzi": "他很矮。",
+      "pinyin": "Tā hěn ǎi.",
+      "english": "He’s short.",
+      "type": "sentence",
+      "concept": "body_appearance",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1427",
+      "hanzi": "他头发很短。",
+      "pinyin": "Tā tóufa hěn duǎn.",
+      "english": "He has short hair.",
+      "type": "sentence",
+      "concept": "body_appearance",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1428",
+      "hanzi": "长短",
+      "pinyin": "chángduǎn",
+      "english": "length",
+      "type": "word",
+      "concept": "body_appearance",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1429",
+      "hanzi": "高高的",
+      "pinyin": "gāogāo de",
+      "english": "tall / high",
+      "type": "word",
+      "concept": "body_appearance",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1430",
+      "hanzi": "性感",
+      "pinyin": "xìnggǎn",
+      "english": "sexy",
+      "type": "word",
+      "concept": "body_appearance",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1431",
+      "hanzi": "嘴很性感",
+      "pinyin": "zuǐ hěn xìnggǎn",
+      "english": "has sexy lips",
+      "type": "word",
+      "concept": "body_appearance",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1432",
+      "hanzi": "嘴唇",
+      "pinyin": "zuǐchún",
+      "english": "lips",
+      "type": "word",
+      "concept": "body_appearance",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1433",
+      "hanzi": "红色",
+      "pinyin": "hóngsè",
+      "english": "red (color)",
+      "type": "word",
+      "concept": "objects",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1434",
+      "hanzi": "她的嘴唇是红色的。",
+      "pinyin": "Tā de zuǐchún shì hóngsè de.",
+      "english": "Her lips are red.",
+      "type": "sentence",
+      "concept": "body_appearance",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1435",
+      "hanzi": "她有很多钱。",
+      "pinyin": "Tā yǒu hěn duō qián.",
+      "english": "She has a lot of money.",
+      "type": "sentence",
+      "concept": "shopping",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1436",
+      "hanzi": "教练",
+      "pinyin": "jiàoliàn",
+      "english": "coach / instructor",
+      "type": "word",
+      "concept": "work_school",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1437",
+      "hanzi": "网球教练",
+      "pinyin": "wǎngqiú jiàoliàn",
+      "english": "tennis coach",
+      "type": "word",
+      "concept": "work_school",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1438",
+      "hanzi": "教",
+      "pinyin": "jiāo",
+      "english": "to teach",
+      "type": "word",
+      "concept": "work_school",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1439",
+      "hanzi": "我可以教你汉语。",
+      "pinyin": "Wǒ kěyǐ jiāo nǐ Hànyǔ.",
+      "english": "I can teach you Chinese.",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1440",
+      "hanzi": "可以",
+      "pinyin": "kěyǐ",
+      "english": "can / may / be allowed to",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-01"
     }
   ],
   "types": [
@@ -14965,6 +15366,12 @@
     }
   ],
   "dates": [
+    {
+      "id": "2026-11-01",
+      "label": "Nov 1, 2026",
+      "count": 37,
+      "description": "Halloween costumes, naps, physical & personality descriptions, modal verbs (会/能/可以), coaching"
+    },
     {
       "id": "2026-10-30",
       "label": "Oct 30, 2026",
