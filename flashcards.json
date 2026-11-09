@@ -1,8 +1,8 @@
 {
   "feed_version": "2.0.0",
   "version": "2.0.0",
-  "total_cards": 1440,
-  "last_updated": "2026-11-01",
+  "total_cards": 1485,
+  "last_updated": "2026-11-03",
   "concepts": [
     {
       "id": "all",
@@ -78,6 +78,11 @@
       "id": "body_appearance",
       "name": "Body & Appearance",
       "emoji": "👀"
+    },
+    {
+      "id": "clothing_colors",
+      "name": "Clothing & Colors",
+      "emoji": "👕"
     },
     {
       "id": "animals",
@@ -2380,6 +2385,86 @@
     "教": {
       "pinyin": "jiāo",
       "english": "to teach / religion"
+    },
+    "灰": {
+      "pinyin": "huī",
+      "english": "gray / ash / dust"
+    },
+    "律": {
+      "pinyin": "lǜ",
+      "english": "law / rule / discipline"
+    },
+    "演": {
+      "pinyin": "yǎn",
+      "english": "to act / to perform"
+    },
+    "裙": {
+      "pinyin": "qún",
+      "english": "skirt / dress"
+    },
+    "浅": {
+      "pinyin": "qiǎn",
+      "english": "light (color) / shallow"
+    },
+    "衬": {
+      "pinyin": "chèn",
+      "english": "shirt / inner garment / to line"
+    },
+    "衫": {
+      "pinyin": "shān",
+      "english": "shirt / garment"
+    },
+    "套": {
+      "pinyin": "tào",
+      "english": "set / suit / cover"
+    },
+    "深": {
+      "pinyin": "shēn",
+      "english": "dark (color) / deep"
+    },
+    "恤": {
+      "pinyin": "xù",
+      "english": "T-shirt (phonetic) / sympathy"
+    },
+    "黑": {
+      "pinyin": "hēi",
+      "english": "black / dark"
+    },
+    "连": {
+      "pinyin": "lián",
+      "english": "connected / attached / even"
+    },
+    "帽": {
+      "pinyin": "mào",
+      "english": "hat / cap / hood"
+    },
+    "裤": {
+      "pinyin": "kù",
+      "english": "pants / trousers"
+    },
+    "鞋": {
+      "pinyin": "xié",
+      "english": "shoe"
+    },
+    "双": {
+      "pinyin": "shuāng",
+      "english": "pair / double"
+    },
+    "白": {
+      "pinyin": "bái",
+      "english": "white / blank"
+    },
+    "棕": {
+      "pinyin": "zōng",
+      "english": "brown / palm"
+    },
+    "戴": {
+      "pinyin": "dài",
+      "english": "to wear (accessories: glasses, hat, watch)"
+    },
+    "镜": {
+      "pinyin": "jìng",
+      "english": "mirror / lens / glasses"
     }
   },
   "cards": [
@@ -9259,7 +9344,7 @@
       "pinyin": "chéngsè",
       "english": "orange (color)",
       "type": "word",
-      "concept": "objects",
+      "concept": "clothing_colors",
       "date_added": "2026-10-04"
     },
     {
@@ -9286,7 +9371,7 @@
       "pinyin": "lánsè",
       "english": "blue (color)",
       "type": "word",
-      "concept": "objects",
+      "concept": "clothing_colors",
       "date_added": "2026-10-04"
     },
     {
@@ -9295,7 +9380,7 @@
       "pinyin": "yánsè",
       "english": "color",
       "type": "word",
-      "concept": "objects",
+      "concept": "clothing_colors",
       "date_added": "2026-10-04"
     },
     {
@@ -11806,7 +11891,7 @@
       "pinyin": "hóng",
       "english": "red",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "clothing_colors",
       "date_added": "2026-10-11"
     },
     {
@@ -11824,7 +11909,7 @@
       "pinyin": "lǜ",
       "english": "green",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "clothing_colors",
       "date_added": "2026-10-11"
     },
     {
@@ -15037,7 +15122,7 @@
       "pinyin": "chuān",
       "english": "to wear / to put on",
       "type": "word",
-      "concept": "verbs_adjectives",
+      "concept": "clothing_colors",
       "date_added": "2026-11-01"
     },
     {
@@ -15046,7 +15131,7 @@
       "pinyin": "yīfu",
       "english": "clothes / clothing",
       "type": "word",
-      "concept": "objects",
+      "concept": "clothing_colors",
       "date_added": "2026-11-01"
     },
     {
@@ -15064,7 +15149,7 @@
       "pinyin": "zhuāngbàn",
       "english": "costume / to dress up",
       "type": "word",
-      "concept": "objects",
+      "concept": "clothing_colors",
       "date_added": "2026-11-01"
     },
     {
@@ -15280,7 +15365,7 @@
       "pinyin": "hóngsè",
       "english": "red (color)",
       "type": "word",
-      "concept": "objects",
+      "concept": "clothing_colors",
       "date_added": "2026-11-01"
     },
     {
@@ -15345,6 +15430,411 @@
       "type": "word",
       "concept": "verbs_adjectives",
       "date_added": "2026-11-01"
+    },
+    {
+      "id": "card_1441",
+      "hanzi": "我觉得今天太冷了。",
+      "pinyin": "Wǒ juéde jīntiān tài lěng le.",
+      "english": "I think it’s too cold today.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1442",
+      "hanzi": "你那里冬天也不冷，对吗？",
+      "pinyin": "Nǐ nàli dōngtiān yě bù lěng, duì ma?",
+      "english": "It’s not cold where you live in winter either, right?",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1443",
+      "hanzi": "对我来说",
+      "pinyin": "duì wǒ lái shuō",
+      "english": "for me / as far as I’m concerned",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1444",
+      "hanzi": "对我来说舒服的天气是20多度。",
+      "pinyin": "Duì wǒ lái shuō shūfu de tiānqì shì èrshí duō dù.",
+      "english": "For me, comfortable weather is in the 20s (°C).",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1445",
+      "hanzi": "左右",
+      "pinyin": "zuǒyòu",
+      "english": "around / approximately / or so",
+      "type": "word",
+      "concept": "numbers",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1446",
+      "hanzi": "对我来说20度左右很舒服。",
+      "pinyin": "Duì wǒ lái shuō èrshí dù zuǒyòu hěn shūfu.",
+      "english": "Around 20°C is very comfortable for me.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1447",
+      "hanzi": "他头发是什么颜色？",
+      "pinyin": "Tā tóufa shì shénme yánsè?",
+      "english": "What color is his hair?",
+      "type": "sentence",
+      "concept": "body_appearance",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1448",
+      "hanzi": "灰色",
+      "pinyin": "huīsè",
+      "english": "gray",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1449",
+      "hanzi": "他头发很短，是灰色的。",
+      "pinyin": "Tā tóufa hěn duǎn, shì huīsè de.",
+      "english": "He has short gray hair.",
+      "type": "sentence",
+      "concept": "body_appearance",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1450",
+      "hanzi": "律师",
+      "pinyin": "lǜshī",
+      "english": "lawyer",
+      "type": "word",
+      "concept": "work_school",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1451",
+      "hanzi": "法律",
+      "pinyin": "fǎlǜ",
+      "english": "law",
+      "type": "word",
+      "concept": "work_school",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1452",
+      "hanzi": "演员",
+      "pinyin": "yǎnyuán",
+      "english": "actor / performer",
+      "type": "word",
+      "concept": "work_school",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1453",
+      "hanzi": "女演员",
+      "pinyin": "nǚ yǎnyuán",
+      "english": "actress",
+      "type": "word",
+      "concept": "work_school",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1454",
+      "hanzi": "男演员",
+      "pinyin": "nán yǎnyuán",
+      "english": "actor",
+      "type": "word",
+      "concept": "work_school",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1455",
+      "hanzi": "裙子",
+      "pinyin": "qúnzi",
+      "english": "dress / skirt",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1456",
+      "hanzi": "她穿一条蓝色的裙子。",
+      "pinyin": "Tā chuān yì tiáo lánsè de qúnzi.",
+      "english": "She’s wearing a blue dress.",
+      "type": "sentence",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1457",
+      "hanzi": "浅蓝色",
+      "pinyin": "qiǎnlánsè",
+      "english": "light blue",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1458",
+      "hanzi": "衬衫",
+      "pinyin": "chènshān",
+      "english": "shirt / dress shirt",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1459",
+      "hanzi": "西装",
+      "pinyin": "xīzhuāng",
+      "english": "suit / Western-style suit",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1460",
+      "hanzi": "他穿一件浅蓝色的衬衫和一套西装。",
+      "pinyin": "Tā chuān yí jiàn qiǎnlánsè de chènshān hé yí tào xīzhuāng.",
+      "english": "He’s wearing a light blue shirt and a suit.",
+      "type": "sentence",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1461",
+      "hanzi": "深蓝色",
+      "pinyin": "shēnlánsè",
+      "english": "dark blue",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1462",
+      "hanzi": "T恤",
+      "pinyin": "T-xù",
+      "english": "T-shirt",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1463",
+      "hanzi": "深蓝色的T恤",
+      "pinyin": "shēnlánsè de T-xù",
+      "english": "a dark blue T-shirt",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1464",
+      "hanzi": "黑色",
+      "pinyin": "hēisè",
+      "english": "black",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1465",
+      "hanzi": "外套",
+      "pinyin": "wàitào",
+      "english": "coat / jacket / outerwear",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1466",
+      "hanzi": "一件黑色外套",
+      "pinyin": "yí jiàn hēisè wàitào",
+      "english": "a black jacket",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1467",
+      "hanzi": "连帽衫",
+      "pinyin": "liánmàoshān",
+      "english": "hoodie",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1468",
+      "hanzi": "裤子",
+      "pinyin": "kùzi",
+      "english": "pants / trousers",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1469",
+      "hanzi": "一条裤子",
+      "pinyin": "yì tiáo kùzi",
+      "english": "a pair of pants",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1470",
+      "hanzi": "鞋",
+      "pinyin": "xié",
+      "english": "shoe",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1471",
+      "hanzi": "双",
+      "pinyin": "shuāng",
+      "english": "pair (measure word)",
+      "type": "word",
+      "concept": "numbers",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1472",
+      "hanzi": "一双鞋",
+      "pinyin": "yì shuāng xié",
+      "english": "a pair of shoes",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1473",
+      "hanzi": "一双手",
+      "pinyin": "yì shuāng shǒu",
+      "english": "a pair of hands",
+      "type": "word",
+      "concept": "body_appearance",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1474",
+      "hanzi": "一只手",
+      "pinyin": "yì zhī shǒu",
+      "english": "one hand",
+      "type": "word",
+      "concept": "body_appearance",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1475",
+      "hanzi": "一只眼睛",
+      "pinyin": "yì zhī yǎnjīng",
+      "english": "one eye",
+      "type": "word",
+      "concept": "body_appearance",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1476",
+      "hanzi": "深浅",
+      "pinyin": "shēnqiǎn",
+      "english": "lightness and darkness / shades",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1477",
+      "hanzi": "白色",
+      "pinyin": "báisè",
+      "english": "white",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1478",
+      "hanzi": "棕色",
+      "pinyin": "zōngsè",
+      "english": "brown",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1479",
+      "hanzi": "浅色",
+      "pinyin": "qiǎnsè",
+      "english": "light color",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1480",
+      "hanzi": "深色",
+      "pinyin": "shēnsè",
+      "english": "dark color",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1481",
+      "hanzi": "戴",
+      "pinyin": "dài",
+      "english": "to wear (accessories: glasses, hat, etc.)",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1482",
+      "hanzi": "眼镜",
+      "pinyin": "yǎnjìng",
+      "english": "glasses / eyeglasses",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1483",
+      "hanzi": "戴眼镜",
+      "pinyin": "dài yǎnjìng",
+      "english": "to wear glasses",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1484",
+      "hanzi": "你今年多大？",
+      "pinyin": "Nǐ jīnnián duō dà?",
+      "english": "How old are you this year?",
+      "type": "sentence",
+      "concept": "introductions",
+      "date_added": "2026-11-03"
+    },
+    {
+      "id": "card_1485",
+      "hanzi": "你喜不喜欢看电影？",
+      "pinyin": "Nǐ xǐ bu xǐhuan kàn diànyǐng?",
+      "english": "Do you like watching movies?",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-03"
     }
   ],
   "types": [
@@ -15366,6 +15856,12 @@
     }
   ],
   "dates": [
+    {
+      "id": "2026-11-03",
+      "label": "Nov 3, 2026",
+      "count": 45,
+      "description": "Comfortable weather, clothing & outfits, colors & shades, professions (lawyer/actor), wearing glasses"
+    },
     {
       "id": "2026-11-01",
       "label": "Nov 1, 2026",
