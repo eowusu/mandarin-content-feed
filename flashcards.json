@@ -1,8 +1,8 @@
 {
   "feed_version": "2.0.0",
   "version": "2.0.0",
-  "total_cards": 1543,
-  "last_updated": "2026-11-05",
+  "total_cards": 1570,
+  "last_updated": "2026-11-08",
   "concepts": [
     {
       "id": "all",
@@ -2509,6 +2509,10 @@
     "拍": {
       "pinyin": "pāi",
       "english": "to take (a photo) / to clap / to pat"
+    },
+    "跟": {
+      "pinyin": "gēn",
+      "english": "with / and / to follow"
     }
   },
   "cards": [
@@ -16401,6 +16405,249 @@
       "type": "sentence",
       "concept": "time",
       "date_added": "2026-11-05"
+    },
+    {
+      "id": "card_1544",
+      "hanzi": "睡了一会儿。",
+      "pinyin": "Shuì le yíhuìr.",
+      "english": "I slept for a little while.",
+      "type": "sentence",
+      "concept": "time",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1545",
+      "hanzi": "我加了一会儿班。",
+      "pinyin": "Wǒ jiā le yíhuìr bān.",
+      "english": "I worked overtime for a little while.",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1546",
+      "hanzi": "分钟",
+      "pinyin": "fēnzhōng",
+      "english": "minute",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1547",
+      "hanzi": "我上50分钟中文课。",
+      "pinyin": "Wǒ shàng wǔshí fēnzhōng Zhōngwén kè.",
+      "english": "I have a 50-minute Chinese lesson.",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1548",
+      "hanzi": "小时",
+      "pinyin": "xiǎoshí",
+      "english": "hour",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1549",
+      "hanzi": "一个小时",
+      "pinyin": "yí gè xiǎoshí",
+      "english": "one hour",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1550",
+      "hanzi": "我在家健身。",
+      "pinyin": "Wǒ zài jiā jiànshēn.",
+      "english": "I work out at home.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1551",
+      "hanzi": "你以前有健身教练吗？",
+      "pinyin": "Nǐ yǐqián yǒu jiànshēn jiàoliàn ma?",
+      "english": "Did you have a personal trainer before?",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1552",
+      "hanzi": "你周末休息吗？",
+      "pinyin": "Nǐ zhōumò xiūxi ma?",
+      "english": "Do you have weekends off?",
+      "type": "sentence",
+      "concept": "time",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1553",
+      "hanzi": "你周末休息做什么了？",
+      "pinyin": "Nǐ zhōumò xiūxi zuò shénme le?",
+      "english": "What did you do over the weekend?",
+      "type": "sentence",
+      "concept": "time",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1554",
+      "hanzi": "电影院",
+      "pinyin": "diànyǐngyuàn",
+      "english": "cinema / movie theater",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1555",
+      "hanzi": "去电影院看电影了。",
+      "pinyin": "Qù diànyǐngyuàn kàn diànyǐng le.",
+      "english": "I went to the cinema to watch a movie.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1556",
+      "hanzi": "见朋友",
+      "pinyin": "jiàn péngyou",
+      "english": "to see a friend / meet friends",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1557",
+      "hanzi": "去见朋友。",
+      "pinyin": "Qù jiàn péngyou.",
+      "english": "I went to see a friend.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1558",
+      "hanzi": "跟",
+      "pinyin": "gēn",
+      "english": "with / and / to follow",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1559",
+      "hanzi": "我跟朋友一起吃了饭。",
+      "pinyin": "Wǒ gēn péngyou yìqǐ chī le fàn.",
+      "english": "I had a meal with a friend.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1560",
+      "hanzi": "别担心。",
+      "pinyin": "Bié dānxīn.",
+      "english": "Don’t worry.",
+      "type": "sentence",
+      "concept": "phrases",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1561",
+      "hanzi": "Polo衫",
+      "pinyin": "Polo shān",
+      "english": "polo shirt",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1562",
+      "hanzi": "件",
+      "pinyin": "jiàn",
+      "english": "measure word for tops, shirts, coats, and matters",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1563",
+      "hanzi": "条",
+      "pinyin": "tiáo",
+      "english": "measure word for pants, skirts, dresses, and long items",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1564",
+      "hanzi": "一条白色的裤子",
+      "pinyin": "yì tiáo báisè de kùzi",
+      "english": "a pair of white trousers",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1565",
+      "hanzi": "他穿一件深蓝色的Polo衫和一条白色的裤子。",
+      "pinyin": "Tā chuān yí jiàn shēnlánsè de Polo shān hé yì tiáo báisè de kùzi.",
+      "english": "He’s wearing a dark blue polo shirt and a pair of white trousers.",
+      "type": "sentence",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1566",
+      "hanzi": "绿色",
+      "pinyin": "lǜsè",
+      "english": "green",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1567",
+      "hanzi": "他的鞋是绿色的。",
+      "pinyin": "Tā de xié shì lǜsè de.",
+      "english": "His shoes are green.",
+      "type": "sentence",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1568",
+      "hanzi": "短裤",
+      "pinyin": "duǎnkù",
+      "english": "shorts",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1569",
+      "hanzi": "一样",
+      "pinyin": "yíyàng",
+      "english": "the same / alike",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1570",
+      "hanzi": "她头发和妈妈的头发颜色一样。",
+      "pinyin": "Tā tóufa hé māma de tóufa yánsè yíyàng.",
+      "english": "Her hair is the same color as her mom’s.",
+      "type": "sentence",
+      "concept": "body_appearance",
+      "date_added": "2026-11-08"
     }
   ],
   "types": [
@@ -16422,6 +16669,12 @@
     }
   ],
   "dates": [
+    {
+      "id": "2026-11-08",
+      "label": "Nov 8, 2026",
+      "count": 27,
+      "description": "Duration (一会儿/小时/分钟), weekend activities, cinema & friends, clothing measure words (件/条), shorts & colors"
+    },
     {
       "id": "2026-11-05",
       "label": "Nov 5, 2026",
