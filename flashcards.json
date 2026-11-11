@@ -128,11 +128,13 @@
     },
     "上": {
       "pinyin": "shàng",
-      "english": "up / previous"
+      "english": "up / previous",
+      "antonym": "下"
     },
     "下": {
       "pinyin": "xià",
-      "english": "down / next"
+      "english": "down / next",
+      "antonym": "上"
     },
     "不": {
       "pinyin": "bù",
@@ -140,7 +142,8 @@
     },
     "东": {
       "pinyin": "dōng",
-      "english": "east"
+      "english": "east",
+      "antonym": "西"
     },
     "两": {
       "pinyin": "liǎng",
@@ -208,7 +211,8 @@
     },
     "买": {
       "pinyin": "mǎi",
-      "english": "to buy / to purchase"
+      "english": "to buy / to purchase",
+      "antonym": "卖"
     },
     "了": {
       "pinyin": "le",
@@ -264,7 +268,8 @@
     },
     "他": {
       "pinyin": "tā",
-      "english": "he / him"
+      "english": "he / him",
+      "antonym": "她"
     },
     "以": {
       "pinyin": "yǐ",
@@ -340,7 +345,8 @@
     },
     "先": {
       "pinyin": "xiān",
-      "english": "first / before"
+      "english": "first / before",
+      "antonym": "后"
     },
     "克": {
       "pinyin": "kè",
@@ -364,7 +370,8 @@
     },
     "关": {
       "pinyin": "guān",
-      "english": "close / relate"
+      "english": "close / relate",
+      "antonym": "开"
     },
     "兴": {
       "pinyin": "xìng",
@@ -384,7 +391,8 @@
     },
     "冰": {
       "pinyin": "bīng",
-      "english": "ice, cold"
+      "english": "ice, cold",
+      "antonym": "火"
     },
     "几": {
       "pinyin": "jǐ",
@@ -392,7 +400,8 @@
     },
     "出": {
       "pinyin": "chū",
-      "english": "to go out / to emerge / to produce"
+      "english": "to go out / to emerge / to produce",
+      "antonym": "进"
     },
     "分": {
       "pinyin": "fēn",
@@ -400,7 +409,8 @@
     },
     "初": {
       "pinyin": "chū",
-      "english": "beginning / early / junior (in 初中)"
+      "english": "beginning / early / junior (in 初中)",
+      "antonym": "末"
     },
     "利": {
       "pinyin": "lì",
@@ -420,7 +430,8 @@
     },
     "前": {
       "pinyin": "qián",
-      "english": "before / front"
+      "english": "before / front",
+      "antonym": "后"
     },
     "力": {
       "pinyin": "lì",
@@ -444,7 +455,8 @@
     },
     "北": {
       "pinyin": "běi",
-      "english": "north"
+      "english": "north",
+      "antonym": "南"
     },
     "医": {
       "pinyin": "yī",
@@ -476,11 +488,13 @@
     },
     "卖": {
       "pinyin": "mài",
-      "english": "to sell"
+      "english": "to sell",
+      "antonym": "买"
     },
     "南": {
       "pinyin": "nán",
-      "english": "south"
+      "english": "south",
+      "antonym": "北"
     },
     "卫": {
       "pinyin": "wèi",
@@ -496,7 +510,8 @@
     },
     "去": {
       "pinyin": "qù",
-      "english": "go / past"
+      "english": "go / past",
+      "antonym": "来"
     },
     "及": {
       "pinyin": "jí",
@@ -508,11 +523,13 @@
     },
     "发": {
       "pinyin": "fā",
-      "english": "to send out / issue / develop / hair"
+      "english": "to send out / issue / develop / hair",
+      "antonym": "收"
     },
     "叔": {
       "pinyin": "shū",
-      "english": "uncle, father's younger brother"
+      "english": "uncle, father's younger brother",
+      "antonym": "伯"
     },
     "口": {
       "pinyin": "kǒu",
@@ -536,7 +553,8 @@
     },
     "右": {
       "pinyin": "yòu",
-      "english": "right (direction)"
+      "english": "right (direction)",
+      "antonym": "左"
     },
     "号": {
       "pinyin": "hào",
@@ -560,7 +578,8 @@
     },
     "后": {
       "pinyin": "hòu",
-      "english": "after / behind"
+      "english": "after / behind",
+      "antonym": "前"
     },
     "吗": {
       "pinyin": "ma",
@@ -604,7 +623,8 @@
     },
     "哥": {
       "pinyin": "gē",
-      "english": "elder brother"
+      "english": "elder brother",
+      "antonym": "弟"
     },
     "哪": {
       "pinyin": "nǎ",
@@ -640,7 +660,8 @@
     },
     "因": {
       "pinyin": "yīn",
-      "english": "cause / reason / because"
+      "english": "cause / reason / because",
+      "antonym": "果"
     },
     "团": {
       "pinyin": "tuán",
@@ -664,7 +685,8 @@
     },
     "地": {
       "pinyin": "dì",
-      "english": "earth"
+      "english": "earth",
+      "antonym": "天"
     },
     "场": {
       "pinyin": "chǎng",
@@ -688,23 +710,28 @@
     },
     "夏": {
       "pinyin": "xià",
-      "english": "summer"
+      "english": "summer",
+      "antonym": "冬"
     },
     "外": {
       "pinyin": "wài",
-      "english": "outside, foreign, external"
+      "english": "outside, foreign, external",
+      "antonym": "里"
     },
     "多": {
       "pinyin": "duō",
-      "english": "many / much"
+      "english": "many / much",
+      "antonym": "少"
     },
     "大": {
       "pinyin": "dà",
-      "english": "big"
+      "english": "big",
+      "antonym": "小"
     },
     "天": {
       "pinyin": "tiān",
-      "english": "day / sky"
+      "english": "day / sky",
+      "antonym": "地"
     },
     "太": {
       "pinyin": "tài",
@@ -716,15 +743,18 @@
     },
     "女": {
       "pinyin": "nǚ",
-      "english": "female, woman"
+      "english": "female, woman",
+      "antonym": "男"
     },
     "奶": {
       "pinyin": "nǎi",
-      "english": "milk / breasts / grandmother"
+      "english": "milk / breasts / grandmother",
+      "antonym": "爷"
     },
     "她": {
       "pinyin": "tā",
-      "english": "she / her"
+      "english": "she / her",
+      "antonym": "他"
     },
     "好": {
       "pinyin": "hǎo",
@@ -736,15 +766,18 @@
     },
     "妈": {
       "pinyin": "mā",
-      "english": "mother, mom"
+      "english": "mother, mom",
+      "antonym": "爸"
     },
     "妹": {
       "pinyin": "mèi",
-      "english": "younger sister"
+      "english": "younger sister",
+      "antonym": "姐"
     },
     "姐": {
       "pinyin": "jiě",
-      "english": "older sister"
+      "english": "older sister",
+      "antonym": "妹"
     },
     "姨": {
       "pinyin": "yí",
@@ -760,11 +793,13 @@
     },
     "学": {
       "pinyin": "xué",
-      "english": "study / learn"
+      "english": "study / learn",
+      "antonym": "教"
     },
     "完": {
       "pinyin": "wán",
-      "english": "to finish, complete, end"
+      "english": "to finish, complete, end",
+      "antonym": "始"
     },
     "定": {
       "pinyin": "dìng",
@@ -788,7 +823,8 @@
     },
     "对": {
       "pinyin": "duì",
-      "english": "correct / towards"
+      "english": "correct / towards",
+      "antonym": "错"
     },
     "导": {
       "pinyin": "dǎo",
@@ -796,11 +832,13 @@
     },
     "小": {
       "pinyin": "xiǎo",
-      "english": "small / little"
+      "english": "small / little",
+      "antonym": "大"
     },
     "少": {
       "pinyin": "shǎo",
-      "english": "few / little"
+      "english": "few / little",
+      "antonym": "多"
     },
     "就": {
       "pinyin": "jiù",
@@ -820,7 +858,8 @@
     },
     "左": {
       "pinyin": "zuǒ",
-      "english": "left (direction)"
+      "english": "left (direction)",
+      "antonym": "右"
     },
     "巧": {
       "pinyin": "qiǎo",
@@ -856,7 +895,8 @@
     },
     "干": {
       "pinyin": "gān",
-      "english": "dry / clean (as in 饼干 cookie)"
+      "english": "dry / clean (as in 饼干 cookie)",
+      "antonym": "湿"
     },
     "年": {
       "pinyin": "nián",
@@ -868,11 +908,13 @@
     },
     "开": {
       "pinyin": "kāi",
-      "english": "to open / operate / start"
+      "english": "to open / operate / start",
+      "antonym": "关"
     },
     "弟": {
       "pinyin": "dì",
-      "english": "younger brother"
+      "english": "younger brother",
+      "antonym": "哥"
     },
     "当": {
       "pinyin": "dāng",
@@ -976,7 +1018,8 @@
     },
     "收": {
       "pinyin": "shōu",
-      "english": "to receive, collect"
+      "english": "to receive, collect",
+      "antonym": "发"
     },
     "敦": {
       "pinyin": "dūn",
@@ -1004,15 +1047,18 @@
     },
     "日": {
       "pinyin": "rì",
-      "english": "day / sun"
+      "english": "day / sun",
+      "antonym": "月"
     },
     "旧": {
       "pinyin": "jiù",
-      "english": "old, past, former (as in 旧金山)"
+      "english": "old, past, former (as in 旧金山)",
+      "antonym": "新"
     },
     "早": {
       "pinyin": "zǎo",
-      "english": "early / morning"
+      "english": "early / morning",
+      "antonym": "晚"
     },
     "时": {
       "pinyin": "shí",
@@ -1020,7 +1066,8 @@
     },
     "明": {
       "pinyin": "míng",
-      "english": "tomorrow / bright"
+      "english": "tomorrow / bright",
+      "antonym": "昨"
     },
     "星": {
       "pinyin": "xīng",
@@ -1028,23 +1075,28 @@
     },
     "昨": {
       "pinyin": "zuó",
-      "english": "yesterday"
+      "english": "yesterday",
+      "antonym": "明"
     },
     "是": {
       "pinyin": "shì",
-      "english": "is / are / am"
+      "english": "is / are / am",
+      "antonym": "非"
     },
     "晚": {
       "pinyin": "wǎn",
-      "english": "late / night"
+      "english": "late / night",
+      "antonym": "早"
     },
     "月": {
       "pinyin": "yuè",
-      "english": "month / moon"
+      "english": "month / moon",
+      "antonym": "日"
     },
     "有": {
       "pinyin": "yǒu",
-      "english": "have"
+      "english": "have",
+      "antonym": "没"
     },
     "朋": {
       "pinyin": "péng",
@@ -1060,7 +1112,8 @@
     },
     "末": {
       "pinyin": "mò",
-      "english": "end / final"
+      "english": "end / final",
+      "antonym": "初"
     },
     "本": {
       "pinyin": "běn",
@@ -1076,7 +1129,8 @@
     },
     "来": {
       "pinyin": "lái",
-      "english": "to come / arrive"
+      "english": "to come / arrive",
+      "antonym": "去"
     },
     "杯": {
       "pinyin": "bēi",
@@ -1088,7 +1142,8 @@
     },
     "果": {
       "pinyin": "guǒ",
-      "english": "fruit"
+      "english": "fruit",
+      "antonym": "因"
     },
     "校": {
       "pinyin": "xiào",
@@ -1152,7 +1207,8 @@
     },
     "没": {
       "pinyin": "méi",
-      "english": "have not / no"
+      "english": "have not / no",
+      "antonym": "有"
     },
     "泉": {
       "pinyin": "quán",
@@ -1204,7 +1260,8 @@
     },
     "火": {
       "pinyin": "huǒ",
-      "english": "fire"
+      "english": "fire",
+      "antonym": "冰"
     },
     "点": {
       "pinyin": "diǎn",
@@ -1216,7 +1273,8 @@
     },
     "热": {
       "pinyin": "rè",
-      "english": "hot"
+      "english": "hot",
+      "antonym": "冷"
     },
     "然": {
       "pinyin": "rán",
@@ -1224,7 +1282,8 @@
     },
     "爸": {
       "pinyin": "bà",
-      "english": "father, dad"
+      "english": "father, dad",
+      "antonym": "妈"
     },
     "牙": {
       "pinyin": "yá",
@@ -1288,7 +1347,8 @@
     },
     "男": {
       "pinyin": "nán",
-      "english": "male, man"
+      "english": "male, man",
+      "antonym": "女"
     },
     "百": {
       "pinyin": "bǎi",
@@ -1344,7 +1404,8 @@
     },
     "秋": {
       "pinyin": "qiū",
-      "english": "autumn / fall (season)"
+      "english": "autumn / fall (season)",
+      "antonym": "春"
     },
     "种": {
       "pinyin": "zhǒng",
@@ -1544,7 +1605,8 @@
     },
     "西": {
       "pinyin": "xī",
-      "english": "west"
+      "english": "west",
+      "antonym": "东"
     },
     "要": {
       "pinyin": "yào",
@@ -1668,11 +1730,13 @@
     },
     "这": {
       "pinyin": "zhè",
-      "english": "this"
+      "english": "this",
+      "antonym": "那"
     },
     "进": {
       "pinyin": "jìn",
-      "english": "to advance / enter / come in"
+      "english": "to advance / enter / come in",
+      "antonym": "出"
     },
     "遍": {
       "pinyin": "biàn",
@@ -1684,7 +1748,8 @@
     },
     "那": {
       "pinyin": "nà",
-      "english": "that"
+      "english": "that",
+      "antonym": "这"
     },
     "邮": {
       "pinyin": "yóu",
@@ -1700,7 +1765,8 @@
     },
     "里": {
       "pinyin": "lǐ",
-      "english": "inside / place"
+      "english": "inside / place",
+      "antonym": "外"
     },
     "金": {
       "pinyin": "jīn",
@@ -1800,7 +1866,8 @@
     },
     "高": {
       "pinyin": "gāo",
-      "english": "tall / high"
+      "english": "tall / high",
+      "antonym": "矮"
     },
     "鸟": {
       "pinyin": "niǎo",
@@ -1824,11 +1891,13 @@
     },
     "伯": {
       "pinyin": "bó",
-      "english": "father's elder brother / uncle"
+      "english": "father's elder brother / uncle",
+      "antonym": "叔"
     },
     "脱": {
       "pinyin": "tuō",
-      "english": "to take off / to shed / to escape"
+      "english": "to take off / to shed / to escape",
+      "antonym": "穿"
     },
     "次": {
       "pinyin": "cì",
@@ -1852,11 +1921,13 @@
     },
     "妻": {
       "pinyin": "qī",
-      "english": "wife"
+      "english": "wife",
+      "antonym": "夫"
     },
     "夫": {
       "pinyin": "fū",
-      "english": "husband / man"
+      "english": "husband / man",
+      "antonym": "妻"
     },
     "姑": {
       "pinyin": "gū",
@@ -1864,7 +1935,8 @@
     },
     "爷": {
       "pinyin": "yé",
-      "english": "paternal grandfather / old gentleman"
+      "english": "paternal grandfather / old gentleman",
+      "antonym": "奶"
     },
     "秀": {
       "pinyin": "xiù",
@@ -1876,7 +1948,8 @@
     },
     "冬": {
       "pinyin": "dōng",
-      "english": "winter"
+      "english": "winter",
+      "antonym": "夏"
     },
     "比": {
       "pinyin": "bǐ",
@@ -1884,7 +1957,8 @@
     },
     "春": {
       "pinyin": "chūn",
-      "english": "spring / joyful"
+      "english": "spring / joyful",
+      "antonym": "秋"
     },
     "更": {
       "pinyin": "gèng",
@@ -1908,7 +1982,8 @@
     },
     "冷": {
       "pinyin": "lěng",
-      "english": "cold / chilly"
+      "english": "cold / chilly",
+      "antonym": "热"
     },
     "最": {
       "pinyin": "zuì",
@@ -1936,7 +2011,8 @@
     },
     "长": {
       "pinyin": "zhǎng / cháng",
-      "english": "to grow / elder (zhǎng); long (cháng)"
+      "english": "to grow / elder (zhǎng); long (cháng)",
+      "antonym": "短"
     },
     "蛋": {
       "pinyin": "dàn",
@@ -1964,7 +2040,8 @@
     },
     "湿": {
       "pinyin": "shī",
-      "english": "wet / damp / humid"
+      "english": "wet / damp / humid",
+      "antonym": "干"
     },
     "红": {
       "pinyin": "hóng",
@@ -2016,7 +2093,8 @@
     },
     "近": {
       "pinyin": "jìn",
-      "english": "near / close / recent (as in 最近)"
+      "english": "near / close / recent (as in 最近)",
+      "antonym": "远"
     },
     "园": {
       "pinyin": "yuán",
@@ -2156,11 +2234,13 @@
     },
     "始": {
       "pinyin": "shǐ",
-      "english": "to begin / start (as in 开始)"
+      "english": "to begin / start (as in 开始)",
+      "antonym": "完"
     },
     "新": {
       "pinyin": "xīn",
-      "english": "new / fresh (as in 新课)"
+      "english": "new / fresh (as in 新课)",
+      "antonym": "旧"
     },
     "练": {
       "pinyin": "liàn",
@@ -2172,7 +2252,8 @@
     },
     "错": {
       "pinyin": "cuò",
-      "english": "wrong / mistake / bad"
+      "english": "wrong / mistake / bad",
+      "antonym": "对"
     },
     "寓": {
       "pinyin": "yù",
@@ -2208,7 +2289,8 @@
     },
     "胖": {
       "pinyin": "pàng",
-      "english": "fat / chubby / plump"
+      "english": "fat / chubby / plump",
+      "antonym": "瘦"
     },
     "眼": {
       "pinyin": "yǎn",
@@ -2256,15 +2338,18 @@
     },
     "矮": {
       "pinyin": "ǎi",
-      "english": "short (in stature) / low"
+      "english": "short (in stature) / low",
+      "antonym": "高"
     },
     "瘦": {
       "pinyin": "shòu",
-      "english": "thin / slim / lean"
+      "english": "thin / slim / lean",
+      "antonym": "胖"
     },
     "短": {
       "pinyin": "duǎn",
-      "english": "short (in length) / brief"
+      "english": "short (in length) / brief",
+      "antonym": "长"
     },
     "爱": {
       "pinyin": "ài",
@@ -2296,7 +2381,8 @@
     },
     "远": {
       "pinyin": "yuǎn",
-      "english": "far / distant"
+      "english": "far / distant",
+      "antonym": "近"
     },
     "钟": {
       "pinyin": "zhōng",
@@ -2324,7 +2410,8 @@
     },
     "穿": {
       "pinyin": "chuān",
-      "english": "to wear / to put on / to pierce"
+      "english": "to wear / to put on / to pierce",
+      "antonym": "脱"
     },
     "衣": {
       "pinyin": "yī",
@@ -2368,11 +2455,13 @@
     },
     "笑": {
       "pinyin": "xiào",
-      "english": "to laugh / to smile"
+      "english": "to laugh / to smile",
+      "antonym": "哭"
     },
     "哭": {
       "pinyin": "kū",
-      "english": "to cry / to weep"
+      "english": "to cry / to weep",
+      "antonym": "笑"
     },
     "性": {
       "pinyin": "xìng",
@@ -2384,7 +2473,8 @@
     },
     "教": {
       "pinyin": "jiāo",
-      "english": "to teach / religion"
+      "english": "to teach / religion",
+      "antonym": "学"
     },
     "灰": {
       "pinyin": "huī",
@@ -2404,7 +2494,8 @@
     },
     "浅": {
       "pinyin": "qiǎn",
-      "english": "light (color) / shallow"
+      "english": "light (color) / shallow",
+      "antonym": "深"
     },
     "衬": {
       "pinyin": "chèn",
@@ -2420,7 +2511,8 @@
     },
     "深": {
       "pinyin": "shēn",
-      "english": "dark (color) / deep"
+      "english": "dark (color) / deep",
+      "antonym": "浅"
     },
     "恤": {
       "pinyin": "xù",
@@ -2428,7 +2520,8 @@
     },
     "黑": {
       "pinyin": "hēi",
-      "english": "black / dark"
+      "english": "black / dark",
+      "antonym": "白"
     },
     "连": {
       "pinyin": "lián",
@@ -2452,7 +2545,8 @@
     },
     "白": {
       "pinyin": "bái",
-      "english": "white / blank"
+      "english": "white / blank",
+      "antonym": "黑"
     },
     "棕": {
       "pinyin": "zōng",
@@ -2496,7 +2590,8 @@
     },
     "非": {
       "pinyin": "fēi",
-      "english": "not / non- / extremely (in 非常)"
+      "english": "not / non- / extremely (in 非常)",
+      "antonym": "是"
     },
     "休": {
       "pinyin": "xiū",
