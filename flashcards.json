@@ -1,8 +1,8 @@
 {
   "feed_version": "2.0.0",
   "version": "2.0.0",
-  "total_cards": 1625,
-  "last_updated": "2026-11-11",
+  "total_cards": 1648,
+  "last_updated": "2026-11-13",
   "concepts": [
     {
       "id": "all",
@@ -2557,6 +2557,22 @@
     "唱": {
       "pinyin": "chàng",
       "english": "to sing"
+    },
+    "慢": {
+      "pinyin": "màn",
+      "english": "slow"
+    },
+    "店": {
+      "pinyin": "diàn",
+      "english": "shop / store / restaurant / inn"
+    },
+    "离": {
+      "pinyin": "lí",
+      "english": "away from / distant from / to leave"
+    },
+    "越": {
+      "pinyin": "yuè",
+      "english": "to exceed / Vietnam"
     }
   },
   "cards": [
@@ -17187,6 +17203,213 @@
       "type": "word",
       "concept": "sports_hobbies",
       "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1626",
+      "hanzi": "午饭",
+      "pinyin": "wǔfàn",
+      "english": "lunch",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1627",
+      "hanzi": "我中午跟同事一起吃了午饭。",
+      "pinyin": "Wǒ zhōngwǔ gēn tóngshì yìqǐ chī le wǔfàn.",
+      "english": "I had lunch with my colleagues at noon.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1628",
+      "hanzi": "我健身了40分钟。",
+      "pinyin": "Wǒ jiànshēn le sìshí fēnzhōng.",
+      "english": "I worked out for 40 minutes.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1629",
+      "hanzi": "多好",
+      "pinyin": "duō hǎo",
+      "english": "how good / how wonderful",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1630",
+      "hanzi": "快",
+      "pinyin": "kuài",
+      "english": "fast / quick",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1631",
+      "hanzi": "慢",
+      "pinyin": "màn",
+      "english": "slow",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1632",
+      "hanzi": "特别快",
+      "pinyin": "tèbié kuài",
+      "english": "very fast / especially fast",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1633",
+      "hanzi": "下中文课",
+      "pinyin": "xià Zhōngwén kè",
+      "english": "finish Chinese class",
+      "type": "word",
+      "concept": "work_school",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1634",
+      "hanzi": "下中文课，你打算做什么？",
+      "pinyin": "Xià Zhōngwén kè, nǐ dǎsuan zuò shénme?",
+      "english": "What are you planning to do after your Chinese class?",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1635",
+      "hanzi": "饭店",
+      "pinyin": "fàndiàn",
+      "english": "restaurant / hotel",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1636",
+      "hanzi": "你常常在那个饭店叫外卖吗？",
+      "pinyin": "Nǐ chángcháng zài nàge fàndiàn jiào wàimài ma?",
+      "english": "Do you often order takeout from that restaurant?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1637",
+      "hanzi": "去那个饭店吃饭的人多吗？",
+      "pinyin": "Qù nàge fàndiàn chīfàn de rén duō ma?",
+      "english": "Are there many people who go to that restaurant to eat?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1638",
+      "hanzi": "很多人去那个饭店吃饭。",
+      "pinyin": "Hěn duō rén qù nàge fàndiàn chīfàn.",
+      "english": "A lot of people go to that restaurant to eat.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1639",
+      "hanzi": "离",
+      "pinyin": "lí",
+      "english": "away from / distant from",
+      "type": "word",
+      "concept": "directions",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1640",
+      "hanzi": "那个饭店离你家远吗？",
+      "pinyin": "Nàge fàndiàn lí nǐ jiā yuǎn ma?",
+      "english": "Is that restaurant far from your home?",
+      "type": "sentence",
+      "concept": "directions",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1641",
+      "hanzi": "你怎么去那个饭店？",
+      "pinyin": "Nǐ zěnme qù nàge fàndiàn?",
+      "english": "How do you get to that restaurant?",
+      "type": "sentence",
+      "concept": "directions",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1642",
+      "hanzi": "中文歌",
+      "pinyin": "Zhōngwén gē",
+      "english": "Chinese song / Chinese songs",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1643",
+      "hanzi": "多听中文歌。",
+      "pinyin": "Duō tīng Zhōngwén gē.",
+      "english": "Listen to more Chinese songs.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1644",
+      "hanzi": "上网",
+      "pinyin": "shàngwǎng",
+      "english": "to go online / surf the internet",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1645",
+      "hanzi": "上次",
+      "pinyin": "shàngcì",
+      "english": "last time",
+      "type": "word",
+      "concept": "time",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1646",
+      "hanzi": "泰国",
+      "pinyin": "Tàiguó",
+      "english": "Thailand",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1647",
+      "hanzi": "越南",
+      "pinyin": "Yuènán",
+      "english": "Vietnam",
+      "type": "word",
+      "concept": "places",
+      "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1648",
+      "hanzi": "你上次去哪儿旅游了？",
+      "pinyin": "Nǐ shàngcì qù nǎr lǚyóu le?",
+      "english": "Where did you travel to last time?",
+      "type": "sentence",
+      "concept": "places",
+      "date_added": "2026-11-13"
     }
   ],
   "types": [
@@ -17208,6 +17431,12 @@
     }
   ],
   "dates": [
+    {
+      "id": "2026-11-13",
+      "label": "Nov 13, 2026",
+      "count": 23,
+      "description": "Restaurants & takeout (饭店/外卖), distance (离…远/近), fast & slow (快/慢), surfing the web (上网), travel destinations (泰国/越南)"
+    },
     {
       "id": "2026-11-11",
       "label": "Nov 11, 2026",
