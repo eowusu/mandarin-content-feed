@@ -1,8 +1,8 @@
 {
   "feed_version": "2.0.0",
   "version": "2.0.0",
-  "total_cards": 1570,
-  "last_updated": "2026-11-08",
+  "total_cards": 1625,
+  "last_updated": "2026-11-11",
   "concepts": [
     {
       "id": "all",
@@ -128,13 +128,11 @@
     },
     "上": {
       "pinyin": "shàng",
-      "english": "up / previous",
-      "antonym": "下"
+      "english": "up / previous"
     },
     "下": {
       "pinyin": "xià",
-      "english": "down / next",
-      "antonym": "上"
+      "english": "down / next"
     },
     "不": {
       "pinyin": "bù",
@@ -142,8 +140,7 @@
     },
     "东": {
       "pinyin": "dōng",
-      "english": "east",
-      "antonym": "西"
+      "english": "east"
     },
     "两": {
       "pinyin": "liǎng",
@@ -211,8 +208,7 @@
     },
     "买": {
       "pinyin": "mǎi",
-      "english": "to buy / to purchase",
-      "antonym": "卖"
+      "english": "to buy / to purchase"
     },
     "了": {
       "pinyin": "le",
@@ -268,8 +264,7 @@
     },
     "他": {
       "pinyin": "tā",
-      "english": "he / him",
-      "antonym": "她"
+      "english": "he / him"
     },
     "以": {
       "pinyin": "yǐ",
@@ -345,8 +340,7 @@
     },
     "先": {
       "pinyin": "xiān",
-      "english": "first / before",
-      "antonym": "后"
+      "english": "first / before"
     },
     "克": {
       "pinyin": "kè",
@@ -370,8 +364,7 @@
     },
     "关": {
       "pinyin": "guān",
-      "english": "close / relate",
-      "antonym": "开"
+      "english": "close / relate"
     },
     "兴": {
       "pinyin": "xìng",
@@ -391,8 +384,7 @@
     },
     "冰": {
       "pinyin": "bīng",
-      "english": "ice, cold",
-      "antonym": "火"
+      "english": "ice, cold"
     },
     "几": {
       "pinyin": "jǐ",
@@ -400,8 +392,7 @@
     },
     "出": {
       "pinyin": "chū",
-      "english": "to go out / to emerge / to produce",
-      "antonym": "进"
+      "english": "to go out / to emerge / to produce"
     },
     "分": {
       "pinyin": "fēn",
@@ -409,8 +400,7 @@
     },
     "初": {
       "pinyin": "chū",
-      "english": "beginning / early / junior (in 初中)",
-      "antonym": "末"
+      "english": "beginning / early / junior (in 初中)"
     },
     "利": {
       "pinyin": "lì",
@@ -430,8 +420,7 @@
     },
     "前": {
       "pinyin": "qián",
-      "english": "before / front",
-      "antonym": "后"
+      "english": "before / front"
     },
     "力": {
       "pinyin": "lì",
@@ -455,8 +444,7 @@
     },
     "北": {
       "pinyin": "běi",
-      "english": "north",
-      "antonym": "南"
+      "english": "north"
     },
     "医": {
       "pinyin": "yī",
@@ -488,13 +476,11 @@
     },
     "卖": {
       "pinyin": "mài",
-      "english": "to sell",
-      "antonym": "买"
+      "english": "to sell"
     },
     "南": {
       "pinyin": "nán",
-      "english": "south",
-      "antonym": "北"
+      "english": "south"
     },
     "卫": {
       "pinyin": "wèi",
@@ -510,8 +496,7 @@
     },
     "去": {
       "pinyin": "qù",
-      "english": "go / past",
-      "antonym": "来"
+      "english": "go / past"
     },
     "及": {
       "pinyin": "jí",
@@ -523,21 +508,19 @@
     },
     "发": {
       "pinyin": "fā",
-      "english": "to send out / issue / develop / hair",
-      "antonym": "收"
+      "english": "to send out / issue / develop / hair"
     },
     "叔": {
       "pinyin": "shū",
-      "english": "uncle, father's younger brother",
-      "antonym": "伯"
+      "english": "uncle, father's younger brother"
     },
     "口": {
       "pinyin": "kǒu",
       "english": "mouth, measure word for family"
     },
     "只": {
-      "pinyin": "zhī",
-      "english": "measure word for animals"
+      "pinyin": "zhǐ / zhī",
+      "english": "only / merely (zhǐ); measure word for animals (zhī)"
     },
     "叫": {
       "pinyin": "jiào",
@@ -553,8 +536,7 @@
     },
     "右": {
       "pinyin": "yòu",
-      "english": "right (direction)",
-      "antonym": "左"
+      "english": "right (direction)"
     },
     "号": {
       "pinyin": "hào",
@@ -578,8 +560,7 @@
     },
     "后": {
       "pinyin": "hòu",
-      "english": "after / behind",
-      "antonym": "前"
+      "english": "after / behind"
     },
     "吗": {
       "pinyin": "ma",
@@ -623,8 +604,7 @@
     },
     "哥": {
       "pinyin": "gē",
-      "english": "elder brother",
-      "antonym": "弟"
+      "english": "elder brother"
     },
     "哪": {
       "pinyin": "nǎ",
@@ -660,8 +640,7 @@
     },
     "因": {
       "pinyin": "yīn",
-      "english": "cause / reason / because",
-      "antonym": "果"
+      "english": "cause / reason / because"
     },
     "团": {
       "pinyin": "tuán",
@@ -685,8 +664,7 @@
     },
     "地": {
       "pinyin": "dì",
-      "english": "earth",
-      "antonym": "天"
+      "english": "earth"
     },
     "场": {
       "pinyin": "chǎng",
@@ -710,28 +688,23 @@
     },
     "夏": {
       "pinyin": "xià",
-      "english": "summer",
-      "antonym": "冬"
+      "english": "summer"
     },
     "外": {
       "pinyin": "wài",
-      "english": "outside, foreign, external",
-      "antonym": "里"
+      "english": "outside, foreign, external"
     },
     "多": {
       "pinyin": "duō",
-      "english": "many / much",
-      "antonym": "少"
+      "english": "many / much"
     },
     "大": {
       "pinyin": "dà",
-      "english": "big",
-      "antonym": "小"
+      "english": "big"
     },
     "天": {
       "pinyin": "tiān",
-      "english": "day / sky",
-      "antonym": "地"
+      "english": "day / sky"
     },
     "太": {
       "pinyin": "tài",
@@ -743,22 +716,19 @@
     },
     "女": {
       "pinyin": "nǚ",
-      "english": "female, woman",
-      "antonym": "男"
+      "english": "female, woman"
     },
     "奶": {
       "pinyin": "nǎi",
-      "english": "milk / breasts / grandmother",
-      "antonym": "爷"
+      "english": "milk / breasts / grandmother"
     },
     "她": {
       "pinyin": "tā",
-      "english": "she / her",
-      "antonym": "他"
+      "english": "she / her"
     },
     "好": {
-      "pinyin": "hǎo",
-      "english": "good"
+      "pinyin": "hǎo / hào",
+      "english": "good / well (hǎo); to be fond of / hobby (hào)"
     },
     "如": {
       "pinyin": "rú",
@@ -766,18 +736,15 @@
     },
     "妈": {
       "pinyin": "mā",
-      "english": "mother, mom",
-      "antonym": "爸"
+      "english": "mother, mom"
     },
     "妹": {
       "pinyin": "mèi",
-      "english": "younger sister",
-      "antonym": "姐"
+      "english": "younger sister"
     },
     "姐": {
       "pinyin": "jiě",
-      "english": "older sister",
-      "antonym": "妹"
+      "english": "older sister"
     },
     "姨": {
       "pinyin": "yí",
@@ -793,13 +760,11 @@
     },
     "学": {
       "pinyin": "xué",
-      "english": "study / learn",
-      "antonym": "教"
+      "english": "study / learn"
     },
     "完": {
       "pinyin": "wán",
-      "english": "to finish, complete, end",
-      "antonym": "始"
+      "english": "to finish, complete, end"
     },
     "定": {
       "pinyin": "dìng",
@@ -823,8 +788,7 @@
     },
     "对": {
       "pinyin": "duì",
-      "english": "correct / towards",
-      "antonym": "错"
+      "english": "correct / towards"
     },
     "导": {
       "pinyin": "dǎo",
@@ -832,13 +796,11 @@
     },
     "小": {
       "pinyin": "xiǎo",
-      "english": "small / little",
-      "antonym": "大"
+      "english": "small / little"
     },
     "少": {
       "pinyin": "shǎo",
-      "english": "few / little",
-      "antonym": "多"
+      "english": "few / little"
     },
     "就": {
       "pinyin": "jiù",
@@ -858,8 +820,7 @@
     },
     "左": {
       "pinyin": "zuǒ",
-      "english": "left (direction)",
-      "antonym": "右"
+      "english": "left (direction)"
     },
     "巧": {
       "pinyin": "qiǎo",
@@ -895,8 +856,7 @@
     },
     "干": {
       "pinyin": "gān",
-      "english": "dry / clean (as in 饼干 cookie)",
-      "antonym": "湿"
+      "english": "dry / clean (as in 饼干 cookie)"
     },
     "年": {
       "pinyin": "nián",
@@ -908,13 +868,11 @@
     },
     "开": {
       "pinyin": "kāi",
-      "english": "to open / operate / start",
-      "antonym": "关"
+      "english": "to open / operate / start"
     },
     "弟": {
       "pinyin": "dì",
-      "english": "younger brother",
-      "antonym": "哥"
+      "english": "younger brother"
     },
     "当": {
       "pinyin": "dāng",
@@ -933,8 +891,8 @@
       "english": "very"
     },
     "得": {
-      "pinyin": "de",
-      "english": "particle"
+      "pinyin": "de / děi",
+      "english": "degree complement particle (de); must / have to (děi)"
     },
     "心": {
       "pinyin": "xīn",
@@ -1018,8 +976,7 @@
     },
     "收": {
       "pinyin": "shōu",
-      "english": "to receive, collect",
-      "antonym": "发"
+      "english": "to receive, collect"
     },
     "敦": {
       "pinyin": "dūn",
@@ -1047,18 +1004,15 @@
     },
     "日": {
       "pinyin": "rì",
-      "english": "day / sun",
-      "antonym": "月"
+      "english": "day / sun"
     },
     "旧": {
       "pinyin": "jiù",
-      "english": "old, past, former (as in 旧金山)",
-      "antonym": "新"
+      "english": "old, past, former (as in 旧金山)"
     },
     "早": {
       "pinyin": "zǎo",
-      "english": "early / morning",
-      "antonym": "晚"
+      "english": "early / morning"
     },
     "时": {
       "pinyin": "shí",
@@ -1066,8 +1020,7 @@
     },
     "明": {
       "pinyin": "míng",
-      "english": "tomorrow / bright",
-      "antonym": "昨"
+      "english": "tomorrow / bright"
     },
     "星": {
       "pinyin": "xīng",
@@ -1075,28 +1028,23 @@
     },
     "昨": {
       "pinyin": "zuó",
-      "english": "yesterday",
-      "antonym": "明"
+      "english": "yesterday"
     },
     "是": {
       "pinyin": "shì",
-      "english": "is / are / am",
-      "antonym": "非"
+      "english": "is / are / am"
     },
     "晚": {
       "pinyin": "wǎn",
-      "english": "late / night",
-      "antonym": "早"
+      "english": "late / night"
     },
     "月": {
       "pinyin": "yuè",
-      "english": "month / moon",
-      "antonym": "日"
+      "english": "month / moon"
     },
     "有": {
       "pinyin": "yǒu",
-      "english": "have",
-      "antonym": "没"
+      "english": "have"
     },
     "朋": {
       "pinyin": "péng",
@@ -1112,8 +1060,7 @@
     },
     "末": {
       "pinyin": "mò",
-      "english": "end / final",
-      "antonym": "初"
+      "english": "end / final"
     },
     "本": {
       "pinyin": "běn",
@@ -1129,8 +1076,7 @@
     },
     "来": {
       "pinyin": "lái",
-      "english": "to come / arrive",
-      "antonym": "去"
+      "english": "to come / arrive"
     },
     "杯": {
       "pinyin": "bēi",
@@ -1142,8 +1088,7 @@
     },
     "果": {
       "pinyin": "guǒ",
-      "english": "fruit",
-      "antonym": "因"
+      "english": "fruit"
     },
     "校": {
       "pinyin": "xiào",
@@ -1207,8 +1152,7 @@
     },
     "没": {
       "pinyin": "méi",
-      "english": "have not / no",
-      "antonym": "有"
+      "english": "have not / no"
     },
     "泉": {
       "pinyin": "quán",
@@ -1260,8 +1204,7 @@
     },
     "火": {
       "pinyin": "huǒ",
-      "english": "fire",
-      "antonym": "冰"
+      "english": "fire"
     },
     "点": {
       "pinyin": "diǎn",
@@ -1273,8 +1216,7 @@
     },
     "热": {
       "pinyin": "rè",
-      "english": "hot",
-      "antonym": "冷"
+      "english": "hot"
     },
     "然": {
       "pinyin": "rán",
@@ -1282,8 +1224,7 @@
     },
     "爸": {
       "pinyin": "bà",
-      "english": "father, dad",
-      "antonym": "妈"
+      "english": "father, dad"
     },
     "牙": {
       "pinyin": "yá",
@@ -1347,8 +1288,7 @@
     },
     "男": {
       "pinyin": "nán",
-      "english": "male, man",
-      "antonym": "女"
+      "english": "male, man"
     },
     "百": {
       "pinyin": "bǎi",
@@ -1404,8 +1344,7 @@
     },
     "秋": {
       "pinyin": "qiū",
-      "english": "autumn / fall (season)",
-      "antonym": "春"
+      "english": "autumn / fall (season)"
     },
     "种": {
       "pinyin": "zhǒng",
@@ -1605,8 +1544,7 @@
     },
     "西": {
       "pinyin": "xī",
-      "english": "west",
-      "antonym": "东"
+      "english": "west"
     },
     "要": {
       "pinyin": "yào",
@@ -1730,13 +1668,11 @@
     },
     "这": {
       "pinyin": "zhè",
-      "english": "this",
-      "antonym": "那"
+      "english": "this"
     },
     "进": {
       "pinyin": "jìn",
-      "english": "to advance / enter / come in",
-      "antonym": "出"
+      "english": "to advance / enter / come in"
     },
     "遍": {
       "pinyin": "biàn",
@@ -1748,8 +1684,7 @@
     },
     "那": {
       "pinyin": "nà",
-      "english": "that",
-      "antonym": "这"
+      "english": "that"
     },
     "邮": {
       "pinyin": "yóu",
@@ -1765,8 +1700,7 @@
     },
     "里": {
       "pinyin": "lǐ",
-      "english": "inside / place",
-      "antonym": "外"
+      "english": "inside / place"
     },
     "金": {
       "pinyin": "jīn",
@@ -1866,8 +1800,7 @@
     },
     "高": {
       "pinyin": "gāo",
-      "english": "tall / high",
-      "antonym": "矮"
+      "english": "tall / high"
     },
     "鸟": {
       "pinyin": "niǎo",
@@ -1891,13 +1824,11 @@
     },
     "伯": {
       "pinyin": "bó",
-      "english": "father's elder brother / uncle",
-      "antonym": "叔"
+      "english": "father's elder brother / uncle"
     },
     "脱": {
       "pinyin": "tuō",
-      "english": "to take off / to shed / to escape",
-      "antonym": "穿"
+      "english": "to take off / to shed / to escape"
     },
     "次": {
       "pinyin": "cì",
@@ -1921,13 +1852,11 @@
     },
     "妻": {
       "pinyin": "qī",
-      "english": "wife",
-      "antonym": "夫"
+      "english": "wife"
     },
     "夫": {
       "pinyin": "fū",
-      "english": "husband / man",
-      "antonym": "妻"
+      "english": "husband / man"
     },
     "姑": {
       "pinyin": "gū",
@@ -1935,8 +1864,7 @@
     },
     "爷": {
       "pinyin": "yé",
-      "english": "paternal grandfather / old gentleman",
-      "antonym": "奶"
+      "english": "paternal grandfather / old gentleman"
     },
     "秀": {
       "pinyin": "xiù",
@@ -1948,8 +1876,7 @@
     },
     "冬": {
       "pinyin": "dōng",
-      "english": "winter",
-      "antonym": "夏"
+      "english": "winter"
     },
     "比": {
       "pinyin": "bǐ",
@@ -1957,8 +1884,7 @@
     },
     "春": {
       "pinyin": "chūn",
-      "english": "spring / joyful",
-      "antonym": "秋"
+      "english": "spring / joyful"
     },
     "更": {
       "pinyin": "gèng",
@@ -1982,8 +1908,7 @@
     },
     "冷": {
       "pinyin": "lěng",
-      "english": "cold / chilly",
-      "antonym": "热"
+      "english": "cold / chilly"
     },
     "最": {
       "pinyin": "zuì",
@@ -2011,8 +1936,7 @@
     },
     "长": {
       "pinyin": "zhǎng / cháng",
-      "english": "to grow / elder (zhǎng); long (cháng)",
-      "antonym": "短"
+      "english": "to grow / elder (zhǎng); long (cháng)"
     },
     "蛋": {
       "pinyin": "dàn",
@@ -2040,8 +1964,7 @@
     },
     "湿": {
       "pinyin": "shī",
-      "english": "wet / damp / humid",
-      "antonym": "干"
+      "english": "wet / damp / humid"
     },
     "红": {
       "pinyin": "hóng",
@@ -2093,8 +2016,7 @@
     },
     "近": {
       "pinyin": "jìn",
-      "english": "near / close / recent (as in 最近)",
-      "antonym": "远"
+      "english": "near / close / recent (as in 最近)"
     },
     "园": {
       "pinyin": "yuán",
@@ -2234,13 +2156,11 @@
     },
     "始": {
       "pinyin": "shǐ",
-      "english": "to begin / start (as in 开始)",
-      "antonym": "完"
+      "english": "to begin / start (as in 开始)"
     },
     "新": {
       "pinyin": "xīn",
-      "english": "new / fresh (as in 新课)",
-      "antonym": "旧"
+      "english": "new / fresh (as in 新课)"
     },
     "练": {
       "pinyin": "liàn",
@@ -2252,8 +2172,7 @@
     },
     "错": {
       "pinyin": "cuò",
-      "english": "wrong / mistake / bad",
-      "antonym": "对"
+      "english": "wrong / mistake / bad"
     },
     "寓": {
       "pinyin": "yù",
@@ -2289,8 +2208,7 @@
     },
     "胖": {
       "pinyin": "pàng",
-      "english": "fat / chubby / plump",
-      "antonym": "瘦"
+      "english": "fat / chubby / plump"
     },
     "眼": {
       "pinyin": "yǎn",
@@ -2338,18 +2256,15 @@
     },
     "矮": {
       "pinyin": "ǎi",
-      "english": "short (in stature) / low",
-      "antonym": "高"
+      "english": "short (in stature) / low"
     },
     "瘦": {
       "pinyin": "shòu",
-      "english": "thin / slim / lean",
-      "antonym": "胖"
+      "english": "thin / slim / lean"
     },
     "短": {
       "pinyin": "duǎn",
-      "english": "short (in length) / brief",
-      "antonym": "长"
+      "english": "short (in length) / brief"
     },
     "爱": {
       "pinyin": "ài",
@@ -2381,8 +2296,7 @@
     },
     "远": {
       "pinyin": "yuǎn",
-      "english": "far / distant",
-      "antonym": "近"
+      "english": "far / distant"
     },
     "钟": {
       "pinyin": "zhōng",
@@ -2410,8 +2324,7 @@
     },
     "穿": {
       "pinyin": "chuān",
-      "english": "to wear / to put on / to pierce",
-      "antonym": "脱"
+      "english": "to wear / to put on / to pierce"
     },
     "衣": {
       "pinyin": "yī",
@@ -2455,13 +2368,11 @@
     },
     "笑": {
       "pinyin": "xiào",
-      "english": "to laugh / to smile",
-      "antonym": "哭"
+      "english": "to laugh / to smile"
     },
     "哭": {
       "pinyin": "kū",
-      "english": "to cry / to weep",
-      "antonym": "笑"
+      "english": "to cry / to weep"
     },
     "性": {
       "pinyin": "xìng",
@@ -2473,8 +2384,7 @@
     },
     "教": {
       "pinyin": "jiāo",
-      "english": "to teach / religion",
-      "antonym": "学"
+      "english": "to teach / religion"
     },
     "灰": {
       "pinyin": "huī",
@@ -2494,8 +2404,7 @@
     },
     "浅": {
       "pinyin": "qiǎn",
-      "english": "light (color) / shallow",
-      "antonym": "深"
+      "english": "light (color) / shallow"
     },
     "衬": {
       "pinyin": "chèn",
@@ -2511,8 +2420,7 @@
     },
     "深": {
       "pinyin": "shēn",
-      "english": "dark (color) / deep",
-      "antonym": "浅"
+      "english": "dark (color) / deep"
     },
     "恤": {
       "pinyin": "xù",
@@ -2520,8 +2428,7 @@
     },
     "黑": {
       "pinyin": "hēi",
-      "english": "black / dark",
-      "antonym": "白"
+      "english": "black / dark"
     },
     "连": {
       "pinyin": "lián",
@@ -2545,8 +2452,7 @@
     },
     "白": {
       "pinyin": "bái",
-      "english": "white / blank",
-      "antonym": "黑"
+      "english": "white / blank"
     },
     "棕": {
       "pinyin": "zōng",
@@ -2590,8 +2496,7 @@
     },
     "非": {
       "pinyin": "fēi",
-      "english": "not / non- / extremely (in 非常)",
-      "antonym": "是"
+      "english": "not / non- / extremely (in 非常)"
     },
     "休": {
       "pinyin": "xiū",
@@ -2608,6 +2513,50 @@
     "跟": {
       "pinyin": "gēn",
       "english": "with / and / to follow"
+    },
+    "突": {
+      "pinyin": "tū",
+      "english": "suddenly / to dash"
+    },
+    "紫": {
+      "pinyin": "zǐ",
+      "english": "purple / violet"
+    },
+    "项": {
+      "pinyin": "xiàng",
+      "english": "neck / item"
+    },
+    "链": {
+      "pinyin": "liàn",
+      "english": "chain / necklace"
+    },
+    "首": {
+      "pinyin": "shǒu",
+      "english": "measure word for songs and poems / first"
+    },
+    "歌": {
+      "pinyin": "gē",
+      "english": "song / to sing"
+    },
+    "弹": {
+      "pinyin": "tán",
+      "english": "to play (a stringed or keyboard instrument)"
+    },
+    "钢": {
+      "pinyin": "gāng",
+      "english": "steel"
+    },
+    "琴": {
+      "pinyin": "qín",
+      "english": "musical instrument / piano"
+    },
+    "泳": {
+      "pinyin": "yǒng",
+      "english": "to swim"
+    },
+    "唱": {
+      "pinyin": "chàng",
+      "english": "to sing"
     }
   },
   "cards": [
@@ -16743,6 +16692,501 @@
       "type": "sentence",
       "concept": "body_appearance",
       "date_added": "2026-11-08"
+    },
+    {
+      "id": "card_1571",
+      "hanzi": "昨天很热，30度左右。",
+      "pinyin": "Zuótiān hěn rè, sānshí dù zuǒyòu.",
+      "english": "It was hot yesterday, around 30 degrees.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1572",
+      "hanzi": "今天突然很冷，只有14度。",
+      "pinyin": "Jīntiān tūrán hěn lěng, zhǐ yǒu shísì dù.",
+      "english": "It suddenly got very cold today. It’s only 14 degrees.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1573",
+      "hanzi": "只有",
+      "pinyin": "zhǐyǒu",
+      "english": "only have / there is only",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1574",
+      "hanzi": "突然",
+      "pinyin": "tūrán",
+      "english": "suddenly",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1575",
+      "hanzi": "早上晴天，中午突然下雨了。",
+      "pinyin": "Zǎoshang qíngtiān, zhōngwǔ tūrán xiàyǔ le.",
+      "english": "It was sunny in the morning, but it suddenly started raining at noon.",
+      "type": "sentence",
+      "concept": "weather",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1576",
+      "hanzi": "我只喜欢吃中国菜。",
+      "pinyin": "Wǒ zhǐ xǐhuan chī Zhōngguó cài.",
+      "english": "I only like eating Chinese food.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1577",
+      "hanzi": "紫色",
+      "pinyin": "zǐsè",
+      "english": "purple",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1578",
+      "hanzi": "她嘴唇很性感。",
+      "pinyin": "Tā zuǐchún hěn xìnggǎn.",
+      "english": "Her lips are very sexy.",
+      "type": "sentence",
+      "concept": "body_appearance",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1579",
+      "hanzi": "项链",
+      "pinyin": "xiàngliàn",
+      "english": "necklace",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1580",
+      "hanzi": "你看过她的电影吗？",
+      "pinyin": "Nǐ kàn guo tā de diànyǐng ma?",
+      "english": "Have you seen her movies?",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1581",
+      "hanzi": "你有喜欢的演员吗？",
+      "pinyin": "Nǐ yǒu xǐhuan de yǎnyuán ma?",
+      "english": "Do you have a favorite actor?",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1582",
+      "hanzi": "演",
+      "pinyin": "yǎn",
+      "english": "to act / to perform",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1583",
+      "hanzi": "他演过什么？",
+      "pinyin": "Tā yǎn guo shénme?",
+      "english": "What has he acted in?",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1584",
+      "hanzi": "他演过《The Prestige》。",
+      "pinyin": "Tā yǎn guo 《The Prestige》.",
+      "english": "He was in The Prestige.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1585",
+      "hanzi": "首",
+      "pinyin": "shǒu",
+      "english": "measure word for songs and poems",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1586",
+      "hanzi": "这首歌",
+      "pinyin": "zhè shǒu gē",
+      "english": "this song",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1587",
+      "hanzi": "你听过这首歌吗？",
+      "pinyin": "Nǐ tīng guo zhè shǒu gē ma?",
+      "english": "Have you heard this song?",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1588",
+      "hanzi": "你去过中国吗？",
+      "pinyin": "Nǐ qù guo Zhōngguó ma?",
+      "english": "Have you ever been to China?",
+      "type": "sentence",
+      "concept": "places",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1589",
+      "hanzi": "一件衣服",
+      "pinyin": "yí jiàn yīfu",
+      "english": "one piece of clothing",
+      "type": "word",
+      "concept": "clothing_colors",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1590",
+      "hanzi": "他篮球打得很好。",
+      "pinyin": "Tā lánqiú dǎ de hěn hǎo.",
+      "english": "He plays basketball really well.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1591",
+      "hanzi": "弹",
+      "pinyin": "tán",
+      "english": "to play (a stringed or keyboard instrument)",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1592",
+      "hanzi": "钢琴",
+      "pinyin": "gāngqín",
+      "english": "piano",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1593",
+      "hanzi": "弹钢琴",
+      "pinyin": "tán gāngqín",
+      "english": "to play the piano",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1594",
+      "hanzi": "我老婆会弹一点钢琴。",
+      "pinyin": "Wǒ lǎopó huì tán yìdiǎn gāngqín.",
+      "english": "My wife can play the piano a little.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1595",
+      "hanzi": "我会说一点儿西班牙语。",
+      "pinyin": "Wǒ huì shuō yìdiǎnr Xībānyáyǔ.",
+      "english": "I can speak a little Spanish.",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1596",
+      "hanzi": "我会做很多中国菜。",
+      "pinyin": "Wǒ huì zuò hěn duō Zhōngguó cài.",
+      "english": "I can cook many Chinese dishes.",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1597",
+      "hanzi": "游泳",
+      "pinyin": "yóuyǒng",
+      "english": "to swim / swimming",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1598",
+      "hanzi": "我会游泳。",
+      "pinyin": "Wǒ huì yóuyǒng.",
+      "english": "I can swim.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1599",
+      "hanzi": "但是我游泳游得不太好。",
+      "pinyin": "Dànshì wǒ yóuyǒng yóu de bú tài hǎo.",
+      "english": "But I’m not very good at swimming.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1600",
+      "hanzi": "唱",
+      "pinyin": "chàng",
+      "english": "to sing",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1601",
+      "hanzi": "歌",
+      "pinyin": "gē",
+      "english": "song",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1602",
+      "hanzi": "唱歌",
+      "pinyin": "chànggē",
+      "english": "to sing / to sing a song",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1603",
+      "hanzi": "喜欢唱歌",
+      "pinyin": "xǐhuan chànggē",
+      "english": "to like singing",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1604",
+      "hanzi": "唱汉语歌",
+      "pinyin": "chàng Hànyǔ gē",
+      "english": "to sing Chinese songs",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1605",
+      "hanzi": "我唱歌唱得不太好。",
+      "pinyin": "Wǒ chànggē chàng de bú tài hǎo.",
+      "english": "I don’t sing very well.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1606",
+      "hanzi": "听歌",
+      "pinyin": "tīng gē",
+      "english": "to listen to songs / music",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1607",
+      "hanzi": "喜欢听歌",
+      "pinyin": "xǐhuan tīng gē",
+      "english": "to like listening to songs / music",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1608",
+      "hanzi": "听谁的歌",
+      "pinyin": "tīng shéi de gē",
+      "english": "listen to whose songs",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1609",
+      "hanzi": "不太",
+      "pinyin": "bú tài",
+      "english": "not very",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1610",
+      "hanzi": "最近你忙不忙？",
+      "pinyin": "Zuìjìn nǐ máng bu máng?",
+      "english": "Have you been busy recently?",
+      "type": "sentence",
+      "concept": "time",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1611",
+      "hanzi": "我不太忙。",
+      "pinyin": "Wǒ bú tài máng.",
+      "english": "I’m not very busy.",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1612",
+      "hanzi": "她唱得很好。",
+      "pinyin": "Tā chàng de hěn hǎo.",
+      "english": "She sings very well.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1613",
+      "hanzi": "她唱得不好。",
+      "pinyin": "Tā chàng de bù hǎo.",
+      "english": "She doesn’t sing well.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1614",
+      "hanzi": "她唱得好不好？",
+      "pinyin": "Tā chàng de hǎo bu hǎo?",
+      "english": "Does she sing well?",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1615",
+      "hanzi": "她唱歌唱得很好。",
+      "pinyin": "Tā chànggē chàng de hěn hǎo.",
+      "english": "She sings very well.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1616",
+      "hanzi": "她唱歌唱得不好。",
+      "pinyin": "Tā chànggē chàng de bù hǎo.",
+      "english": "She doesn’t sing well.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1617",
+      "hanzi": "她唱歌唱得好不好？",
+      "pinyin": "Tā chànggē chàng de hǎo bu hǎo?",
+      "english": "Does she sing well?",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1618",
+      "hanzi": "你唱歌唱得好吗？",
+      "pinyin": "Nǐ chànggē chàng de hǎo ma?",
+      "english": "Do you sing well?",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1619",
+      "hanzi": "你唱歌唱得怎么样？",
+      "pinyin": "Nǐ chànggē chàng de zěnmeyàng?",
+      "english": "How well do you sing?",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1620",
+      "hanzi": "爱好",
+      "pinyin": "àihào",
+      "english": "hobby / interest",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1621",
+      "hanzi": "你有什么爱好？",
+      "pinyin": "Nǐ yǒu shénme àihào?",
+      "english": "What are your hobbies?",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1622",
+      "hanzi": "看电影",
+      "pinyin": "kàn diànyǐng",
+      "english": "to watch movies / watch a movie",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1623",
+      "hanzi": "旅游",
+      "pinyin": "lǚyóu",
+      "english": "to travel / tourism",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1624",
+      "hanzi": "网球",
+      "pinyin": "wǎngqiú",
+      "english": "tennis",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
+    },
+    {
+      "id": "card_1625",
+      "hanzi": "打网球",
+      "pinyin": "dǎ wǎngqiú",
+      "english": "to play tennis",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-11"
     }
   ],
   "types": [
@@ -16764,6 +17208,12 @@
     }
   ],
   "dates": [
+    {
+      "id": "2026-11-11",
+      "label": "Nov 11, 2026",
+      "count": 55,
+      "description": "Degree complement (得), past experience (过), singing & music, hobbies (爱好), sudden weather (突然)"
+    },
     {
       "id": "2026-11-08",
       "label": "Nov 8, 2026",
