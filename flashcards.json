@@ -1,8 +1,8 @@
 {
   "feed_version": "2.0.0",
   "version": "2.0.0",
-  "total_cards": 1648,
-  "last_updated": "2026-11-13",
+  "total_cards": 1699,
+  "last_updated": "2026-11-15",
   "concepts": [
     {
       "id": "all",
@@ -1545,7 +1545,8 @@
     },
     "花": {
       "pinyin": "huā",
-      "english": "flower / to spend (money, time)"
+      "english": "flower / to spend (money, time)",
+      "antonym": "赚"
     },
     "英": {
       "pinyin": "yīng",
@@ -2166,7 +2167,8 @@
     },
     "真": {
       "pinyin": "zhēn",
-      "english": "truly / really / genuine / real"
+      "english": "truly / really / genuine / real",
+      "antonym": "幻"
     },
     "宜": {
       "pinyin": "yí",
@@ -2676,6 +2678,68 @@
     "越": {
       "pinyin": "yuè",
       "english": "to exceed / Vietnam"
+    },
+    "爆": {
+      "pinyin": "bào",
+      "english": "to explode / to pop / burst"
+    },
+    "赛": {
+      "pinyin": "sài",
+      "english": "competition / match / game"
+    },
+    "橄": {
+      "pinyin": "gǎn",
+      "english": "olive (in 橄榄球 American football / rugby)"
+    },
+    "榄": {
+      "pinyin": "lǎn",
+      "english": "olive (in 橄榄球 American football / rugby)"
+    },
+    "情": {
+      "pinyin": "qíng",
+      "english": "feeling / emotion / love / situation"
+    },
+    "科": {
+      "pinyin": "kē",
+      "english": "science / branch of study / department"
+    },
+    "幻": {
+      "pinyin": "huàn",
+      "english": "fantasy / illusion / magical",
+      "antonym": "真"
+    },
+    "历": {
+      "pinyin": "lì",
+      "english": "history / experience / calendar"
+    },
+    "史": {
+      "pinyin": "shǐ",
+      "english": "history / annals"
+    },
+    "录": {
+      "pinyin": "lù",
+      "english": "to record / register (in 纪录片 documentary)"
+    },
+    "摄": {
+      "pinyin": "shè",
+      "english": "to photograph / to shoot (in 摄影 photography)"
+    },
+    "赚": {
+      "pinyin": "zhuàn",
+      "english": "to earn / to make a profit",
+      "antonym": "花"
+    },
+    "懂": {
+      "pinyin": "dǒng",
+      "english": "to understand / to know"
+    },
+    "编": {
+      "pinyin": "biān",
+      "english": "to compile / to write code (in 编程 programming)"
+    },
+    "言": {
+      "pinyin": "yán",
+      "english": "speech / word / language (in 语言 language)"
     }
   },
   "cards": [
@@ -17513,6 +17577,465 @@
       "type": "sentence",
       "concept": "places",
       "date_added": "2026-11-13"
+    },
+    {
+      "id": "card_1649",
+      "hanzi": "你最近有时间听歌吗？",
+      "pinyin": "Nǐ zuìjìn yǒu shíjiān tīng gē ma?",
+      "english": "Do you have time to listen to music recently?",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1650",
+      "hanzi": "一边",
+      "pinyin": "yìbiān",
+      "english": "at the same time / while / one side",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1651",
+      "hanzi": "一边……一边……",
+      "pinyin": "yìbiān... yìbiān...",
+      "english": "while doing one thing, doing another",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1652",
+      "hanzi": "一边工作，一边听歌。",
+      "pinyin": "Yìbiān gōngzuò, yìbiān tīng gē.",
+      "english": "Listen to music while working.",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1653",
+      "hanzi": "你喜欢一边吃饭，一边看电视吗？",
+      "pinyin": "Nǐ xǐhuan yìbiān chīfàn, yìbiān kàn diànshì ma?",
+      "english": "Do you like watching TV while eating?",
+      "type": "sentence",
+      "concept": "food",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1654",
+      "hanzi": "新电影",
+      "pinyin": "xīn diànyǐng",
+      "english": "new movie",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1655",
+      "hanzi": "是新电影吗？",
+      "pinyin": "Shì xīn diànyǐng ma?",
+      "english": "Is it a new movie?",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1656",
+      "hanzi": "不是新电影，是2010年的电影。",
+      "pinyin": "Bú shì xīn diànyǐng, shì èr líng yī líng nián de diànyǐng.",
+      "english": "It’s not a new movie. It’s a movie from 2010.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1657",
+      "hanzi": "爆米花",
+      "pinyin": "bàomǐhuā",
+      "english": "popcorn",
+      "type": "word",
+      "concept": "food",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1658",
+      "hanzi": "下次打算去墨西哥旅游。",
+      "pinyin": "Xiàcì dǎsuan qù Mòxīgē lǚyóu.",
+      "english": "I plan to travel to Mexico next time.",
+      "type": "sentence",
+      "concept": "places",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1659",
+      "hanzi": "我打算5:30下课。",
+      "pinyin": "Wǒ dǎsuan wǔ diǎn bàn xiàkè.",
+      "english": "I plan to finish class at 5:30.",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1660",
+      "hanzi": "下课后，你打算做什么？",
+      "pinyin": "Xiàkè hòu, nǐ dǎsuan zuò shénme?",
+      "english": "What are you planning to do after class?",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1661",
+      "hanzi": "比赛",
+      "pinyin": "bǐsài",
+      "english": "match / game / competition",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1662",
+      "hanzi": "足球比赛",
+      "pinyin": "zúqiú bǐsài",
+      "english": "soccer match",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1663",
+      "hanzi": "篮球比赛",
+      "pinyin": "lánqiú bǐsài",
+      "english": "basketball game",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1664",
+      "hanzi": "网球比赛",
+      "pinyin": "wǎngqiú bǐsài",
+      "english": "tennis match",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1665",
+      "hanzi": "看网球比赛",
+      "pinyin": "kàn wǎngqiú bǐsài",
+      "english": "to watch a tennis match",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1666",
+      "hanzi": "橄榄球",
+      "pinyin": "gǎnlǎnqiú",
+      "english": "American football / rugby",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1667",
+      "hanzi": "橄榄球比赛",
+      "pinyin": "gǎnlǎnqiú bǐsài",
+      "english": "rugby match / American football game",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1668",
+      "hanzi": "什么电影？",
+      "pinyin": "Shénme diànyǐng?",
+      "english": "What kind of movie?",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1669",
+      "hanzi": "爱情",
+      "pinyin": "àiqíng",
+      "english": "romance / romantic love",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1670",
+      "hanzi": "爱情电影",
+      "pinyin": "àiqíng diànyǐng",
+      "english": "romance / romantic movie",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1671",
+      "hanzi": "动作",
+      "pinyin": "dòngzuò",
+      "english": "action / movement",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1672",
+      "hanzi": "动作片",
+      "pinyin": "dòngzuòpiàn",
+      "english": "action movie",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1673",
+      "hanzi": "科幻",
+      "pinyin": "kēhuàn",
+      "english": "science fiction / sci-fi",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1674",
+      "hanzi": "科幻片",
+      "pinyin": "kēhuànpiàn",
+      "english": "science fiction movie / sci-fi movie",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1675",
+      "hanzi": "历史",
+      "pinyin": "lìshǐ",
+      "english": "history",
+      "type": "word",
+      "concept": "work_school",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1676",
+      "hanzi": "历史片",
+      "pinyin": "lìshǐpiàn",
+      "english": "historical movie",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1677",
+      "hanzi": "纪录片",
+      "pinyin": "jìlùpiàn",
+      "english": "documentary",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1678",
+      "hanzi": "摄影",
+      "pinyin": "shèyǐng",
+      "english": "photography",
+      "type": "word",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1679",
+      "hanzi": "赚",
+      "pinyin": "zhuàn",
+      "english": "to earn / make a profit",
+      "type": "word",
+      "concept": "shopping",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1680",
+      "hanzi": "赚钱",
+      "pinyin": "zhuànqián",
+      "english": "to earn money / make money",
+      "type": "word",
+      "concept": "shopping",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1681",
+      "hanzi": "赚很多钱。",
+      "pinyin": "Zhuàn hěn duō qián.",
+      "english": "To earn a lot of money.",
+      "type": "sentence",
+      "concept": "shopping",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1682",
+      "hanzi": "懂",
+      "pinyin": "dǒng",
+      "english": "to understand / know",
+      "type": "word",
+      "concept": "verbs_adjectives",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1683",
+      "hanzi": "听不懂",
+      "pinyin": "tīng bu dǒng",
+      "english": "cannot understand (by listening)",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1684",
+      "hanzi": "我听不懂汉语歌。",
+      "pinyin": "Wǒ tīng bu dǒng Hànyǔ gē.",
+      "english": "I can’t understand Chinese songs.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1685",
+      "hanzi": "编程",
+      "pinyin": "biānchéng",
+      "english": "programming / coding",
+      "type": "word",
+      "concept": "work_school",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1686",
+      "hanzi": "电脑编程",
+      "pinyin": "diànnǎo biānchéng",
+      "english": "computer programming",
+      "type": "word",
+      "concept": "work_school",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1687",
+      "hanzi": "我大学老师教我电脑编程。",
+      "pinyin": "Wǒ dàxué lǎoshī jiāo wǒ diànnǎo biānchéng.",
+      "english": "My university teacher taught me computer programming.",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1688",
+      "hanzi": "你的爱好多不多？",
+      "pinyin": "Nǐ de àihào duō bu duō?",
+      "english": "Do you have many hobbies?",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1689",
+      "hanzi": "语言",
+      "pinyin": "yǔyán",
+      "english": "language",
+      "type": "word",
+      "concept": "work_school",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1690",
+      "hanzi": "他会说四种语言。",
+      "pinyin": "Tā huì shuō sì zhǒng yǔyán.",
+      "english": "He can speak four languages.",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1691",
+      "hanzi": "我不会打网球。",
+      "pinyin": "Wǒ bú huì dǎ wǎngqiú.",
+      "english": "I don’t know how to play tennis.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1692",
+      "hanzi": "不过",
+      "pinyin": "búguò",
+      "english": "but / however",
+      "type": "word",
+      "concept": "phrases",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1693",
+      "hanzi": "教汉语",
+      "pinyin": "jiāo Hànyǔ",
+      "english": "to teach Chinese",
+      "type": "word",
+      "concept": "work_school",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1694",
+      "hanzi": "老师教我汉语。",
+      "pinyin": "Lǎoshī jiāo wǒ Hànyǔ.",
+      "english": "The teacher teaches me Chinese.",
+      "type": "sentence",
+      "concept": "work_school",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1695",
+      "hanzi": "你喜欢唱歌吗？",
+      "pinyin": "Nǐ xǐhuan chànggē ma?",
+      "english": "Do you like singing?",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1696",
+      "hanzi": "我喜欢听歌，唱歌唱得不太好。",
+      "pinyin": "Wǒ xǐhuan tīng gē, chànggē chàng de bú tài hǎo.",
+      "english": "I like listening to music, (but) I don’t sing very well.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1697",
+      "hanzi": "是吗？你的爱好真多！",
+      "pinyin": "Shì ma? Nǐ de àihào zhēn duō!",
+      "english": "Really? You have so many hobbies!",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1698",
+      "hanzi": "我也喜欢网球，不过我不会打。",
+      "pinyin": "Wǒ yě xǐhuan wǎngqiú, búguò wǒ bú huì dǎ.",
+      "english": "I also like tennis, but I don’t know how to play.",
+      "type": "sentence",
+      "concept": "sports_hobbies",
+      "date_added": "2026-11-15"
+    },
+    {
+      "id": "card_1699",
+      "hanzi": "没关系，我教你。",
+      "pinyin": "Méi guānxi, wǒ jiāo nǐ.",
+      "english": "It’s okay, I’ll teach you.",
+      "type": "sentence",
+      "concept": "greetings",
+      "date_added": "2026-11-15"
     }
   ],
   "types": [
@@ -17534,6 +18057,12 @@
     }
   ],
   "dates": [
+    {
+      "id": "2026-11-15",
+      "label": "Nov 15, 2026",
+      "count": 51,
+      "description": "Simultaneous actions (一边…一边…), movie genres, sports matches (比赛), photography & coding, teaching (教) & 不过"
+    },
     {
       "id": "2026-11-13",
       "label": "Nov 13, 2026",
